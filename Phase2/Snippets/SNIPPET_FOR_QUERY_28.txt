@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2949
+distributed computer ***network*** correctness proofs computer ***networks*** distributed control ***network*** topology ***routing*** problem in ***networks*** distributed operating system 
+... a correctness proof of a topology ***information*** main tenance protocol for a distributed computer ***network*** in order for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3032
+***algorithms*** for accomplishing this delivery through a store and forward ***packet*** switching computer ***network*** include 1 transmission of 
+... to this list of ***algorithms*** we add 6 reverse path forwarding a broadcast ***routing*** method which exploits ***routing*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2892
+some measurements of line efficiency for the arpanet are presented and by extrapolation these measurements are used to 
+... arpanet computer communication ***networks*** interprocess communication measurement ***packet*** switching performance evaluation and efficiency resource sharing 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1846
+on simulating ***networks*** of parallel processes in which simultaneous events may occur some of the problems of simulating 
+... simulation parallel processes simultaneous events picture processing computer system simulation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3158
+secure personal computing in an insecure ***network*** a method for implementing secure personal computing in a ***network*** with 
+... each user is responsible for his own security and need not rely on the security of the central 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2890
+these models show that adaptive ***routing*** does not satisfy the necessary conditions for an optimal ***routing*** adaptive ***routing*** 
+... on quadratic adaptive ***routing*** ***algorithms*** two analytic models of a store and forward communications ***network*** are constructed one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2849
+computer ***networks*** ***packet*** switching multiprocessing distributed control distributed computing broadcast communication statistical arbitration 3 
+... ethernet distributed ***packet*** switching for local computer ***networks*** ethernet is a branching broadcast communication system for carrying digital 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2776
+computer ***networks*** in higher education socio economic political factors this study presents the results of a nationwide survey 
+... the five major ***networks*** included the arpa net the california state college ***network*** the university of iowaiowa state 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0828
+incompressible flow ***network*** calculations a general method for the calculation of flows and pressures in fluid flow ***networks*** 
+... ca630621 jb march 14 1978 1003 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2614
+arrow to precedence ***network*** transformation h algorithm a481 cacm august 1974 crandall k 
+... critical path ***networks*** precedence ***networks*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3040
+an algorithm is developed that can achieve any level of consistency desired in order to preprocess the problem 
+... synthesizing constraint expressions a constraint ***network*** representation is presented for a combinatorial search problem finding values for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2951
+the research clearly reveals that sufficient system data are currently obtainable at least for the five diverse arpa 
+... analytical simulation and statistical performance evaluation tools are employed to investigate the feasibility of a dynamic response time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2371
+a system for interprocess communication in a resource sharing computer ***network*** a system of communication between processes in 
+... the hypothetical application of the system to an existing ***network*** is discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2515
+***network*** project event node ***network*** activity node ***network*** minimal event node ***network*** dummy activity project precedence relations 3 
+... minimal event node ***network*** of project precedence relations a procedure for constructing a minimal event node ***network*** to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1261
+the digital ***network*** is modeled as a set of time dependent or time independent boolean transformations each transformation 
+... modeling and simulation of digital ***networks*** the simulation of digital ***networks*** on a digital computer provides the engineer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2274
+generating english discourse from semantic ***networks*** a system is described for generating english sentences from a form of 
+... the system is designed for use as a computational tool that allows a linguist to develop and study 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1685
+gan a system for generating and analyzing activity ***networks*** gan a system for generating activity ***networks*** is designed 
+... activity ***network*** management project standard ***network*** ***network*** generator ***network*** assembler activity ***network*** analysis ***network*** calculation ***network*** program 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1723
+an algorithm is given for constructing project ***networks*** directly from the project precedence relations 
+... the algorithm creates dummy activities and topologically orders the arcs and nodes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2969
+optimal program and data locations in computer ***networks*** an optimization procedure for the allocation of program and data 
+... this algorithm takes into account the dependencies between files and programs such as occur in real heterogeneous computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1397
+proceedings of the acm symposium on symbolic and algebraic manipulation the acm symposium on symbolic and algebraic manipulation 
+... the conference was sponsored by the acm special ***interest*** committee on symbolic and algebraic manipulation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0441
+topological sorting of large ***networks*** topological sorting is a procedure required for many problems involving analysis of ***networks*** 
+... it permits treatment of larger ***networks*** than can be handled on present procedures and achieves this with greater 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2712
+horners rule for the evaluation of general closed queueing ***networks*** the solution of separable closed queueing ***networks*** requires 
+... it is also shown how mean queue size and throughput an be obtained at negligible extra cost once 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3133
+on the other hand by regarding semantic ***networks*** as an abstract data structure for the representation of clauses 
+... logic and semantic ***networks*** an extended form of semantic ***network*** is defined which can be regarded as a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1611
+the critical path algorithm incorporated in the c e i r proprietary scheduling system ramps resource allocation and 
+... scheduling project ***networks*** some of the basic concepts and terminology of project networking are developed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2900
+the problem of finding the optimal set of ***network*** sites at which to locate copies of a file 
+... in this paper we present three theorems which can be applied a priori to indicate that certain sites 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2046
+a relational model of data for large shared data banks future users of large data banks must be 
+... data bank data base data structure data organization hierarchies of data ***networks*** of data relations derivability redundancy consistency 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1695
+plexus an on line system for modeling neural ***networks*** a description is presented of plexus a system which 
+... biological modeling data analysis discrete system simulation library systems modeling ***network*** simulation neural ***networks*** neurophysiological models on line 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1928
+the main results obtained are a clear and useful separation of structural and behavioral model description a reduction 
+... essential objectives sought are improved ease and economy in model generation economy in execution time and space and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2197
+the merit of regional computing ***networks*** one of the suggested means for stimulating the spread of computing capabilities 
+... computer sharing computer utility cooperative ***networks*** curriculum development educational computing ***network*** computing regional computing ***networks*** remote computing shared 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2401
+problems regarding merging and disconnection of patterns during the process as well as the determination of the maximum 
+... on shrinking binary picture patterns a parallel processing algorithm for shrinking binary patterns to obtain single isolated elements 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2630
+on computing sets of shortest paths in a graph two ***algorithms*** are presented that construct the k shortest 
+... these ***algorithms*** generalize the floyd algorithm and the dantzig algorithm for finding the shortest path between every pair 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2948
+the system consists of a communications computer directly connected to the time shared system a number of small 
+... the overall system design is presented along with the ***algorithms*** used to solve three specific problems local echoing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+an 80 column ibm card is divided into two fields reference material field columns 1 67 and identification 
+... a card format for reference files in ***information*** processing this paper proposes a card format suitable for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1034
+the technique is designed to alleviate some of the principal problems that beset current analysis large data workloads 
+... the analysis is geared to determining workload relationships and storage characteristics of documents in the ***information*** ***network*** automatically 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2327
+automata theory brain theory ***network*** complexity resolution of redundancy of potential command frog visual system reticular formation mode 
+... this paper suggests the ways in which automata theory might evolve over the next 25 years if it 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1989
+structure building actions associated with the arcs of the grammar ***network*** allow for the reordering restructuring and copying 
+... transition ***network*** grammars for natural language analysis the use of augmented transition ***network*** grammars for the analysis of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0383
+on finding minimum routes in a ***network*** with turn penalties cacm february 1961 caldwell t 
+... ca610215 jb march 17 1978 1249 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0517
+ca620811 jb march 17 1978 944 pm 
+... evaluation of pert ***network*** algorithm 119 cacm august 1962 eisenman b 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0757
+ca630841 jb march 13 1978 755 pm 
+... simulation of a traffic ***network*** cacm august 1963 katz j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0616
+it is hoped that this report will be read a with avid ***interest*** by programming language designers and 
+... an ***information*** algebra phase i report language structure group of the codasyl development committee this report represents the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2289
+a major challenge in the effective use of cellular arrays for the solution of graph problems is the 
+... in this paper it is shown that cellular arrays are inherently well suited for the solution of many 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3164
+progressive acyclic digraphs a tool for database integrity a progressive acyclic digraph pad algorithm accepts are requests and 
+... experiments suggest that for large n the second is considerably faster though both are asymptotically onr where n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1623
+this paper is more concerned with the use of programming techniques in formac than with the actual engineering 
+... an application of formac a nonlinear circuit analysis problem is stated and the way in which it was 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2625
+implementation of capability based addressing is discussed 
+... capability based addressing various addressing schemes making use of segment tables are examined 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0036
+a queue ***network*** simulator for the ibm 650 and burroughs 220 cacm december 1959 conway r 
+... ca591206 jb march 22 1978 335 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1687
+capacitated ***network*** linear programming minimum cost flow ***network*** flow out of kilter 5 
+... 41 ca680914 jb february 21 1978 429 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1688
+capacitated ***network*** linear programming minimum cost flow ***network*** flow out of kilter 5 
+... netflow algorithm 248 h cacm september 1968 henderson j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1776
+41 ca680206 jb february 23 1978 1202 pm 
+... maxflow algorithm 324 h cacm february 1968 bayer g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1822
+shortest path forest with topological ordering algorithm h cacm november 1969 dial r 
+... shortest path tree ***network*** directed graph 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2088
+capacitated ***network*** linear programming minimum cost flow ***network*** flow out of kilter 5 
+... 41 ca700310 jb february 13 1978 344 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3076
+electronic funds transfer systems social impacts of computing privacy social choice computer ***networks*** ***network*** reliability security social values 
+... value conflicts and social choice in electronic funds transfer system developments during the last few years computer based 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0367
+topological ordering of a list of randomly numbered elements of a ***network*** a ***network*** of directed line segments 
+... given a list of these lines in numeric order a simple technique can be used to create at 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2894
+in teractive system computer service measurement performance external measurement methodology measurement modelnetwork measurement system measures figure of merit 
+... its primary purpose is to enable external user oriented assessment of computer performance instead of the more frequently 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2380
+tenex a paged time sharing system for the pdp 10 tenex is a new time sharing system implemented 
+... this report specifies a set of goals which are important for any time sharing system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2402
+pictorial pattern recognition phase problem x ray crystallography interactive graphics 3 
+... pictorial pattern recognition and the phase problem of x ray crystallography the availability of interactive three dimensional computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2973
+sorting on a mesh connected parallel computer two ***algorithms*** are presented for sorting n2 elements on an n 
+... parallel computer parallel sorting parallel merge ***routing*** and comparison steps perfect shuffle 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1690
+capacitated ***network*** linear programming minimum cost flow ***network*** flow out of kilter 5 
+... 41 ca680911 jb february 21 1978 435 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1704
+minimum excess cost curve algorithm 217 h cacm august 1968 muth j 
+... critical path scheduling pert costtime tradeoffs ***network*** flows 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1890
+traffic simulation traffic flow traffic ***network*** traffic control traffic density intersection signal setting vehicle road ***network*** list structure 
+... this simulation scheme has its excellent point in that it makes it possible to trace the dynamic behavior 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1856
+the teachable language comprehender a simulation program and theory of language the teachable language comprehender tlc is a 
+... natural language processing natural language comprehension teachable computer program psychological simulation human memory simulation computer linguistics linguistic performance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2198
+introduction to feature analysis of generalized data base management systems this paper is a separately published introduction to 
+... cacm may 1971 codasyl systems committee data base management systems programming languages data structures storage structures ***information*** retrieval 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2396
+examples are presented to demonstrate how the model interprets text resolves ambiguities adds ***information*** to memory generalizes from 
+... muse a model to understand simple english muse is a computer model for natural language processing based on 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2306
+ancient babylonian ***algorithms*** the early origins of mathematics are discussed emphasizing those aspects which seem to be of 
+... a number of old babylonian tablets many of which have never before been translated into english are quoted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3038
+example protocols are presented for the establishment of authenticated connections for the management of authenticated mail and for 
+... using encryption for authentication in large ***networks*** of computers use of encryption to achieve authenticated communication in computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2450
+although the words working set are now commonly encountered in the literature ***dealing*** with resource allocation there is 
+... empirical working set behavior the working set model for program behavior has been proposed in recent years as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1601
+parallel numerical methods for the solution of equations classical iterative procedures for the numerical solution of equations provide 
+... several families of numerical procedures which use the technique of the procedures in a parallel processing environment are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2454
+computational ***algorithms*** for closed queueing ***networks*** with exponential servers methods are presented for computing the equilibrium distribution of 
+... the computational ***algorithms*** are based on two dimensional iterative techniques which are highly efficient and quite simple to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2568
+the object of this paper is to generalize the definition of largest strongly connected subgraph to include the 
+... a graph formulation of a school scheduling algorithm the problem classically titled the examination schedule problem takes various 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2445
+***routing*** problem shortest path traveling salesman problem hamiltonian circuit 5 
+... 40 ca730910 jb january 23 1978 847 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0322
+operational compatibility of systems conventions the general standards committee of the share organization has devoted considerable effort to 
+... each of these programming systems has been coded to utilize a fixed set of ***hardware*** components without recognizing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3127
+thoth a portable real time operating system thoth isa real time operating system which is designed to be 
+... thoth encourages structuring programs as ***networks*** of communicating processes by providing efficient interprocess communication primitives 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2581
+a locally organized parser for spoken input this paper describes lpars a locally organized parsing system designed for 
+... the system is locally organized in the sense that it builds local parse structures from reliable word candidates 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2718
+in this approach the goal of design is to derive a data structure which is capable of supporting 
+... an operational computer program is described which utilizers the functional approach to design data structures conforming to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2934
+comment on computing the k shortest paths in a graph cacm august 1977 lawler e 
+... graph ***network*** shortest path algorithm ranking 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2988
+memory management and response time this paper presents a computationally tractable methodology for including accurately the effects of 
+... relations between workload variables such as memory requirement distribution and job swap time and performance measures such as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3059
+models for parallel processing within programs application to cpuio and ioio overlap approximate queueing models for internal parallel 
+... the percentage performance improvement from cpuio overlap is found to be greatest for systems which are in approximate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3070
+hybrid simulation models of computer systems this paper describes the structure and operation of a hybrid simulation model 
+... in an example based on a simple hypothetical computer system discrete event simulation is used to model the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3111
+secure communications over insecure channels according to traditional conceptions of cryptographic security it is necessary to transmit a 
+... security cryptography cryptology communications security wiretap computer ***network*** security passive eavesdropping key distribution public key cryptosystem 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3172
+an algorithm for planning collision free paths among polyhedral obstacles this paper describes a collision avoidance algorithm for 
+... trajectories are found by searching a ***network*** which indicates for each vertex in the transformed obstacles which other 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1770
+rules of ethics in ***information*** processing the background and motivation for the adoption by the acm council on 
+... the purpose is to inform about this important aspect of our profession as well as to stimulate thought 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2562
+ca741212 jb january 13 1978 342 pm 
+... ***routing*** problem algorithm r456 cacm december 1974 tesch g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2016
+these tools include special ***hardware*** clocks and data channels general purpose programmed probing and recording tools and specialized 
+... instrumentation performance measurement multiprogramming systems measuring tools system analysis multics metering event tracing demand paging script driven measurement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3131
+focus has the wide ranging character of floating point numbers with a uniformity of state distributions that give 
+... focus computations are typically five times faster than single precision fixed point or integer arithmetic for a mixture 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2880
+a fast division technique for constant divisors a fast algorithm for division by constant divisors is presented 
+... the method has proved very useful implemented as microcode ona binary machine and can be adapted directly into 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0944
+such trees have ***information*** storage and retrieval properties applicable to problems involving large quantities of data or to 
+... storage and search properties of a tree organized memory system a memory with list properties 1 may be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2254
+dynamic partitioning array partitioning array language data structure tree structure programming language design array control blocks partition control 
+... dynamic partitioning for array languages the classical process of partitioning an array into subarrays is extended to a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1811
+it is shown that with proper programming solution time when n processors are applied approaches 1n times the 
+... communication between cooperating processors is by means of data in storage shared by all processors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1889
+introducing computing to smaller colleges and universities a progress report by technical means that are now routine computer 
+... regional ***network*** introducing computing under graduate education instructional usage academic applications curriculum development orientation project regional center consortium 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2059
+a language for treating graphs a language for the representation of graph is described and the formulation of 
+... graphs oriented nonoriented multiple colored graph language extended algol operator precedence syntax driven compiler operation research ***network*** traffic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1181
+a simple data transmission system using the office telephone a method has evolved for transmitting data of a 
+... present applications include cardiac output calculations ***radio*** activity tracer studies and neurophysiology time sequence studies of nerve impulses 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1199
+in this paper a mathematical model of the lockheed central computer center is formulated that describes the operation 
+... a computer center simulation project todays computation centers are based on rapidly changing technologies of ***hardware*** and software 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2311
+a generational perspective of ***information*** system development system development is categorized from a generational point of view that 
+... computing milieu management data processing ***hardware*** systems software systems systems development process functional systems management systems 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2516
+equations are derived to predict the effect of such a system on data access times using sequential files 
+... hierarchical storage in ***information*** retrieval a probabilistic analysis is employed to determine the effect of hierarchical storage organizations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1745
+a position paper on computing and communications the effective operation of free enterprise in creating the envisioned ***information*** 
+... ***information*** ***networks*** ***information*** systems computing and free enterprise computing economics computer installation management government regulation communications services distributed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2593
+data base management ***information*** retrieval computer configurations computer ***networks*** data base task group language data base protection data 
+... a back end computer for data base management it is proposed that the data base management function be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2967
+a comparison of ***hardware*** and software associative memories in the context of computer graphics the associative processing of 
+... associative memory associative processor content addressable memory graphics ***information*** retrieval data structures software evaluation ***hardware*** evaluation parallel processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2433
+control structures in illiac iv fortran as part of an effort to design and implement a fortran compiler 
+... the implications of these features for data layout and algorithm structure are discussed and the conclusion is drawn 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2665
+that result demonstrates that marking can be done in average time nlogn without the aid of supplemental tag 
+... any noncyclic structure is copied in linear speed while cyclic structures are copied in average time less than 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3153
+the control of response times in multi class systems by memory allocations the possibility of giving different quality 
+... initially a closed system consisting of a process or and paging and file devices with fixed numbers of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1844
+multiple terminal systems terminal oriented systems multiple processor systems high availability conversational systems general purpose time sharing systems 
+... a modular computer sharing system an alternative approach to the design and organization of a general purpose interactive 

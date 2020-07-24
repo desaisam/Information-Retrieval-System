@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1954
+***eigenvalues*** and ***eigenvectors*** of a ***real*** symmetric matrix algorithm 384 f2 cacm december ***1970*** ***stewart*** g 
+... ***real*** symmetric matrix ***eigenvalues*** ***eigenvectors*** qr algorithm 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2043
+***eigenvalues*** and ***eigenvectors*** of a ***real*** symmetric matrix f2 algorithm 384 cacm june ***1970*** ***stewart*** g 
+... ***real*** symmetric matrix ***eigenvalues*** ***eigenvectors*** qr algorithm 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3016
+a comparison of ***numerical*** techniques in markov modeling this paper presents several ***numerical*** methods which may be used 
+... a post mortem reveals why standard techniques often fail to yield the correct results 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2047
+incorporating origin shifts into the qr algorithm for symmetric tridiagonal ***matrices*** the qr iteration for the ***eigenvalues*** of 
+... both methods have drawbacks the direct method can unnecessarily degrade small ***eigenvalues*** while the implicit method can effectively 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2697
+***numerical*** ***linear*** algebra ***linear*** systems toeplitz ***matrices*** tridiagonal ***matrices*** 5 5 
+... a fast method for solving a class of tridiagonal ***linear*** systems the solution of ***linear*** systems having ***real*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2284
+solution of the matrix equation axxbc f4 algorithm a432 cacm september 1972 bartels r 
+... 14 ca720906 jb january 27 1978 431 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1809
+the ***numerical*** ***analysis*** program in the computer science department should emphasize an awareness of the problems of computer 
+... computer science program ***numerical*** ***analysis*** is the study of methods and procedures used to obtain ***approximate*** solutions to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1963
+***matrices*** condition numbers pei ***matrices*** ***eigenvectors*** ***eigenvalues*** 5 
+... 14 ca701116 jb february 9 1978 421 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2335
+***eigenvalues*** and ***eigenvectors*** of a ***real*** general matrix algorithm r343 cacm june 1972 niessner h 
+... ***eigenvalues*** ***eigenvectors*** qr algorithm nonsymmetric ***matrices*** general ***matrices*** ****** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2281
+the eigen problem of block tridiagonal ***matrices*** cacm september 1972 khalil h 
+... 17 ca720909 jb january 27 1978 418 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2806
+two hadamard numbers for ***matrices*** a discussion is given of two functions of the entries of a square 
+... ***matrices*** ***eigenvalues*** norms condition numbers ***error*** ***analysis*** gram schmidt orthogonalization 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1692
+***numerical*** solution of a thin plate heat transfer problem the ***numerical*** solution of a system of ***linear*** equations 
+... heat transfer problem poisson equation boundary value problem thin domain successive overrelaxation sor block sor 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2554
+reduction of a band symmetric generalized ***eigenvalue*** problem an algorithm is described for reducing the generalized ***eigenvalue*** problem 
+... the round off ***error*** in the calculation of c is of the same order as the sum of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3153
+the control of response times in multi class systems by memory allocations the possibility of giving different quality 
+... initially a ***closed*** system consisting of a process or and paging and file devices with fixed numbers of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2695
+consider the class of sparse ***matrices*** which can be tridiagonalized using only row and corresponding column permutations 
+... tridiagonalization by permutations tridiagonalizing a matrix by similarity transformations is an important computational tool in ***numerical*** ***linear*** algebra 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2213
+roots of matrix pencils the generalized ***eigenvalue*** problem f2 algorithm 405 cacm february ***1971*** dell a 
+... ***eigenvalues*** matrix roots pencil roots 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2820
+the design and implementation of a table driven interactive diagnostic programming system caps is a highly interactive diagnostic 
+... most components of caps are table driven both to reduce the space needed for implementation and to increase 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1766
+quasilinearization and the estimation of differential ***operators*** from ***eigenvalues*** given a ***linear*** ordinary differential operator containing several unknown 
+... quasilinearization ***eigenvalues*** differential ***operators*** nonlinear boundary value problems inverse problemsdifferential equations system identification 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1271
+secondary key retrieval using an ibm 7090 1301 system the secondary key retrieval method involves the preparation of 
+... search requests are satisfied by logical operations on appropriate lists producing a complete set of addresses of primary 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1968
+***eigenvalues*** ***eigenvectors*** latent roots householders method qr algorithm inverse iteration 5 
+... ***eigenvalues*** and ***eigenvectors*** of a ***real*** general matrix algorithm 343 f1 cacm november ***1970*** knight w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2887
+a study of errors ***error*** proneness and ***error*** diagnosis in cobol this paper provides data on cobol ***error*** 
+... errors in programming ***error*** correction cobol programming language errors ***error*** ***analysis*** diagnostics ***error*** proneness ***error*** frequency spelling errors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1143
+***analysis*** of decay type data a comparative study has been made of a variety of ***numerical*** techniques for 
+... although the values of functions derived from these fitted parameters which can definitely be associated with physical entities 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3059
+models for parallel processing within programs application to cpuio and ioio overlap ***approximate*** queueing models for internal parallel 
+... the percentage performance improvement from cpuio overlap is found to be greatest for systems which are in ***approximate*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1707
+this result is used to construct a similarity transformation which when applied to a particular upper triangular matrix 
+... generation of positive test ***matrices*** with known positive spectra sufficient conditions are given for a ***real*** matrix to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2447
+sard kernels for certain bivariate cubatures an ***error*** ***analysis*** for some bivariate cubatures is given 
+... cubatures sard kernels ***numerical*** integration remainder formulas 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2186
+the algorithm represents a modification of the ritz direct method and is designed to improve the speed of 
+... ***numerical*** properties of the ritz trefftz algorithm for optimal control in this paper the ritz trefftz algorithm is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1501
+***eigenvectors*** of a 2n x 2n matrix it has been known that the ***eigenvalues*** of a certain 2n 
+... an algorithm is given to obtain the ***eigenvectors*** of the 2n x 2n matrix by use of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0758
+skeletal structure of pert and cpa computer programs an introduction to the inner mechanics of pert and cpa 
+... ca630840 jb march 13 1978 758 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2544
+automatic ***error*** ***bounds*** for simple zeros of analytic functions the cauchy ostrowski theorem on convergence of newton iterates 
+... ***real*** intervals complex intervals ***real*** interval arithmetic complex interval arithmetic newtons method cauchy ostrowski theorem zeros of polynomials 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1662
+***eigenvalues*** ***eigenvectors*** latent roots latent vectors householders method qr algorithm inverse iteration 5 
+... ***eigenvalues*** and ***eigenvectors*** of a ***real*** general matrix f2 cacm december 1968 grad j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0441
+topological sorting of large networks topological sorting is a procedure required for many problems involving ***analysis*** of networks 
+... it permits treatment of larger networks than can be handled on present procedures and achieves this with greater 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2226
+further evidence for the ***analysis*** of algorithms for the zero one programming problem the purpose of this note 
+... operations research integer programming zero one variables algorithms 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1285
+***eigenvalues*** and ***eigenvectors*** of a ***real*** symmetric matrix by the qr method algorithm 254 f2 cacm april 1965 
+... ca650406 jb march ***7*** 1978 355 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2000
+a variation of the goodman lance method for the solution of two point boundary value problems a recently 
+... goodman lance boundary value problems newtons method nonlinear equations optimal control optimization ordinary differential equations secant method interpolative 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1347
+a new program through utilization of the wengert differentiation technique automatically determines the required ***matrices*** from specific system 
+... general time varying systems ***error*** sensitivities program the evaluation by the propagation of variance technique of the ***sensitivity*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2081
+some complete calculi for ***matrices*** a matrix calculus is introduced with the intention of developing data structures suitable 
+... the paper investigates how the special structure of ***matrices*** can be described and utilized for efficient computing by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3085
+an on algorithm for determining a near optimal computation order of matrix chain products this paper discusses the 
+... an on algorithm to find an order of computation which takes less than 25 percent longer than the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2188
+each subsystem is chosen from large numbers of alternatives the selection is based on considerations such as system 
+... an approach to the optimum design of computer graphics systems display system designers are faced with the difficult 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3086
+on the complexity of computing the measure of uai bi the decision tree complexity of computing the measure 
+... these problems provide an excellent opportunity for discussing the effects of the computational model on the ease of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2809
+new results concerning norms with values in an archimedian vector lattice not necessarily being totally ordered are given 
+... an example of application to operator norms is given concerning contraction properties of positive ***operators*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2805
+perturbations of ***eigenvalues*** of non normal ***matrices*** the problem considered is to give ***bounds*** for finite perturbations of 
+... the ***bounds*** which are derived are shown to be almost attainable for any set of ***matrices*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1274
+on the ***numerical*** solution of an n point boundary value problem for ***linear*** ordinary differential equations a method 
+... the method requires two runge kutta integrations over the interval under consideration and the solution of a ***linear*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2778
+ca750310 jb january 9 1978 426 pm 
+... perturbations of ***eigenvalues*** of non normal ***matrices*** corrigendum cacm march 1975 sluis a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2135
+algorithms are developed for rapid computation of l q for a wide class of selections of q which 
+... rapid computation of general interpolation formulas and mechanical quadrature rules let f have n continuous on a ***closed*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1423
+a simple extension has been found to the conventional orthogonalization method for inverting non singular ***matrices*** which gives 
+... a simple algorithm for computing the generalized inverse of a matrix the generalized inverse of a matrix is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1958
+improving round off in runge kutta computations with gills method a runge kutta gill scheme in common use 
+... it is then shown how an improved version of the method can be obtained with the addition of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2605
+a precise ***numerical*** ***analysis*** program a description is given of a program for computing the solution to a 
+... arithmetic operations involving these numbers are executed according to interval arithmetic concepts with non significant digits automatically discarded 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2824
+an improvement to martins algorithm for computation of ***linear*** precedence functions cacm october 1976 duong kien c 
+... syntax ***analysis*** precedence functions boolean ***matrices*** ***4*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1876
+generation of test ***matrices*** having certain sign patterns and prescribed positive spectra a class of orthogonal transformations is 
+... test ***matrices*** positive ***matrices*** sign patterns orthogonal transformations positive ***eigenvalues*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1636
+***invariant*** imbeding and the ***numerical*** integration of boundary value problems for unstable ***linear*** systems of ordinary differential equations 
+... an ***invariant*** imbeding technique is presented which is useful in overcoming these frequently encountered instabilities and the results 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2325
+these are foundations finite precision number systems computational complexity synthesis and ***analysis*** of algorithms ***analysis*** of ***error*** programs 
+... ***numerical*** mathematics and computer science ***numerical*** mathematics is viewed as the ***analysis*** of continuous algorithms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1709
+a modification of efroymsons technique for stepwise regression ***analysis*** the computational technique conventionally used for stepwise multiple ***linear*** 
+... the near symmetry of the ***matrices*** involved permits a modification requiring only half the storage and computations of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0537
+a machine program for theorem proving the program of a proof procedure is discussed in connection with trial 
+... ca620724 jb march 17 1978 811 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1014
+machine controls for ***analysis*** of variance a major problem in using the ***analysis*** of variance as the number 
+... even though the experimenter may not be ***interested*** in these interactions it is impossible to ignore them in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1104
+ca640404 jb march 10 1978 151 am 
+... an undergraduate curriculum in ***numerical*** ***analysis*** cacm april 1964 forsythe g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2986
+operations on sparse relations various computations on relations boolean ***matrices*** or directed graphs such as the computation of 
+... for example how to compute operator precedence or wirth weber precedence relations in on2 steps is shown as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2177
+algorithm block block cutpoint tree cutnode fundamental cycle set graph lobe lobe ***decomposition*** graph separable spanning tree web 
+... if w denotes the word length of the machine employed the storage in machine words required for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3138
+***linear*** programming ***numerical*** ***linear*** algebra modified givens transformations ***linear*** programming test cases 5 5 
+... a mathematical programming updating method using modified givens transformations and applied to lp problems an efficient and numerically 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1998
+complex matrix inversion matrix inversion inversion rounding errors rounding ***error*** bound ***error*** ***bounds*** complex rounding ***error*** ***bounds*** 5 
+... complex matrix inversion versus ***real*** a comparison of complex matrix with ***real*** matrix inversion is made 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1744
+stable ***numerical*** methods for obtaining the chebyshev solution to an overdetermined system of equations an implementation of stiefels 
+... a generalization of stiefels algorithm is developed which permits the occasional exchange of two equations simultaneously 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2807
+on the stability of gauss jordan elimination with pivoting the stability of the gauss jordan algorithm with partial 
+... it is shown that in many respects suspicions are unfounded and in general the absolute ***error*** in the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1807
+the objectives of the processing are ***1*** to eliminate redundant calculations when references are made to common subexpression 
+... optimization of expressions in fortran a method of optimizing the computation of arithmetic and indexing expressions of a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2133
+algorithm for the assignment problem rectangular ***matrices*** h algorithm 415 cacm december ***1971*** bourgeois f 
+... operations research optimization theory assignment problem rectangular ***matrices*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1997
+140 for this version of quicksort compared with ***1*** 
+... sorting quicksort information content entropy distribution of median 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1782
+a ***numerical*** integration formula useful in fourier ***analysis*** a ***numerical*** integration formula is presented which uses unequal sampling 
+... such a formulation is useful in fourier ***analysis*** to improve accuracy and ease of usage 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3166
+computing standard deviations accuracy four algorithms for the ***numerical*** computation of the standard deviation of unweighted sampled data 
+... we conclude that all four algorithms will provide accurate answers for many problems but two of the algorithms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1577
+***eigenvalues*** and ***eigenvectors*** of a ***real*** symmetric matrix by the qr method algorithm 254 f2 cacm june 1967 
+... ca670607e jb march 23 1978 331 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2548
+normal deviate s14 algorithm a442 cacm january 1973 hill g 
+... normal distribution inverse probit transform taylor series approximation 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2355
+implementing clenshaw curtis quadrature i methodology and experience clenshaw curtis quadrature is a particularly important automatic quadrature scheme 
+... this paper is in two parts a companion paper ii computing the cosine transformation shows that this objection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2567
+an exponential method for the solution of systems of ordinary differential equations an explicit coupled single step method 
+... when compared to a standard fourth order runge kutta implementation computation time required by this method has ranged 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1524
+a stopping criterion for polynomial root finding when searching for the root of a polynomial it is generally 
+... in this paper an algorithm is presented which allows one to terminate the iteration process on the basis 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3125
+global optimization by suppression of partial redundancies the elimination of redundant computations and the moving of ***invariant*** computations 
+... testing this algorithm has shown that its execution cost is nearly ***linear*** with the size of the program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0950
+parallel methods for integrating ordinary differential equations this paper is dedicated to the proposition that in order to 
+... as an example a method is proposed for parallelizing the ***numerical*** integration of an ordinary differential equation which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1930
+an extremely portable ***8*** line fortran program is provided which based on an important paper by coveyou and 
+... random number generators random numbers random number ***analysis*** random generators ***linear*** sequential generators random number program pseudo random 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1045
+programming ***analysis*** of variance by sequences of ***operators*** and isomorphic mappings a special operator calculus developed by hartley 
+... ca640702 jb march 9 1978 830 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2950
+a unifying approach to scheduling this paper presents a scheme for classifying scheduling algorithms based on an abstract 
+... a criterion for the implementation efficiency of an algorithm is developed and results in the definition of time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1905
+the simplex method of ***linear*** programming using lu ***decomposition*** standard computer implementations of dantzigs simplex method for ***linear*** 
+... this paper gives the theoretical background for an implementation which is based upon the lu ***decomposition*** computed with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3200
+a formac program for the solution of ***linear*** boundary and initial value problems a computer program is described 
+... give the above input the program generates an approximation to the solutions of the specified problemm in terms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1791
+triangular factors of modified ***matrices*** algorithm 319 f1 cacm january 1968 green d 
+... 14 ca680102 jb february 23 1978 250 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2144
+on accurate floating point summation the accumulation of floating point sums is considered on a computer which performs 
+... floating point summation ***error*** ***analysis*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1415
+the authors conclude that while microsentences of the quality achieved do not open up immediate prospects for improving 
+... to explore the prospects of such a step the authors attempted in 1963 to prepare a general program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0070
+construction of a set of test ***matrices*** this paper develops the equations and properties of a set of 
+... ca590803 jb march 22 1978 609 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1916
+***analysis*** of these models prior to execution yields information valuable in determining segmentation of instructions and data for 
+... ***analysis*** of boolean program models for time shared paged environments directed graphs or their associated ***matrices*** are frequently 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2929
+preliminary results for the clu structured programming language indicate that in programs with a low degree of recursion 
+... the general problem of using inline substitution to minimize execution time ***subject*** to size constrain ts is formulated 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0727
+programming details numerous examples and mathematical theory are suppliedxtension of the method in a natural way to n 
+... on the ***approximate*** solution of deltaufu three dimensional dirichlet problems for deltaufu fu 0 are treated numerically by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1404
+computational aspects of multiple covariance ***analysis*** on a multifactor structure the computational procedure for the ***analysis*** of multiple 
+... a special operator calculus developed by hartly for programming ***analysis*** of variance for multifactor experiments is extended to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1369
+the method is a variant of the cyclic jacobi procedure and utilizers elementary plane rotations to obtain the 
+... half rotations in n dimensional euclidean space an iterative procedure is described for determining half rotations in n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+an 80 column ibm card is divided into two fields reference material field columns ***1*** 67 and identification 
+... a card format for reference files in information processing this paper proposes a card format suitable for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3094
+analyses of deterministic parsing algorithms this paper describes an approach for determining the minimum maximum and average times 
+... these quantities are presented in the form of symbolic formulas called time formulas 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1802
+***analysis*** of variance ***analysis*** of covariance regression ***analysis*** experimental design matrix direct product protection operator orthogonal matrix 5 
+... regression using certain direct product ***matrices*** algorithm 366 g2 cacm december 1969 claringbold p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2134
+an extension of the munkres algorithm for the assignment problem to rectangular ***matrices*** the assignment problem together with 
+... timing results obtained by using an adapted version of silvers algol procedure are discussed and a relation between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1046
+rohl in their most recent paper have presented a very interesting programming system that they have developed for 
+... a compiler building system developed by brooker and morris in a number of ***articles*** published during the past 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2050
+automatic parsing for content ***analysis*** although automatic syntactic and semantic ***analysis*** is not yet possible for all of 
+... preliminary studies show that the harvard syntactic analyzer can produce correct and unambiguous identification of the ***subject*** and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2074
+***numerical*** integration integration rule adaptive integration automatic integration simpsons rule ***numerical*** quadrature quadrature quadrature rule adaptive quadrature automatic 
+... 16 ca700410 jb february 13 1978 246 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2099
+***eigenvalues*** and eigen vectors of a ***real*** general matrix algorithm 343 f cacm february ***1970*** knoble h 
+... norm characteristic equation degenerate eigen system diagonalizable matrix defective matrix ****** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2153
+experiments with an automated instructional system for ***numerical*** methods a computer system was developed at purdue university to 
+... each instructional unit or lesson is divided into three modes of instruction which allow the student to press 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1956
+optimum merging from mass storage an algorithm is displayed which yields the merge orders such that the total 
+... the ***analysis*** is parameterized in terms of the ratio of seek time to the time it takes to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2800
+it is shown that ***1*** for pk k arbitrary ainf stability implies certain necessary conditions for a0 stability 
+... connections between accuracy and stability properties of ***linear*** multistep formulas this paper is concerned with stability and accuracy 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1990
+10 ca700915 jb february 10 1978 948 am 
+... ***numerical*** constants algorithm cacm september ***1970*** dunham c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2555
+variable precision exponentiation a previous paper presented an efficient algorithm called the recomputation algorithm for evaluating a rational 
+... the recomputation algorithm can be applied to expressions involving any variable precision operations having o10 p sumei ***error*** 

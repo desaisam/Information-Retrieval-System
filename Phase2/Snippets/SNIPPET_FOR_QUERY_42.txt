@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0462
+***computer*** ***pattern*** ***recognition*** ***techniques*** electrocardiographic diagnosis the use of programmed digital computers as general ***pattern*** classification and ***recognition*** 
+... it is important to choose a class of signals which is at present undergoing a good deal of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2641
+a minimal spanning tree ***clustering*** method z algorithm a479 cacm june 1974 page r 
+... ***clustering*** ***pattern*** ***recognition*** feature selection minimal spanning trees 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2215
+application of game tree searching ***techniques*** to sequential ***pattern*** ***recognition*** a sequential ***pattern*** ***recognition*** spr procedure does not 
+... sequential ***pattern*** ***recognition*** game tree searching game against nature gamma procedure mini average backing up procedure dynamic programming 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1726
+***pattern*** ***recognition*** character ***recognition*** text reading information retrieval unformatted text operator controlled reader online reader text image discrimination 
+... preliminary investigation of ***techniques*** for automated reading of unformatted text methods for converting unstructured printed material into ***computer*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2402
+pictorial ***pattern*** ***recognition*** phase problem x ray crystallography interactive graphics 3 
+... pictorial ***pattern*** ***recognition*** and the phase problem of x ray crystallography the availability of interactive three dimensional ***computer*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2894
+in teractive system ***computer*** service measurement ***performance*** external measurement methodology measurement modelnetwork measurement system measures figure of merit 
+... its primary purpose is to enable external user oriented assessment of ***computer*** ***performance*** instead of the more frequently 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3070
+hybrid simulation models of ***computer*** systems this paper describes the structure and operation of a hybrid simulation model 
+... in an example based on a simple hypothetical ***computer*** system discrete event simulation is used to model the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3091
+programmer ***performance*** standards predicting program development time program estimation ***techniques*** program development equation value of programming experience programmer 
+... some basic determinants of ***computer*** programming productivity the propose of this research was to examine the relationship between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2370
+the system includes two flying spot scanners and a tv camera specially interfaced to a process control digital 
+... an experimental laboratory for ***pattern*** ***recognition*** and signal processing an interactive ***computer*** controlled scanning and display system has 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2980
+the editing of picture segmentations using local analysis of graphs a major problem in picture processing is the 
+... the scheme is based on definitions of graph properties which are satisfied when a spurious region is present 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2019
+the amount of overlap within each class of characters versus the amount between classes is used to evaluate 
+... normalization ***techniques*** for hand printed numerals family of ***pattern*** standardization ***techniques*** based on geometrical projection is applied to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2318
+the role of ***computer*** system models in ***performance*** ***evaluation*** models constitute a useful means of investigating ***computer*** system 
+... this paper examines the interrelationships between models and other methods for evaluating the ***performance*** of ***computer*** systems and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0204
+ca600407 jb march 22 1978 147 pm 
+... proving theorems by ***pattern*** ***recognition*** i cacm april 1960 wang h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3149
+the cyclic order property of vertices as an aid in scene analysis a cyclic order property is defined 
+... this property augments previously known grammatical rules that determine the existence of three dimensional bodies corresponding to given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2991
+hashing hashing ***techniques*** hashing methods hash coding keys key transformation key to address transformation direct addressing direct access 
+... improving the access time for random access files ***clustering*** in the key set is decreased by smoothing the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2451
+as a practical application of such a model this paper considers the design of a novel tree search 
+... design of tree structures for efficient querying a standard information retrieval operation is to determine which records in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2319
+because of the severe interactions between the various subsystems of an operating system an overall model of the 
+... ***computer*** system operating system ***performance*** ***evaluation*** ***performance*** measurement measurement ***techniques*** modularity layering structured programming paging virtual memory inputoutput 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2711
+a vector space model for automatic indexing in a document retrieval or other ***pattern*** matching environment where stored 
+... an approach based on space density computations is used to choose an optimum indexing vocabulary for a collection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3089
+***performance*** of rollback recovery systems under intermittent failures a mathematical model of a transaction oriented system under intermittent 
+... the model is used to derive the principal ***performance*** measures including availability response time and the system saturation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2984
+costutilization a measure of system ***performance*** a method is presented for evaluating ***computer*** system ***performance*** in terms of 
+... these coefficients indicate the extent to which the total system cost is effectively utilized 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0633
+ca620210 jb march 20 1978 343 pm 
+... simulation and analysis of biochemical systems iii 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2232
+***pattern*** width at a given angle that the ***pattern*** feature width as a function of angle possesses several 
+... the results consist of a set theoretic definition of width at angle a theorem relating it to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2310
+the implications of the ***computer*** for a science of the humanities a science entailing gathering data for the 
+... language analysis in the humanities the use of the ***computer*** in the language oriented humanities for exhaustive listing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2054
+on the feasibility of voice input to an on line ***computer*** processing system an on line digital ***computer*** 
+... speech ***recognition*** word ***recognition*** ***pattern*** matching ***pattern*** ***recognition*** time sharing remote access voice input speech input telephone inputoutput 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2788
+picture processing ***pattern*** ***recognition*** curve detectionline fitting 3 
+... finding circles by an array of accumulators cacm february 1975 kimme c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2910
+picture processing ***pattern*** ***recognition*** curve detection hough transformation template matching 3 
+... equivalence of hough curve detection to template matching cacm november 1977 stockman g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1030
+toward greatly increased efficiency of a simulation system methods are presented for simultaneously evaluating many functions for one 
+... ***techniques*** for the simulation of ***computer*** logic the simulation of a digital ***computer*** is an integral part of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2811
+structural ***pattern*** ***recognition*** of carotid pulse waves using a general waveform parsing system a general waveform parsing system 
+... the syntax driven waveform analysis system has been applied with good results to these pulse waves to detect 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2268
+a comparative study of ***computer*** programs for integrating differential equations a study comparing the ***performance*** of several ***computer*** 
+... the integration methods represented include multistep methods predictor correctors single step methods runge kutta and extrapolation methods both 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2849
+***computer*** networks packet switching multiprocessing distributed control distributed computing broadcast communication statistical arbitration 3 
+... ethernet distributed packet switching for local ***computer*** networks ethernet is a branching broadcast communication system for carrying digital 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2812
+***computer*** aided analysis information systems logical system design problem statement language problem statement analyzer physical system design accurately 
+... the statement of requirements was written in ads accurately defined systems and analyzed by a problem statement analyzer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2634
+an ***evaluation*** of statistical software in the social sciences several hundred college and university ***computer*** installations now offer 
+... in order to provide users with a basis for selection and use tests were made for each of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2892
+some measurements of line efficiency for the arpanet are presented and by extrapolation these measurements are used to 
+... arpanet ***computer*** communication networks interprocess communication measurement packet switching ***performance*** ***evaluation*** and efficiency resource sharing 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2829
+texture and reflection in ***computer*** generated images in 1974 catmull developed a new algorithm for rendering images of 
+... several examples of images synthesized using these new ***techniques*** are included 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2113
+parsing syntactic analysis natural language analysis linguistic data processing computational linguistics correlational grammar structure ***recognition*** ***pattern*** ***recognition*** matching 
+... by structuring an area of the computers central core storage in such a way that the individual locations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3132
+***pattern*** ***recognition*** ***pattern*** classification linear discriminants central hyperplanes centering centrality criteria dead zone hyperplane linearly separable relaxation algorithm 
+... experiments with some algorithms that find central solutions for ***pattern*** classification in two class ***pattern*** ***recognition*** it is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1915
+hidden line elimination back line ***recognition*** three dimensional representation plane faced objects perspective view machine rendering of solids 
+... an algorithm for hidden line elimination the algorithm presented causes the elimination of hidden lines in the representation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2951
+the research clearly reveals that sufficient system data are currently obtainable at least for the five diverse arpa 
+... analytical simulation and statistical ***performance*** ***evaluation*** tools are employed to investigate the feasibility of a dynamic response time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2231
+the reconstruction of binary patterns from their projections given the horizontal and vertical projections of a finite binary 
+... it is shown that an unambiguous ***pattern*** can be perfectly reconstructed in time m x n and that 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2400
+use of the hough transformation todetect lines and curves in pictures hough has proposed an interesting and computationally 
+... picture processing ***pattern*** ***recognition*** line detection curve detection colinear points point line transformation hough transformation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3072
+even relatively simple dynamic schedulers are shown to improve system ***performance*** as measured by user cpu time over 
+... feedback coupled resource allocation policies in the multiprogramming multiprocessor ***computer*** system model studies of some integrated feedback driven 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1170
+analyzing english syntax with a ***pattern*** learning parser a dependency analysis system based on ***pattern*** ***recognition*** and learning 
+... it was concluded that the system is adequate for learning to parse the bulk of basic english but 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1653
+system ***performance*** ***evaluation*** survey and appraisal the state of the art of system ***performance*** ***evaluation*** is reviewed and 
+... analysis simulation and synthesis are presented as three levels of approach to ***evaluation*** requiring successively greater amounts of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3013
+a third operator which uses the distance between the center and centroid of a neighborhood as an edge 
+... some new methods of detecting step edges in digital pictures this note describes two operators that respond to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1938
+some criteria for time sharing system ***performance*** time sharing systems as defined in this article are those multiaccess 
+... it is each terminal users ability to utilize the full resources of the system that makes quantitative ***evaluation*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2902
+algorithm performancedynamic memory allocation dynamic memory management dynamic storage allocation garbage collection list processing memory allocation memory management 
+... dynamic memory allocation in ***computer*** simulation this paper investigates the ***performance*** of 35 dynamic memory allocation algorithms when 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2494
+the graphic principle used is the representation of the elements of a data matrix of similarities or dissimilarities 
+... a well known set of data consisting of the correlations of 24 psychological tests is used to illustrate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1805
+productivity of multiprogrammed computers progress in developing an analytic prediction method multiprogramming as it is discussed here is 
+... productivity prediction multiprogramming simulation equipment ***evaluation*** hardware ***evaluation*** monitor operating system system software supervisors ***performance*** time sharing time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2145
+automation of etching ***pattern*** layout help heuristic etching ***pattern*** layout program is an application program developed to computerize 
+... heuristic etching ***pattern*** layout wiring design of printed circuit board maze running lees algorithm 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3048
+***performance*** ***evaluation*** of highly concurrent computers by deterministic simulation simulation is presented as a practical technique for ***performance*** 
+... simulation of the system model yields the timing and resource usage statistics needed for ***performance*** ***evaluation*** without the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2883
+some experimental results are given these show how various information about the shape of the contour of an 
+... picture processing ***pattern*** ***recognition*** edge detection contour detection contour following optimization problems dynamic programming shortest path heuristic search 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3001
+detection of combined occurrences in this paper it is supposed that the variables x1 
+... finally it is supposed that the problem involves the detection of a large number of combined occurrences for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3135
+several applications of this technique in the field of chemistry are 1 in pharmacology searching for a common 
+... detection of three dimensional patterns of atoms in chemical structures an algorithm for detecting occurrences of a three 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0436
+ca621203 jb march 17 1978 516 pm 
+... ***evaluation*** of polynomials by ***computer*** cacm december 1962 knuth d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3119
+the impact of distributions and disciplines on multiple processor systems simple queueing models are used to study the 
+... issues considered include the impact of cpu service disciplines and distributions level of multiprogramming multitasking and job priorities 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2317
+programming systems and languages 1965 1975 in spite of impressive gains by pli fortran and cobol remain the 
+... important trends include the increased interest in the development of system measurement and ***evaluation*** techniquesand increased use of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2035
+conversational access to a 2048 word machine lap6 is an on line system running on a 2048 word 
+... conversational ***computer*** access display editing display oriented system filing algorithms lap6 layering linc man machine communication on line 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1855
+syntactic analysis language processing language analysis parsing analysis procedure ***recognition*** procedure english sentences linguistics psycholinguistics transformational grammar limited 
+... a program for the syntactic analysis of english sentences a program is described which produces syntactic analyses of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3136
+on one hand there exists a stable price predictable market for larger general purpose ***computer*** systems 
+... ***computer*** market have been developed to study the relationships between system price and hardware ***performance*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2973
+sorting on a mesh connected parallel ***computer*** two algorithms are presented for sorting n2 elements on an n 
+... parallel ***computer*** parallel sorting parallel merge routing and comparison steps perfect shuffle 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1935
+randomized binary search technique a mathematical model is developed for the mean and variance of the number of 
+... binary ***pattern*** file examination graph theory information retrieval mathematical model partitioning probabilistic method random sequencing search ***techniques*** tree 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2452
+***evaluation*** and selection of file organization a model and system this work first discusses the factors that affect 
+... file organization file structures file management file organization ***performance*** file organization model file structure design secondary index organization 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2542
+a software design and ***evaluation*** system a critical failure of current software system design and implementation methodology is 
+... operating system development language processing software ***evaluation*** compilers system programming supervisory systems debugging program maintenance modeling system integration 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2882
+a stochastic ***evaluation*** model for database organization in data retrieval systems experimental work in the valuation of large 
+... the model is designed to estimate the retrieval workload of alternative data retrieval systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1827
+***performance*** monitoring in a time sharing system a software measurement facility which is part of a general purpose 
+... ***performance*** monitoring ***performance*** measurement program behavior ***performance*** data multiprogramming ***performance*** software measurement time sharing ***performance*** system ***evaluation*** software 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2258
+hashing hashing ***techniques*** hashing methods hash coding keys key transformation key to address transformation direct addressing direct access 
+... additional results on key to address transform ***techniques*** a fundamental ***performance*** study on large existing formatted files cacm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1902
+an automatic grading scheme for simple programming exercises a discussion is given of alterations that were made to 
+... in this ***computer*** controlled grading scheme provision is made for testing with programmer supplied data and for final 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1032
+theoretical considerations in information retrieval systems information storage and retrieval systems are composed of three major components a 
+... for searching strategy a linear model for an ***evaluation*** function of relevancy is developed which rewards the system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2048
+comparison of several adaptive newton cotes quadrature routines in evaluating definite integrals with peaked integrands this report compares 
+... adaptive newton cotes quadrature quadrature scheme comparison definite integral ***evaluation*** adaptive numerical in tegration newton cotes integration peaked 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2571
+an analytic model of the hasp execution task monitor the hasp execution task monitor periodically rearranges the os360 
+... this paper develops a simple model of the execution task monitor and employs it to study the effectiveness 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2990
+by relating term accuracy to the frequency of occurrence of the term in the documents of a collection 
+... the concept of query term accuracy is in troduced as the probability of occurrence of a query term 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2669
+the simple model combines the effect of the information reference ***pattern*** with the effect of the automatic management 
+... the resulting model is easy to manipulate and is applicable to such diverse problems as choosing an optimum 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0858
+the routine is designed to minimize elapsed ***computer*** time by varying the power of the merge cycles so 
+... a tape file merge ***pattern*** generator a routine is presented which specifies the sequence of merge cycles to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2789
+a minimal spanning tree ***clustering*** method algorithm r479 cacm february 1975 magnuski h 
+... ca750210 jb january 12 1978 252 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2344
+on the optimization of ***performance*** of time sharing systems by simulation a simulation model of a time sharing 
+... time sharing simulation studies optimization measure of ***performance*** scheduling algorithms 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2437
+general ***performance*** analysis of key to address transformation methods using an abstract file concept this paper presents a 
+... hashing hashing ***techniques*** hashing methods hash coding key transformation key to address transformation direct addressing randomizing random access 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2716
+squiral seeks to minimize query response time and space utilization by 1 performing global query optimization 2 exploiting 
+... the basic idea is to employ automatic programming ***techniques*** so that the interface analyzes and efficiently refines the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1325
+current attempts by the authors to extend the diagnostic capabilities of the present system are particularly concerned with 
+... remote on line real time ***computer*** diagnosis of the clinical electrocardiogram presented in this paper is a brief 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1427
+to study the output of scanners with various characteristics a program which simulates radioisotope scans has been written 
+... simulation of radioisotope scans by ***computer*** in radioisotope scanning a field which is assuming increasing importance in medical 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0678
+optimizing bit time ***computer*** simulation a major component of a bit time ***computer*** simulation program is the boolean 
+... the compiler accepts the boolean functions representing the simulated computers digital circuits and generates corresponding sets of machine 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1642
+the ***techniques*** depend on having two levels of secondary storage level 1 several times larger than the main 
+... time sharing on a ***computer*** with a small memory ***techniques*** to make time sharing attractive on a ***computer*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1931
+interval arithmetic range arithmetic error bounds determinant ***evaluation*** chebyshev system mathematical proof by ***computer*** 5 
+... for determinant ***evaluation*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2522
+recent research in time sharing paging systems has developed the working set model for program behavior and are 
+... this report discusses the design and implementation of a dispatcher based on the working set principle presents data 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1590
+these markers are validated by an error detection and correction procedurebout 95 percent of the pitch periods were 
+... pitch period determination of speech sounds a ***computer*** procedure which determines pitch periods by the ***recognition*** of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2287
+the tangency problem involved in practical scanning is discussed and a solution based on minimizing ***computer*** memory space 
+... the structure of a general contour map is analyzed and its topological properties are utilized in developing a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2454
+computational algorithms for closed queueing networks with exponential servers methods are presented for computing the equilibrium distribution of 
+... the computational algorithms are based on two dimensional iterative ***techniques*** which are highly efficient and quite simple to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2683
+two classes of ***techniques*** are considered 1 heuristic methods which derive loop predicates from boundary conditions andor partially 
+... program verification loop predicates inductive assertions synthesis of loop predicates weak interpretations well founded sets property extraction theorem 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2203
+key to address transform ***techniques*** a fundamental ***performance*** study on large existing formatted files the results of a 
+... hashing hashing ***techniques*** hashing methods hash coding keys key transformation key to address transformation direct addressing direct access 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1534
+operating system dad is described in detail 
+... operating system the design and implementation of the c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3020
+the aim is to demonstrate systematic recursion removal ***techniques*** on something more complex than knuths sturdy toddler and 
+... systematic recursion removal the recursion removal algorithm presented by strong and walker is amplified and applied to a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0096
+these methods are desk machine ***evaluation*** of a finite series integration of the appropriate differential equation by a 
+... on computing radiation integrals the relative merit and cost of four ways of evaluating typical radiation integrals containing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2217
+experiments in automatic learning for a multipurpose heuristic program an automatic learning capability has been developed and implemented 
+... also automatic data handling routines were written for passing data between the learning program and the proving program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2741
+this approach is taken in order to identify in multiprogramming paging systems i unstable regimes of operations and 
+... decomposability instabilities and saturation in multiprogramming systems a step by step approach to model the dynamic behavior and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1906
+automated printed circuit routing with a stepping aperture a ***computer*** program for routing interconnections on a two sided 
+... the planned routing is the basis for rerouting interconnections within the aperture to resolve conflicts for lines and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2314
+list processing programming languages design of programming languages interactive systems control structures data structures programming primitives semantics advanced 
+... requirements for advanced programming systems for list processing list processing systems should be designed to facilitate production of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0860
+a comparison between the polyphase and oscillating sort ***techniques*** a comparison between the oscillating and polyphase sort ***techniques*** 
+... the basis for the comparison is the total reading and writing required for various number of input strings 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1808
+advanced cryptographic ***techniques*** for computers cryptographic ***techniques*** which can be used to maintain the confidentiality of information processed 
+... special emphasis is paid to the unique characteristics of ***computer*** files that make many cryptographic methods of little 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0893
+significance arithmetic on a digital ***computer*** the 7090 at nyu has been modified to include a significance mode 
+... examples include power series ***evaluation*** linear equations solution determinant ***evaluation*** and matrix inversion 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1933
+coding the lehmer pseudo random number generator an algorithm and coding technique is presented for quick ***evaluation*** of 
+... pseudo random number random number modular arithmetic uniform probability density uniform frequency function simulation prime factorization primitive roots 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2286
+automatic error analysis for determining precision the problem considered is that of evaluating a rational expression to within 
+... an automatic error analysis technique is given for determining directly from the results of a trial low precision 

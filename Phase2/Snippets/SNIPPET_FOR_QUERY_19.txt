@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3075
+fast ***parallel*** sorting ***algorithms*** a ***parallel*** bucket sort algorithm is presented that requires time olog n and the 
+... a procedure is also presented to sort n numbers in time ok log n using n 1 1k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0950
+***parallel*** methods for integrating ordinary differential equations this paper is dedicated to the proposition that in order to 
+... as an example a method is proposed for parallelizing the numerical integration of an ordinary differential equation which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2266
+a highly ***parallel*** algorithm for approximating all zeros of a polynomial with only real zeros an algorithm is 
+... the algorithm which is conceptually suitable for ***parallel*** computation determines its own starting values so that convergence to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2973
+sorting on a mesh connected ***parallel*** computer two ***algorithms*** are presented for sorting n2 elements on an n 
+... ***parallel*** computer ***parallel*** sorting ***parallel*** merge routing and comparison steps perfect shuffle 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3156
+computing connected components on ***parallel*** computers we present a ***parallel*** algorithm which uses n2 processors to find the 
+... simultaneous access to the same location is permitted for fetch instructions but not for store instructions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2570
+***parallel*** processing precedence graphs scheduling list scheduling optimization dynamic programming 4 
+... a comparison of list schedules for ***parallel*** processing systems the problem of scheduling two or more processors to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2114
+attribute value pair index keyword record record address k pointer k list file directory generalized file structure inverted 
+... a formal system for information retrieval from files a generalized file structure is provided by which the concepts 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2557
+on the time required for a sequence of matrix products this paper discusses the multiplication of conformable sequences 
+... the minimum time required to evaluate such products on ordinary serial computers as well as ***parallel*** computers is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1957
+the list set generator a construct for evaluating set expressions the list set generator is defined and ***algorithms*** 
+... the list set generator is a construct which may be added to a list processing system or any 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2433
+control structures in illiac iv fortran as part of an effort to design and implement a fortran compiler 
+... the implications of these features for data layout and algorithm structure are discussed and the conclusion is drawn 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1601
+***parallel*** numerical methods for the solution of equations classical iterative procedures for the numerical solution of equations provide 
+... several families of numerical procedures which use the technique of the procedures in a ***parallel*** processing environment are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2838
+analysis of an algorithm for real time garbage collection a real time garbage collection system avoids suspending the 
+... garbage collection storage reclamation list processing lisp time sharing multiprocessing ***parallel*** processing real time data structures analysis of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1468
+syntax directed interpretation of classes of pictures a descriptive scheme for classes of pictures based on labeling techniques 
+... a partial generative grammar for handwritten english letters is given as are also a few computer generated outputs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2289
+a major challenge in the effective use of cellular arrays for the solution of graph problems is the 
+... in this paper it is shown that cellular arrays are inherently well suited for the solution of many 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2692
+reentrant polygon clipping a new family of clipping ***algorithms*** is described 
+... code capable of clipping the polygon against a single boundary is reentered to clip against subsequent boundaries 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1158
+program structures for ***parallel*** processing constructs for organizing and explicating ***parallel*** program segments are discussed as extensions to 
+... the constructs serve as meta commands and are motivated by equipment having multiprocessing capability 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0141
+ca601007 jb march 20 1978 816 pm 
+... some thoughts on ***parallel*** processing cacm october 1960 yarbrough l 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0392
+ca610206 jb march 17 1978 1258 am 
+... comment on a paper on ***parallel*** processing cacm february 1961 nekora m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2723
+multiprocessing compactifying garbage collection ***algorithms*** for a multiprocessing compactifying garbage collector are presented and discussed 
+... garbage collection storage reclamation reclaimer storage allocation multiprocessing synchronization semaphores ***parallel*** processing compactification relocation lisp list processing free 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1302
+***parallel*** signaling speeds for data transmission proposed american stand ard cacm march 1965 ca650305 jb march 7 1978 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1367
+character structure and character parity sense for ***parallel*** by bit data communication in ascii proposed american standard cacm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1795
+12 ca691217 jb february 15 1978 159 pm 
+... optimal code for serial and ***parallel*** computation cacm december 1969 fateman r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1262
+procedure oriented language statements to facilitate ***parallel*** processing two statements are suggested which allow a programmer writing in 
+... these serve partly as brackets in establishing a range of ***parallel*** operation and partly to define each ***parallel*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2685
+the ***parallel*** execution of do loops methods are developed for the ***parallel*** execution of different iterations of a 
+... ***parallel*** computing multiprocessor computers array computers vector computers loops 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2700
+reduction a method of proving properties of ***parallel*** programs when proving that a ***parallel*** program has a given 
+... here sufficient conditions are obtained to show that the assumption that a statement is indivisible can be relaxed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2714
+these performances compare very favorably with the previous best ***parallel*** merging algorithm batchers algorithm which requires np mn2plog2 
+... the paper presents an algorithm for merging a and b with the p ***parallel*** processors which requires at 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1569
+implementing phrase structure productions in pli a method is described for implementing the productions of a context free 
+... ca670704 jb february 28 1978 901 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2182
+interrupts supervisors monitors debugging ***parallel*** processing associative memories microprogramming 3 
+... 42 ca710608 jb february 3 1978 949 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2952
+functions realizable with word ***parallel*** logical and twos complement addition instructions cacm june 1977 warren h 
+... 32 ca770611 jb december 28 1977 1245 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1828
+synchronization in a ***parallel*** accessed data base the following problem is considered given a data base which can 
+... ***parallel*** accessing ***parallel*** search file search data base synchronization locking deadlock 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2896
+an exercise in proving ***parallel*** programs correct a ***parallel*** program dijkstras on the fly garbage collector is proved 
+... the fine degree of in terleaving in this program makes it especially difficult to understand and complicates the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3059
+models for ***parallel*** processing within programs application to cpuio and ioio overlap approximate queueing models for internal ***parallel*** 
+... the percentage performance improvement from cpuio overlap is found to be greatest for systems which are in approximate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1952
+index by subject to ***algorithms*** 1970 cacm december 1970 ca701211 jb february 9 1978 250 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2007
+***algorithms*** policyrevised august 1970 cacm august 1970 ca700814 jb february 10 1978 312 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1811
+it is shown that with proper programming solution time when n processors are applied approaches 1n times the 
+... communication between cooperating processors is by means of data in storage shared by all processors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1846
+on simulating networks of ***parallel*** processes in which simultaneous events may occur some of the problems of simulating 
+... simulation ***parallel*** processes simultaneous events picture processing computer system simulation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2865
+verifying properties of ***parallel*** programs an axiomatic approach an axiomatic method for proving a number of properties of 
+... this paper defines a more powerful deductive system which is in some sense complete for partial correctness 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1873
+accelerating lp ***algorithms*** it is shown how a novel method for computing related inner products can accelerate the 
+... linear programming revised simplex method multiple pricing inner product 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0371
+remarks on ***algorithms*** 2 and 3 algorithm 15 and ***algorithms*** 25 and 26 cacm march 1961 wilkinson j 
+... ca610311 jb march 17 1978 1235 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0804
+ca630720 jb march 14 1978 819 am 
+... exponentiation of series ***algorithms*** 134 cacm july 1963 thacher jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1342
+ca661207a jb march 2 1978 230 pm 
+... transportation problem ***algorithms*** 293 h cacm december 1966 bayer g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1374
+ca660909e jb march 23 1978 429 pm 
+... evaluation of determinant determinant evaluation ***algorithms*** 41f3 269f3 cacm september 1966 bergson a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1660
+index by subject to ***algorithms*** 1960 1968 cacm december 1968 ca681206 jb february 21 1978 139 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2830
+ca760909 jb january 4 1978 843 am 
+... a practitioners guide to addressing ***algorithms*** corrigendum cacm september 1976 severance d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0320
+logic tables are two dimensional in nature enabling us to fully express and consider both the sequential and 
+... logic structure tables logic tables are an excellent way of developing and expressing the logic required in procedures 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1008
+scheduling meetings with a computer computer scheduling of papers as it was developed for the 1960 meeting of 
+... the faseb meeting is the largest scientific meeting held in the united states each year 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1341
+the continued use of such a structure raises questions about its effects on the usefulness of future systems 
+... levels of computer systems in building current computer systems we tend to break them down into levels of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1536
+dynamic computation of derivatives it is shown how wengerts procedure for computation of derivatives can be implemented conveniently 
+... evaluation of a function and derivative proceed in ***parallel*** as in wengerts procedure but with the imaginary parts 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1554
+a computer technique for displaying n dimensional hyperobjects a digital computer and automatic plotter have been used to 
+... the observed projections and their motions were a direct extension of three dimensional experience but no profound feeling 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2514
+an array grammar programming system a package of fortran programs has been developed that permits a user to 
+... the user can control the rule selection procedure in a derivation or parse using weighted programming matrices he 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2515
+network project event node network activity node network minimal event node network dummy activity project precedence relations 3 
+... minimal event node network of project precedence relations a procedure for constructing a minimal event node network to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2727
+multiple byte processing with full word instructions a method is described which allows ***parallel*** processing of packed data 
+... it provides a useful technique for processing small data items such as alphanumeric characters 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2785
+the syntax of the language is based on algol 60 but has been extended to allow the programmer 
+... glypnir a programming language for illiac iv glypnir is one of the earliest existing languages designed for programming 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2895
+a language for formal problem specification a language for specifying the in tended behavior of communicating ***parallel*** processes 
+... the specifications are constrain ts on the order in which events of a computation can occur 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3044
+a note on conditional expressions evaluation of a conditional expression may succeed even when the deciding predicate diverges 
+... ***parallel*** evaluation suspending cons lisp conditional forms if then else ambiguous function infinite structures 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3175
+breaking substitution ciphers using a relaxation algorithm substitution ciphers are codes in which each letter of the alphabet 
+... in this paper the problem of breaking substitution ciphers is represented as a probabilistic labeling problem 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0270
+ca611011 jb march 16 1978 1250 pm 
+... techniques for storage allocation ***algorithms***  cacm october 1961 kelley jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1796
+index by subject to ***algorithms*** 1969 cacm december 1969 this 1969 index is the first supplement to the 
+... ca691216 jb february 15 1978 203 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1851
+generator of spanning trees ***algorithms*** 354 h cacm september 1969 mcilroy m 
+... 32 ca690904 jb february 15 1978 450 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1953
+exponential integral eix ***algorithms*** 385 s13 cacm december 1970 redish k 
+... 22 ca701210 jb february 9 1978 304 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2725
+ca750810 jb january 6 1978 343 pm 
+... a comparison of simulation event list ***algorithms*** corrigendum cacm august 1975 vaucher j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2942
+patterns snobol 4 pattern matching string processing pattern implementation ***algorithms*** in pascal 4 
+... an algol based implementation of snobol 4 patterns cacm july 1977 brownlee j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2342
+interference between communicating ***parallel*** processes various kinds of interference between communicating ***parallel*** processes have been examined by dijkstra 
+... solutions have been given for the mutual exclusion problem and associated subproblems in the form of ***parallel*** programs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2851
+formal verification of ***parallel*** programs two formal models for ***parallel*** computation are presented an abstract conceptual model and 
+... ***parallel*** program correctness verification assertions deadlock mutual exclusion petrinet 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1200
+on reversible subroutines and computers that run backwards a computer design is describe which permits subroutines to be 
+... it is shown that using this concept a number of new subroutine types can be developed with rather 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1325
+current attempts by the authors to extend the diagnostic capabilities of the present system are particularly concerned with 
+... remote on line real time computer diagnosis of the clinical electrocardiogram presented in this paper is a brief 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1959
+an interrupt based organization for management information systems a programming structure language constructs and a supervisory system organization 
+... the bases for this organization are a generalized interrupt structure and the newly introduced concept of file tagging 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2401
+problems regarding merging and disconnection of patterns during the process as well as the determination of the maximum 
+... on shrinking binary picture patterns a ***parallel*** processing algorithm for shrinking binary patterns to obtain single isolated elements 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2898
+a conceptual framework for a nonprocedural programming language a sequential programming language forces the programmer to prescribe explicitly 
+... ***parallel*** programming descriptive programming nonprocedural programming definitional language data flow programming applicative programming 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1171
+a comparison of the primal simplex and primal dual ***algorithms*** for linear programming a statistical comparison of the 
+... it has also been found via a regression analysis that the relevant parameters in determining the difference in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1551
+on compiling ***algorithms*** for arithmetic expressions this paper deals with ***algorithms*** concerning arithmetic expressions used in a fortran 
+... the ***algorithms*** generate an object code which minimizes the frequency of storing and recovering the partial results of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1658
+computer experiments still provide little hope of solving problems with over 100 variables with a reasonable amount of 
+... analysis of ***algorithms*** for the zero one programming problem this paper is concerned with a review and examination 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2200
+division algorithm complement arithmetic complement division ones complement arithmetic twos complement arithmetic 3 
+... on complement division the division algorithm theorem is expressed in a form that permits it to serve as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2226
+further evidence for the analysis of ***algorithms*** for the zero one programming problem the purpose of this note 
+... operations research integer programming zero one variables ***algorithms*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2267
+each subroutine computes the radix and number of digits of the floating point numbers and whether rounding or 
+... ***algorithms*** to reveal properties of floating point arithmetic two ***algorithms*** are presented in the form of fortran subroutines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2283
+it is found that the algorithm operating with the triangular array is the most sensitive to image irregularities 
+... thinning ***algorithms*** on rectangular hexagonal and triangular arrays in this report three thinning ***algorithms*** are developed one each 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2490
+efficient ***algorithms*** for graph manipulation h algorithm a447 efficient ***algorithms*** are presented for partitioning a graph into connected 
+... if v is the number of vertices and e is the number of edges each algorithm requires time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2834
+efficient generation of the binary reflected gray code and its applications ***algorithms*** are presented to generate the n 
+... applications to the generation of the combinations of n things taken k at a time the compositions of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3055
+an analysis of ***algorithms*** for the dutch national flag problem solutions to the dutch national flag problem have 
+... dijkstra starts with a simple program and arrives at an improved program by refinement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1409
+nebula a digital computer using a 20 mc glass delay line memory oregon state university has designed and 
+... the design objectives as originally conceived in a special seminar were 1 to be a research project in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1471
+these meta instructions relate to ***parallel*** processing protection of separate computations program debugging and the sharing among users 
+... programming semantics for multiprogrammed computations the semantics are defined for a number of meta instructions which perform operation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1603
+user programs communicate with the monitor through a small set of meta instruction which consists mostly of machine 
+... a multiprogramming monitor for small machines int a combination hardwaresoftware monitor designed to control a wide variety of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1928
+the main results obtained are a clear and useful separation of structural and behavioral model description a reduction 
+... essential objectives sought are improved ease and economy in model generation economy in execution time and space and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1960
+the main features of the system include the ability given to any user to schedule his own ***parallel*** 
+... process management and resource sharing in the multiaccess system esope the main design principles of the multiaccess system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2080
+the nucleus of a multiprogramming system this paper describes the philosophy and structure of a multiprogramming system that 
+... multiprogramming operating systems ***parallel*** processes process concept process communication message buffering process hierarchy process creation process removal 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2175
+depending on the hardware environment in which the expression is to be executed these subexpressions can be evaluated 
+... this observation is valid for configurations ranging from a uniprocessor with an unbuffered main memory to multiprocessor with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2195
+picture processing picture recognition picture description curve detection line detection edge detectionoptimal detection heuristic methods global recognition ***parallel*** 
+... the method described is suitable for ***parallel*** processing because the operations relative to each state can be computed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2376
+the formal description of the synchronization mechanism makes it very easy to prove that the buffer will neither 
+... this is demonstrated for a system consisting of many sending processes which deposit messages in a buffer and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2497
+an interlock scheme called read interlock which does not require memory pause instructions has been developed for a 
+... when a processor examines a lock a memory location with a read interlock instruction it will be interrupted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2967
+a comparison of hardware and software associative memories in the context of computer graphics the associative processing of 
+... associative memory associative processor content addressable memory graphics information retrieval data structures software evaluation hardware evaluation ***parallel*** processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0717
+algorithm are described which generate without repetitions the n tuples corresponding to 1 all partitions of the given 
+... partitioning ***algorithms*** for finite sets the partitions of a set with n elements are represented by certain n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1373
+gamma function gamma function for range 1 to 2 reciprocal gamma function to real argument gamma function logarithm 
+... ca660909d jb march 23 1978 428 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1619
+in the present paper methods are described which are error free simple in concept and usually less costly 
+... error free methods for statistical computations neely has discussed computational error generated by some ***algorithms*** used to compute 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2158
+a stopping criterion for the newton raphson method in implicit multistep integration ***algorithms*** for nonlinear systems of ordinary 
+... ordinary differential equations linear multistep formulas newton raphson method stopping criterion 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2236
+remarks on characteristic values and associated solutions of mathieus differential equation exponential integral and systems of hyperbolic p 
+... ***algorithms*** r352 r385 r392 cacm december 1972 frisch m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2306
+ancient babylonian ***algorithms*** the early origins of mathematics are discussed emphasizing those aspects which seem to be of 
+... a number of old babylonian tablets many of which have never before been translated into english are quoted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2337
+one new algorithm for finding the minimum and maximum elements of a set with fewest comparisons is proved 
+... a sorting problem and its complexity a technique for proving min max norms of sorting ***algorithms*** is given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2362
+matrix ***algorithms*** linear equations fortran paged memory virtual memory array processing 4 
+... linear equation solver f4 algorithm a423 cacm april 1972 moler c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2417
+four combinatorial ***algorithms*** g6 algorithm a466 cacm november 1973 ehrlich g 
+... 39 ca731109 jb january 20 1978 959 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2426
+***algorithms*** scale1 scale2 and scale3 for determination of scales on computer generated plots j6 algorithm a463 cacm october 
+... 41 ca731014 jb january 20 1978 1101 am 

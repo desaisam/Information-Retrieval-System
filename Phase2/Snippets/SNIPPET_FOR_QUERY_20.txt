@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2695
+consider the class of ***sparse*** ***matrices*** which can be tridiagonalized using only row and corresponding column permutations 
+... tridiagonalization by permutations tridiagonalizing a matrix by similarity transformations is an important computational tool in numerical linear algebra 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2986
+operations on ***sparse*** relations various computations on relations boolean ***matrices*** or directed graphs such as the computation of 
+... for example how to compute operator precedence or wirth weber precedence relations in on2 steps is shown as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2769
+a modification of warshalls algorithm for the transitive closure of binary relations an algorithm is given for computing 
+... the algorithm is similar to warshalls although it executes faster for ***sparse*** ***matrices*** on most computers particularly in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2524
+after closest in terms of a metric on the the key space is suitably defined three file structures 
+... some approaches to best match file searching the problem of searching the set of keys in a file 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1563
+a method for finding hamilton paths and knights tours the use of warnsdorffs rule for finding a knights 
+... ca670710 jb february 28 1978 828 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2780
+on computing certain elements of the inverse of a ***sparse*** matrix a recursive algorithm for computing the inverse 
+... the formulas for the algorithm are given the dependency relationships are derived the computational costs are developed and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1457
+data manipulation and programming problems in automatic information retrieval automatic information retrieval programs require the manipulation of a 
+... a variety of data representations which have been used to describe structured information are then examined and the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2490
+efficient ***algorithms*** for ***graph*** manipulation h algorithm a447 efficient ***algorithms*** are presented for partitioning a ***graph*** into connected 
+... if v is the number of vertices and e is the number of edges each algorithm requires time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2905
+perfect hashing functions a single probe retrieving method for static sets a refinement of hashing which allows retrieval 
+... hashing hashing methods hash coding direct addressing identifier to address transformations perfect hashing functions perfect hash coding reduction 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2630
+on computing sets of shortest paths in a ***graph*** two ***algorithms*** are presented that construct the k shortest 
+... these ***algorithms*** generalize the floyd algorithm and the dantzig algorithm for finding the shortest path between every pair 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3156
+computing connected components on parallel computers we present a parallel algorithm which uses n2 processors to find the 
+... simultaneous access to the same location is permitted for fetch instructions but not for store instructions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2167
+algebraic manipulation algebraic simplification canonical simplification 3 
+... finally we discuss some of the theoretical results related to algebraic simplification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2232
+pattern width at a given angle that the pattern feature width as a function of angle possesses several 
+... the results consist of a set ***theoretic*** definition of width at angle a theorem relating it to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2199
+a ***sparse*** matrix package part i f4 algorithm 408 cacm april 1971 mcnamee j 
+... 14 ca710406 jb february 3 1978 320 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1504
+***algorithms*** for finding a fundamental set of cycles for an undirected linear ***graph*** given the adjacency matrix of 
+... for graphs with a large number of nodes and edges when storage is limited our algorithm is superior 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2368
+***graph*** ***algorithms*** ***graph*** processing shannon switching games game playing ***graph*** theory positional games demonstration programs game theory spinning 
+... an implemented ***graph*** algorithm for winning shannon switching games in this tutorial paper a computer program which wins 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2877
+a program data flow analysis procedure the global data relationships in a program can be exposed and codified 
+... the procedure uses an interval ordered edge listing data structure and handles reducible and irreducible graphs indistinguishably 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2557
+on the time required for a sequence of matrix products this paper discusses the multiplication of conformable sequences 
+... the minimum time required to evaluate such products on ordinary serial computers as well as parallel computers is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2506
+matrix ***sparse*** matrix matrix manipulation fortran standards 5 
+... 14 ca730514 jb january 23 1978 430 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2442
+ca730913 jb january 23 1978 837 am 
+... a ***sparse*** matrix package algorithm r408 cacm september 1973 lawrence e 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2766
+copying cyclic list structures in linear time using bounded workspace a bounded workspace copying algorithm for arbitrary list 
+... the best previous bounded workspace copying ***algorithms*** achieved n2 time without tag bits and n log n time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1727
+object program reduction supervisor calls decreasing jump frequencies estimation control transfers estimation optimal program segmentation markov chain program 
+... one way of estimating frequencies of jumps in a program for the segmentation of a program it is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2081
+some complete calculi for ***matrices*** a matrix calculus is introduced with the intention of developing data structures suitable 
+... the paper investigates how the special structure of ***matrices*** can be described and utilized for efficient computing by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2273
+conversion of decision tables by rule mask method without rule mask two ***algorithms*** for generating computer programs from 
+... execution time can be considerably reduced by instantly marking rules which are not ***applicable*** ***algorithms*** 1 and 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2484
+a note on information organization and storage since the logical structure of a data base can be represented 
+... there are three important elements in this general construction method namely a set of binary relations an algorithm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3018
+as consequences of this relationship the keyword conflict problem and the edge clique cover problem are shown to 
+... covering edges by cliques with regard to keyword conflicts and intersection graphs kellerman has presented a method for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3040
+an algorithm is developed that can achieve any level of consistency desired in order to preprocess the problem 
+... synthesizing constraint expressions a constraint network representation is presented for a combinatorial search problem finding values for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3124
+one of the approaches is used to define an apl array to be a recursive data structure equivalent 
+... an extension of apl is proposed that includes new primitive functions to manipulate the nesting level of arrays 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3164
+progressive acyclic digraphs a tool for database integrity a progressive acyclic digraph pad algorithm accepts are requests and 
+... experiments suggest that for large n the second is considerably faster though both are asymptotically onr where n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1423
+a simple extension has been found to the conventional orthogonalization method for inverting non singular ***matrices*** which gives 
+... a simple algorithm for computing the generalized inverse of a matrix the generalized inverse of a matrix is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3152
+storage reorganization techniques for matrix computation in a paging environment in order to multiply ***matrices*** while minimizing the 
+... this also makes possible the derivation of an asymptotically better bound for multiplication of ***matrices*** given in row 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0661
+indexing and the lambda notation some methods of indexing sequentially stored elements of ***sparse*** multi dimensional arrays are 
+... ca631213 jb march 13 1978 251 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2405
+linear systems with almost tridiagonal matrix f4 algorithm a470 cacm december 1973 kubicek m 
+... system of linear equations almost tridiagonal matrix ***sparse*** matrix 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1886
+once all the factors have been ascertained a sequencing procedure is applied which orders the factors and expressions 
+... generation of optimal code for expressions via factorization given a set of expressions which are to be compiled 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2142
+reconstruction of pictures from their projections there are situations in the natural sciences and medicine e 
+... the most important uses may be the reconstruction of possibly asymmetric particles from electron micrographs and three dimensional 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2216
+the empirical tests as well as the analytical results are in agreement with previously published results for the 
+... the solution to the integral equation indicates that using more advanced ***algorithms*** in the family makes only minor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2453
+information theory applied to the conversion of decision tables to computer programs using ideas from information theory this 
+... the method is ***applicable*** to any limited entry decision table and does not require that actions have single 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2289
+a major challenge in the effective use of cellular arrays for the solution of ***graph*** problems is the 
+... in this paper it is shown that cellular arrays are inherently well suited for the solution of many 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3094
+analyses of deterministic parsing ***algorithms*** this paper describes an approach for determining the minimum maximum and average times 
+... these quantities are presented in the form of symbolic formulas called time formulas 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1145
+git a heuristic program for testing pairs of directed line graphs for isomorphism given a pair of directed 
+... since a straightforward enumerative algorithm might require 40 years of running time on a very high speed computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2189
+every set of edges ek 1 ek k 3 k n 1 is determined recursively by constructing a 
+... generation of rosary permutations expressed in hamiltonian circuits systematic generation of a specific class of permutations fundamental to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2883
+some experimental results are given these show how various information about the shape of the contour of an 
+... picture processing pattern recognition edge detection contour detection contour following optimization problems dynamic programming shortest path heuristic search 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1924
+organizing ***matrices*** and matrix operations for paged memory systems matrix representations and operations are examined for the purpose 
+... matrix ***algorithms*** array processing paging ***algorithms*** paged memory systems virtual memory systems array storage allocation storage allocation 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3176
+storing a ***sparse*** table the problem of storing and searching large ***sparse*** tables is ubiquitous in computer science 
+... we propose a good worst case method for storing a static table of n entries each an integer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2172
+41 ca710710 jb february 2 1978 432 pm 
+... ***graph*** plotter j6 algorithm 412 cacm july 1971 cermak j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2752
+generation of all the cycles of a ***graph*** from a set of basic cycles h algorithm 492 cacm 
+... 24 ca750601 jb january 9 1978 155 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2314
+list processing programming languages design of programming languages interactive systems control structures data structures programming primitives semantics advanced 
+... requirements for advanced programming systems for list processing list processing systems should be designed to facilitate production of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1963
+***matrices*** condition numbers pei ***matrices*** eigenvectors eigenvalues 5 
+... 14 ca701116 jb february 9 1978 421 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1787
+use of transition ***matrices*** in compiling an ***algorithms*** is described which constructs from a suitable bnf grammar an 
+... the type of recognizer used in a number of compilers operates with a pushdown stack and with a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1630
+computer representation of planar regions by their skeletons any region can be regarded as a union of maximal 
+... moreover the skeleton representation seems to have advantages when it is necessary to determine repeatedly whether points are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2430
+algorithm ***graph*** theory circuit search algorithm path search algorithm searching 3 
+... the elementary circuits of a ***graph*** h algorithm a459 cacm october 1973 syslom 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1481
+ca660206d jb march 23 1978 730 pm 
+... ***graph*** plotter algorithm 278 j6 cacm february 1966 lloyd p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2161
+ca710903 jb february 2 1978 224 pm 
+... an algorithm for the blocks and cutnodes of a ***graph*** corrigendum cacm september 1971 paton k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2461
+ca730813 jb january 23 1978 1030 am 
+... ***graph*** plotter algorithm r412 cacm august 1973 watkins r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2790
+ca750209 jb january 12 1978 254 pm 
+... the elementary circuits of a ***graph*** algorithm r459 cacm february 1975 syslo m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0070
+construction of a set of test ***matrices*** this paper develops the equations and properties of a set of 
+... ca590803 jb march 22 1978 609 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2133
+algorithm for the assignment problem rectangular ***matrices*** h algorithm 415 cacm december 1971 bourgeois f 
+... operations research optimization theory assignment problem rectangular ***matrices*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0828
+incompressible flow network calculations a general method for the calculation of flows and pressures in fluid flow networks 
+... ca630621 jb march 14 1978 1003 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0256
+ca611112 jb march 15 1978 1046 pm 
+... a set of test ***matrices*** algorithm 52 cacm november 1961 dubay g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0285
+ca610909 jb march 16 1978 939 pm 
+... solution of tridiagonal ***matrices*** cacm september 1961 wenrick r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0301
+ca610803 jb march 16 1978 1013 pm 
+... a set of test ***matrices*** algorithm 52 cacm august 1961 gilbert h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0315
+ca610702 jb march 16 1978 1028 pm 
+... solution of tridiagonal ***matrices*** cacm july 1961 wenrick r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0349
+ca610419 jb march 16 1978 1147 pm 
+... a set of test ***matrices*** cacm april 1961 herndon j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0660
+ca631214 jb march 13 1978 246 pm 
+... more test ***matrices*** for determinants and inverses pracnique cacm december 1963 englar t 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0749
+ca630909 jb march 13 1978 735 pm 
+... note onstochastic ***matrices*** cacm september 1963 dumey a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0751
+ca630907 jb march 13 1978 738 pm 
+... a note on a set of test ***matrices*** for inversion cacm september 1963 rodman r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0777
+ca630821 jb march 13 1978 824 pm 
+... a set of test ***matrices*** algorithm 52 cacm august 1963 naur p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0896
+ca630324 jb march 14 1978 1258 pm 
+... characteristic values and vectors of defective ***matrices*** cacm march 1963 thompson g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0936
+ca630112 jb march 14 1978 235 pm 
+... a set of test ***matrices*** algorithm 52 cacm january 1963 naur p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0955
+ca641216 jb march 9 1978 316 pm 
+... a class of ***matrices*** to test inversion procedures cacm december 1964 cline r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0956
+ca641215 jb march 9 1978 317 pm 
+... a family of test ***matrices*** cacm december 1964 newbery a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2778
+ca750310 jb january 9 1978 426 pm 
+... perturbations of eigenvalues of non normal ***matrices*** corrigendum cacm march 1975 sluis a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2699
+automatic data structure choice in a language of very high level setl is a set theoretically oriented language 
+... among other methods of interest the optimizer uses techniques which allow relations of inclusion and membership to be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2888
+the principles of methodical coding are discussed and the way in which logical connections between data items must 
+... in business systems associated with large collections of integrated files database it is vital to assign codes in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0144
+provision is made for transmission of purely numeric andor binary streams and for single character transmission of non 
+... since english words form only a ***sparse*** set of all possible alphabetic combinations present methods are inefficient when 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1822
+shortest path forest with topological ordering algorithm h cacm november 1969 dial r 
+... shortest path tree network directed ***graph*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1983
+32 ca701007 jb february 10 1978 924 am 
+... spanning tree h algorithm 399 cacm october 1970 seppanen j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0494
+a finite sequentially compact process for the adjoints of ***matrices*** over arbitrary integral domains cacm august 1962 luther 
+... ca620834 jb march 17 1978 904 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0496
+ca620832 jb march 17 1978 910 pm 
+... a set of ***matrices*** for testing computer programs cacm august 1962 brenner j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0511
+ca620817 jb march 17 1978 935 pm 
+... a set of test ***matrices*** algorithm 52 cacm august 1962 hillmore j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0635
+ca620208 jb march 20 1978 345 pm 
+... a note on multiplying boolean ***matrices*** cacm february 1962 baker j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1151
+ca640103 jb march 10 1978 538 am 
+... a note on multiplying boolean ***matrices*** ii cacm january 1964 comstock d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1791
+triangular factors of modified ***matrices*** algorithm 319 f1 cacm january 1968 green d 
+... 14 ca680102 jb february 23 1978 250 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2281
+the eigen problem of block tridiagonal ***matrices*** cacm september 1972 khalil h 
+... 17 ca720909 jb january 27 1978 418 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2284
+solution of the matrix equation axxbc f4 algorithm a432 cacm september 1972 bartels r 
+... 14 ca720906 jb january 27 1978 431 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2758
+symmetric ***matrices*** factorization test ***matrices*** matrix inversion separable systems 5 
+... 14 ca750509 jb january 9 1978 226 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2631
+text searching information theory file organization direct access information retrieval character string bit vector 3 
+... an information ***theoretic*** approach to text searching in direct access systems using direct access computer files of bibliographic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2290
+predominator immediate predominator ***graph*** theory directed ***graph*** shortest path articulation connectivity program optimization optimizing compiler 4 
+... immediate predominators in a directed ***graph*** h algorithm a430 cacm august 1972 purdom jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2619
+***graph*** coloring conditions for the existence of solutions to the timetable problem a necessary and sufficient condition is 
+... using some recent results that convert graphs with preconditions to graphs without them it is shown that the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3139
+finally an exact method is given which performs better than the randall brown algorithm and is able to 
+... new methods to color the vertices of a ***graph*** this paper describes efficient new heuristic methods to color 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1153
+a fast procedure for generating normal random variables a technique for generating normally distributed random numbers is described 
+... it is faster than those currently in general use and is readily ***applicable*** to both binary and decimal 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1047
+generation of test ***matrices*** by similarity transformations a method for obtaining test ***matrices*** with a prescribed distribution of 
+... the process consists of using particularly simple similarity transformations to generate full ***matrices*** from canonical forms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1707
+this result is used to construct a similarity transformation which when applied to a particular upper triangular matrix 
+... generation of positive test ***matrices*** with known positive spectra sufficient conditions are given for a real matrix to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1876
+generation of test ***matrices*** having certain sign patterns and prescribed positive spectra a class of orthogonal transformations is 
+... test ***matrices*** positive ***matrices*** sign patterns orthogonal transformations positive eigenvalues 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2134
+an extension of the munkres algorithm for the assignment problem to rectangular ***matrices*** the assignment problem together with 
+... timing results obtained by using an adapted version of silvers algol procedure are discussed and a relation between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2805
+perturbations of eigenvalues of non normal ***matrices*** the problem considered is to give bounds for finite perturbations of 
+... the bounds which are derived are shown to be almost attainable for any set of ***matrices*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2806
+two hadamard numbers for ***matrices*** a discussion is given of two functions of the entries of a square 
+... ***matrices*** eigenvalues norms condition numbers error analysis gram schmidt orthogonalization 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2444
+cliques maximal complete subgraphs clusters backtracking algorithm branch and bound technique recursion 3 
+... finding all cliques of an undirected ***graph*** algorithm a457 cacm september 1973 bron c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2763
+***graph*** basic cyclesfundamental cycle spanning tree vertex adjacency matrix 5 
+... 24 ca750504 jb january 9 1978 239 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1961
+an efficient search algorithm to find the elementary circuits of a ***graph*** a theoretically most efficient search algorithm 
+... empirical bounds are presented relating the speed of the algorithm to the number of vertices and the number 

@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2634
+an evaluation of ***statistical*** software in the social sciences several hundred college and university computer installations now offer 
+... in order to provide users with a basis for selection and use ***tests*** were made for each of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1344
+***statistical*** computations based upon algebraically specified ***models*** based upon a machine readable ***statistical*** model and related symbolic specifications 
+... a procedure for obtaining variance ***components*** and calculated f statistics for the model terms is ***included*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1474
+***tests*** of probabilistic ***models*** for propagation of roundoff errors in any prolonged computation it is generally assumed that 
+... the purpose of this paper is to give precise descriptions of certain probabilistic ***models*** for roundoff error and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1171
+a comparison of the primal simplex and primal dual ***algorithms*** for ***linear*** programming a ***statistical*** comparison of the 
+... it has also been found via a ***regression*** analysis that the relevant parameters in determining the difference in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1695
+plexus an on line ***system*** for modeling neural networks a description is presented of plexus a ***system*** which 
+... biological modeling data analysis discrete ***system*** simulation library systems modeling network simulation neural networks neurophysiological ***models*** on line 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1709
+a modification of efroymsons technique for stepwise ***regression*** analysis the computational technique conventionally used for stepwise multiple ***linear*** 
+... the near symmetry of the matrices involved permits a modification requiring only half the storage and computations of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1637
+problems in the ***statistical*** analysis of simulation experiments the comparison of means and the length of sample records 
+... it is shown how the variance of the sample mean relates to the spectrum of the generating process 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3049
+a simply extended and modified batch environment graphical ***system*** sembegs sembegs is a complete batch environment graphical ***system*** 
+... the ***design*** of sembegs is founded upon the basic assumption that the true aim of computer graphics is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1698
+using the model we answer questions like how many processes are suspended waiting for console input what is 
+... a ***statistical*** model for console behavior in multiuser computers the ability of a computer ***system*** to communicate with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1252
+symbolic notations for ***statistical*** tables and an approach towards automatic ***system*** ***design*** the preparation of ***statistical*** tables is 
+... such a notation also provides the first step towards making automatic a tedious and time consuming part of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1816
+least ***squares*** curve fitting orthogonal polynomials three term recurrence polynomial ***regression*** approximation forsythes method 5 
+... ***generalized*** least ***squares*** fit by orthogonal polynomials algorithm 296 e2 cacm november 1969 watson w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1946
+computing polynomial resultants bezouts determinant vs 
+... collins reduced p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2999
+an approach to multidimensional data array processing by computer some recent work on the development of general purpose 
+... array processing table processing ***statistical*** analysis data retrieval data processing syntax for data structures computing techniques time series 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2849
+computer networks packet switching multiprocessing distributed control distributed computing broadcast communication ***statistical*** arbitration 3 
+... ethernet distributed packet switching for local computer networks ethernet is a branching broadcast communication ***system*** for carrying digital 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2395
+quadratic programming for nonlinear ***regression*** a quadratic programming algorithm is described for use with the magnified diagonal method 
+... nonlinear equations nonlinear ***regression*** nonlinear programming quadratic programming least ***squares*** inequality constraints iteration 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2216
+the empirical ***tests*** as well as the analytical results are in agreement with previously published results for the 
+... the solution to the integral equation indicates that using more advanced ***algorithms*** in the family makes only minor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2062
+the application of sequential sampling to simulation an example inventory model four different sequential sampling procedures are applied 
+... simulation inventory ***models*** sequential sampling ***models*** experimental ***design*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1398
+robot data screening a solution to ***multivariate*** type problems in the biological and social sciences a new approach 
+... criteria for the acceptance of a variable as well as the termination of the searching process are derived 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1206
+the instrument reliability factors irf which exactly define the limits of reliability of each measured item of information 
+... the self judgment method of curve fitting a computer oriented method for processing and communicating numerical data is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2825
+analysis of variance cluster analysis contingency tables data analysis discriminant analysis factor analysis graphics outliers ***regression*** time series 
+... the bmd and bmdp series of ***statistical*** computer programs cacm october 1976 frane j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3166
+computing standard deviations accuracy four ***algorithms*** for the numerical computation of the standard deviation of unweighted sampled data 
+... we conclude that all four ***algorithms*** will provide accurate answers for many problems but two of the ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2167
+algebraic manipulation algebraic simplification canonical simplification 3 
+... finally we discuss some of the theoretical results related to algebraic simplification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3138
+***linear*** programming numerical ***linear*** algebra modified givens transformations ***linear*** programming ***test*** cases 5 5 
+... a mathematical programming updating method using modified givens transformations and applied to lp problems an efficient and numerically 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1691
+random numbers pseudorandom number generators autocorrelation function serial correlation digital shift register generators ***linear*** recurrence modulo two irreducible 
+... since computer word size can affect a generators ***statistical*** behavior the older mixed and simple congruential generators although 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2225
+circular integer partitioning a1 algorithm 403 cacm january 1971 coleman m 
+... partitions combinatorics ***statistical*** ***design*** of experiments 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0536
+0 one frequently has the problem of determining a set of values of the ai which minimizes the 
+... gives rise to a function n which is nonlinear in the ai then one may rely on a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2525
+the arithmetic systems studied are 6 digit hexadecimal and 22 digit binary floating point number representations combined with 
+... a ***statistical*** study of the accuracy of floating point number systems this paper presents the ***statistical*** results of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2604
+an interactive graphic display for region partitioning by ***linear*** programming using ***linear*** programming an interactive graphic display ***system*** 
+... in a conversational manner a user can easily obtain different partitionings by specifying and modifying the boundary the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1420
+a new uniform pseudorandom number generator a new multiplicative congruential pseudorandom number generator is discussed in which the 
+... this generator passes the usual ***statistical*** ***tests*** and in addition the least significant bits appear to be as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1631
+testing a random number generator the first 1000000 numbers produced by the random number generator used in the 
+... it is recommended that suitable ***tests*** be applied to all random numbers used in computer simulations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1619
+in the present paper methods are described which are error free simple in concept and usually less costly 
+... error free methods for ***statistical*** computations neely has discussed computational error generated by some ***algorithms*** used to compute 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1066
+some of the ***components*** of such a ***system*** are translation of problem statement in terms of basic data 
+... growing applications of ***linear*** programming use of ***linear*** programming ***models*** has grown so extensively in recent years that 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1433
+a note on ***linear*** programming algorithm ***design*** a combinatorial problem as ***linear*** programming ***models*** grow bigger and bigger 
+... the number of repetitions of a certain transfer of data from tape to core memory is considered 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1605
+an experimental comparison of time sharing and batch processing the effectiveness for program development of the mit compatible 
+... which were considered to be definitive of ***system*** effectiveness and analysis of variance techniques were employed to estimate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0069
+***statistical*** programs for the ibm 650 part i a collection is given of brief descriptions of ***statistical*** programs 
+... ca590804 jb march 22 1978 607 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2820
+the ***design*** and implementation of a table driven interactive diagnostic programming ***system*** caps is a highly interactive diagnostic 
+... most ***components*** of caps are table driven both to reduce the space needed for implementation and to increase 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1671
+it permits the user to define on line sets of rules statable within the framework presented in the 
+... the ***system*** is written in bbn lisp on the scientific data ***system*** 940 computer and is designed to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2389
+preliminary report on a ***system*** for general space planning a computer language and a set of programs within 
+... the language is an extension of algol and includes means to represent spaces and objects to manipulate them 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1835
+the iitran programming language the iitran language developed to be used by ***students*** and its important important features 
+... iitran is a procedure oriented language with a one level block structure and a variety of data types 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1423
+a simple extension has been found to the conventional orthogonalization method for inverting non singular matrices which gives 
+... a simple algorithm for computing the ***generalized*** inverse of a matrix the ***generalized*** inverse of a matrix is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3136
+on one hand there exists a stable price predictable market for larger general purpose computer systems 
+... computer market have been developed to study the relationships between ***system*** price and hardware performance 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2145
+automation of etching pattern layout help heuristic etching pattern layout program is an application program developed to computerize 
+... heuristic etching pattern layout wiring ***design*** of printed circuit board maze running lees algorithm 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3150
+just as high level languages enabled the programmer to escape from the intricacies of a machines order code 
+... beyond programming languages as computer technology matures our growing ability to create large systems is leading to basic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1629
+stat pack a biostatistical programming package a package of fortran ***statistical*** programs for use on almost any small 
+... the major ***design*** criteria of ease of use ease of modification flexibility of input and detail of output 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3087
+the language processing portion of the ***system*** uses a number of augmented transition networks each of which matches 
+... an english language question answering ***system*** for a large relational database by typing requests in english casual users 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2970
+the paper also described how a variance reduction method due to page 9 can be used to obtain 
+... achieving specific accuracy in simulation output analysis this paper extends the use of the regenerative property of queueing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2645
+two languages for estimating program efficiency two languages enabling their users to estimate the efficiency of computer programs 
+... programming languages syntax directed translation symbolic manipulation program efficiency analysis of ***algorithms*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0050
+ca591009 jb march 22 1978 409 pm 
+... ***statistical*** programs for the ibm 650 part ii cacm october 1959 hamblen j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0382
+ca610216 jb march 17 1978 1248 am 
+... ***statistical*** programs at the university of north carolina cacm february 1961 bush n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2795
+the model encompasses several diverse classes of linguistic knowledge which include 1 executable ***tests*** of conceptual properties stored 
+... in generating sentences from meaning structures the program employs both the information retrieval and deduction ***capabilities*** of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1876
+generation of ***test*** matrices having certain ***sign*** patterns and prescribed positive spectra a class of orthogonal transformations is 
+... ***test*** matrices positive matrices ***sign*** patterns orthogonal transformations positive eigenvalues 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2306
+ancient babylonian ***algorithms*** the early origins of mathematics are discussed emphasizing those aspects which seem to be of 
+... a number of old babylonian tablets many of which have never before been translated into english are quoted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1862
+university education computing science academic programs university computing centers surveys of computing centers university computing ***capabilities*** university student 
+... computing ***capabilities*** at argentine and chilean universities the author reports on a trip to universities in argentina and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2135
+***algorithms*** are developed for rapid computation of l q for a wide class of selections of q which 
+... rapid computation of general interpolation formulas and mechanical quadrature rules let f have n continuous on a closed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1146
+an efficient composite ***formula*** for multidimensional quadrature a 2s1 point second degree quadrature ***formula*** for integration over an 
+... when a large volume is subdivided into congruent rectangular subdivisions only one point is required in each interior 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2533
+gray code ***sign*** sequences ordering positive monotonic functions binary ***system*** galois sum 5 
+... gray code and the ****** ***sign*** sequence when f f f 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0322
+operational compatibility of systems conventions the general standards committee of the share organization has devoted considerable effort to 
+... each of these programming systems has been coded to utilize a fixed set of hardware ***components*** without recognizing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1802
+analysis of variance analysis of covariance ***regression*** analysis experimental ***design*** matrix direct product protection operator orthogonal matrix 5 
+... ***regression*** using certain direct product matrices algorithm 366 g2 cacm december 1969 claringbold p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2217
+experiments in automatic learning for a multipurpose heuristic program an automatic learning capability has been developed and implemented 
+... also automatic data handling routines were written for passing data between the learning program and the proving program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1410
+interarrival statistics for time sharing systems the optimization of time shared ***system*** performance requires the description of the 
+... this paper provides a ***statistical*** description of the user input process in the sdc arpa general purpose time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1411
+comparison of several ***algorithms*** for computation of means standard deviations and correlation coefficients several ***algorithms*** for computation of 
+... for each statistic the algorithm ***included*** the usual computing formulas correction due to an accumulated error term and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1578
+ca670607f jb march 23 1978 333 pm 
+... ***generalized*** least ***squares*** fit by orthogonal polynomials algorithm 296 e2 cacm june 1967 makinson g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1195
+uplifts university of pittsburgh ***linear*** file tandem ***system*** a series of computer programs has been developed and is 
+... the program are note worthy in that they create fixed length logical records and fixed length blocks from 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1732
+factorial analysis of variance algorithm 330 g1 cacm june 1968 oliveri 
+... 5 ca680613 jb february 22 1978 321 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1823
+5 ca691107 jb february 15 1978 1222 pm 
+... factorial analysis of variance algorithm g1 cacm november 1969 howell j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1604
+further analysis of a computing center environment empirical distributions of program lengths execution times processing times and loading 
+... the data are subdivided according to certain characteristics of users and jobs to obtain selected empirical conditional distributions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1764
+panel discussion on computer appreciation session 19 of the acm 20 th anniversary conference on august 31 1967 
+... its second half consisted of a panel discussion on computer appreciation organized and chaired by elliot i 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1754
+dynamic storage allocation systems in many recent computer ***system*** designs hardware facilities have been provided for easing the 
+... segmentation paging multiprogramming storage allocation storage management virtual memories storage fragmentation storage hierarchies addressing mechanisms 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2314
+list processing programming languages ***design*** of programming languages interactive systems control structures data structures programming primitives semantics advanced 
+... requirements for advanced programming systems for list processing list processing systems should be designed to facilitate production of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1978
+the use of interactive graphics to solve numerical problems with the advent of on line time sharing computer 
+... rather than simply use the new power to achieve fast turnaround we can develop interactive routines which are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1680
+a general purpose display processing and tutorial ***system*** adept a display expedited processing and tutorial ***system*** is described 
+... this ***system*** was designed to improve man computer communications by employing a display unit to interleave tutoring with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2890
+these ***models*** show that adaptive routing does not satisfy the necessary conditions for an optimal routing adaptive routing 
+... on quadratic adaptive routing ***algorithms*** two analytic ***models*** of a store and forward communications network are constructed one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2373
+relations between the average working set size the missing page rate and the interreference interval distribution may be 
+... properties of the working set model a programs working set wtt at time t is the set of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2771
+for practical designers the technique has the advantage that operations are concise readily composed and are given in 
+... the synthesis of solids bounded by many faces a technique is presented which allows a class of solid 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2324
+these contributions are likely to be the documentation of standard ***test*** problems construction of user oriented software and 
+... management science a view from nonlinear programming a brief history of integer and continuous nonlinear programming is presented 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2904
+an algorithm for reduction of operator strength a simple algorithm which uses an indexed temporary table to perform 
+... compilers optimization of compiled code program analysis operator strength reduction ***test*** replacement strongly connected region 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2343
+writable overlays 
+... a proposal to establish a pseudo virtual memory via writable overlays many computer systems solve executable storage size 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2114
+attribute value pair index keyword record record address k pointer k list file directory ***generalized*** file structure inverted 
+... a formal ***system*** for information retrieval from files a ***generalized*** file structure is provided by which the concepts 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1238
+a technique for integrated reports from a multi run ***system*** the requirements of a requisition accounting ***system*** for 
+... the simultaneous satisfaction of the reporting requirement and the accounting requirements posed definite problems in ***system*** ***design*** particularly 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1264
+this ***system*** will perform any or all of the following users specified functions assemble sps source decks post 
+... blnsys a 1401 operating ***system*** with braille ***capabilities*** blnsys is an operating ***system*** designed for a 4k 1401 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1032
+theoretical considerations in information retrieval systems information storage and retrieval systems are composed of three major ***components*** a 
+... for searching strategy a ***linear*** model for an evaluation function of relevancy is developed which rewards the ***system*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3131
+focus has the wide ranging character of floating point numbers with a uniformity of state distributions that give 
+... focus computations are typically five times faster than single precision fixed point or integer arithmetic for a mixture 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1586
+a ***generalized*** bairstow algorithm the bairstow algorithm is ***generalized*** to the case of a polynomial which is itself 
+... ca670606 jb february 28 1978 921 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2951
+the research clearly reveals that sufficient ***system*** data are currently obtainable at least for the five diverse arpa 
+... analytical simulation and ***statistical*** performance evaluation tools are employed to investigate the feasibility of a dynamic response time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3092
+the results of the analysis indicate that 1 maintenance and enhancement do consume much of the total resources 
+... characteristics of application software maintenance maintenance and enhancement of application software consume a major portion of the total 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3086
+on the complexity of computing the measure of uai bi the decision tree complexity of computing the measure 
+... these problems provide an excellent opportunity for discussing the effects of the computational model on the ease of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2887
+a study of errors error proneness and error diagnosis in cobol this paper provides data on cobol error 
+... errors in programming error correction cobol programming language errors error analysis diagnostics error proneness error frequency spelling errors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1750
+considerations in the ***design*** of a multiple computer ***system*** with extended core storage the use of large quantities 
+... the general ***design*** of the hardware arrangement and the software ***components*** and functions of such a ***system*** are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3067
+the ***generalized*** working set policy gws keeps as its resident set those segments whose retention costs do not 
+... ***generalized*** working sets for segment reference strings the working set concept is extended for programs that reference segments 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2868
+reflections on an operating ***system*** ***design*** the main features of a general purpose multiaccess operating ***system*** developed for 
+... distinctive features of the ***design*** were the use of ***capabilities*** for protection and the organization of the ***system*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1801
+analysis of variance analysis of covariance ***regression*** analysis experimental ***design*** balanced experiment missing data interblock estimate intra block 
+... analysis of variance for balanced experiments algorithm 367 g2 cacm december 1969 claringbold p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2718
+in this approach the goal of ***design*** is to derive a data structure which is capable of supporting 
+... an operational computer program is described which utilizers the functional approach to ***design*** data structures conforming to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2665
+that result demonstrates that marking can be done in average time nlogn without the aid of supplemental tag 
+... any noncyclic structure is copied in ***linear*** speed while cyclic structures are copied in average time less than 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1959
+an interrupt based organization for management information systems a programming structure language constructs and a supervisory ***system*** organization 
+... the bases for this organization are a ***generalized*** interrupt structure and the newly introduced concept of file tagging 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2245
+trace driven modeling and analysis of cpu scheduling in multiprogramming ***system*** microscopic level job stream data obtained in 
+... this technique called trace driven modeling provides an accurate replica of a production environment for the testing of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2812
+computer aided analysis information systems logical ***system*** ***design*** problem statement language problem statement analyzer physical ***system*** ***design*** accurately 
+... the statement of requirements was written in ads accurately defined systems and analyzed by a problem statement analyzer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1755
+proceedings of the acm symposium on operating ***system*** principles cacm may 1968 acm special ***interest*** committee ca680501 jb 
+... ****** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2514
+an array grammar programming ***system*** a package of fortran programs has been developed that permits a user to 
+... the user can control the rule selection procedure in a derivation or parse using weighted programming matrices he 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2786
+a ***system*** for typesetting mathematics this paper describes the ***design*** and implementation of a ***system*** for typesetting mathematics 
+... the ***system*** interfaces directly with text formatting programs so mixtures of text and mathematics may be handled simply 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2829
+texture and reflection in computer generated images in 1974 catmull developed a new algorithm for rendering images of 
+... several examples of images synthesized using these new techniques are ***included*** 

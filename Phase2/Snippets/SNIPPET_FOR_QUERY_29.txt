@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2644
+a ***theorem*** proving language for experimentation because of the large ***number*** of strategies and inference rules presently under 
+... the use of this language permits easy extension of automated ***theorem*** proving programs to include new strategies andor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2927
+some new upper bounds on the generation of ***prime*** numbers given an integer n what is the computational 
+... use of preprocessing techniques ***involving*** space time and additive multiplicative tradeoffs reduces this upper bound to onlog logn 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2200
+division algorithm complement arithmetic complement division ones complement arithmetic twos complement arithmetic 3 
+... on complement division the division algorithm ***theorem*** is expressed in a form that permits it to serve as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3021
+a method for obtaining digital signatures and public key cryptosystems an encryption method is presented with the novel 
+... digital signatures public key cryptosystems privacy authentication security factorization ***prime*** ***number*** electronic mail message passing electronic funds transfer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3131
+focus has the wide ranging character of floating point numbers with a uniformity of state distributions that give 
+... focus computations are typically five times faster than single precision fixed point or integer arithmetic for a mixture 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2089
+***prime*** ***number*** algorithm 310 a1 cacm march 1970 rapp d 
+... 0 ca700309 jb february 13 1978 345 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0942
+fortran subroutines for time ***series*** analysis the authors have recently been concerned in a time ***series*** study that 
+... wehave found that the many different numerical processes that were required could be built up almost completely from 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1840
+an efficient ***prime*** ***number*** generator algorithm 357 a1 cacm october 1969 singleton r 
+... 30 ca691006 jb february 15 1978 323 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1841
+a ***prime*** ***number*** generator using the treesort principle algorithm 356 a1 cacm october 1969 singleton r 
+... 31 ca691005 jb february 15 1978 325 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2462
+an efficient ***prime*** ***number*** generator algorithm r357 cacm august 1973 demorgan r 
+... ca730812 jb january 23 1978 1031 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1874
+generating pseudorandom numbers on a twos complement machine such as the ibm 360 the familiar multiplicative congruential generator 
+... random ***number*** uniform distribution pseudo random ***number*** random ***number*** generator multiplicative congruential generator power residue twos complement arithmetic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1538
+***prime*** ***number*** generator 2 algorithm 311 a1 cacm september 1967 chartres b 
+... ca670907b jb march 23 1978 234 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1933
+coding the lehmer pseudo random ***number*** generator an algorithm and coding technique is presented for quick evaluation of 
+... pseudo random ***number*** random ***number*** modular arithmetic uniform probability density uniform frequency function simulation ***prime*** factorization primitive roots 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2402
+pictorial pattern recognition phase problem x ray crystallography interactive graphics 3 
+... pictorial pattern recognition and the phase problem of x ray crystallography the availability of interactive three dimensional computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1257
+debug an extension to current on line debugging techniques a method of on linr assembly language debugging which 
+... with this program an online user may insert or delete in symbolic assembly language any ***number*** of lines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2167
+algebraic manipulation algebraic simplification canonical simplification 3 
+... finally we discuss some of the theoretical results related to algebraic simplification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2524
+after closest in terms of a metric on the the key space is suitably defined three file structures 
+... some approaches to best match file searching the problem of searching the set of keys in a file 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2276
+for the exponential distribution a definite recommendation can be made whereas in the case of the normal distribution 
+... computer methods for sampling from the exponential and normal distributions various methods are known for transforming uniformly distributed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1537
+***prime*** ***number*** generator 1 algorithm 310 a1 cacm september 1967 chartres b 
+... ca670907a jb february 27 1978 312 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1539
+***prime*** ***number*** generator 1 ***prime*** ***number*** generator 2 algorithm 35a1 algorithm 310a1 algorithm 311a1 cacm september 1967 chartres 
+... ca670907c jb march 23 1978 237 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1967
+an improved algorithm to produce complex primes algorithm 401 a1 cacm november 1970 bratley p 
+... 39 ca701112 jb february 9 1978 428 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2770
+the quadratic hash method when the table size is not a ***prime*** ***number*** previous work on quadratic hash 
+... it is shown that all composite numbers containing at least the square of one of the component primes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2289
+a major challenge in the effective use of cellular arrays for the solution of graph problems is the 
+... in this paper it is shown that cellular arrays are inherently well suited for the solution of many 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1420
+a new uniform pseudorandom ***number*** generator a new multiplicative congruential pseudorandom ***number*** generator is discussed in which the 
+... this generator passes the usual statistical tests and in addition the least significant bits appear to be as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2232
+pattern width at a given angle that the pattern feature width as a function of angle possesses several 
+... the results consist of a set theoretic definition of width at angle a ***theorem*** relating it to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1725
+associative memories content addressed memories ordered lists ordered information retrieval ordered retrieval ***theorem*** column digit values digit value 
+... a simple proof of lewins ordered retrieval ***theorem*** for associative memories an efficient method of ordered retrieval of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2206
+residue arithmetic symmetric residue modulus mixed radix representation symmetric mixed radix representation mixed radix conversion ***prime*** ***number*** linear 
+... exact solution of linear equations using residue arithmetic f4 algorithm 406 cacm march 1971 howell j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2507
+residue arithmetic symmetric residue modulus mixed radix representation symmetric mixed radix representation mixed radix conversion ***prime*** ***number*** linear 
+... exact solution of linear equations using residue arithmetic algorithm r406 cacm may 1973 howell j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1497
+this analysis is made subject to the condition that not more than one correction is required to obtain 
+... it is found that the normalization requirement could be narrowed down to a smaller range of divisors provided 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2420
+with this in mind slagle has shown how the axioms for partial ordering can be replaced by built 
+... experiments with an automatic ***theorem*** prover havingpartial ordering inference rules automatic ***theorem*** provers need to be made much 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2031
+algorithm and bound for the greatest common divisor of n integers a new version of the euclidean algorithm 
+... a ***theorem*** of lame that gives a bound for the ***number*** of iterations of the euclidean algorithm for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0804
+ca630720 jb march 14 1978 819 am 
+... exponentiation of ***series*** ***algorithms*** 134 cacm july 1963 thacher jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1691
+random numbers pseudorandom ***number*** generators autocorrelation function serial correlation digital shift register generators linear recurrence modulo two irreducible 
+... since computer word size can affect a generators statistical behavior the older mixed and simple congruential generators although 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1099
+because of intense training in and constant experience with locating objects in the unseen environment and also because 
+... since there are few if any occupations in which the blind can participate without serious disadvantage the opportunities 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1862
+university education computing science academic programs university computing centers surveys of computing centers university computing capabilities university student 
+... computing capabilities at argentine and chilean universities the author reports on a trip to universities in argentina and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2695
+consider the class of sparse matrices which can be tridiagonalized using only row and corresponding column permutations 
+... tridiagonalization by permutations tridiagonalizing a matrix by similarity transformations is an important computational tool in numerical linear algebra 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2605
+a precise numerical analysis program a description is given of a program for computing the solution to a 
+... arithmetic operations ***involving*** these numbers are executed according to interval arithmetic concepts with non significant digits automatically discarded 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3027
+the design of the processor is then traced from the initial ideas for an associatively addressed name store 
+... a description is then given of the instruction set which includes a ***number*** of features conducive to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2217
+experiments in automatic learning for a multipurpose heuristic program an automatic learning capability has been developed and implemented 
+... also automatic data handling routines were written for passing data between the learning program and the proving program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3037
+the algorithm executes in time proportional to n assuming that multiplication of integers not larger than n can 
+... a linear sieve algorithm for finding ***prime*** numbers a new algorithm is presented for finding all primes between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2229
+construction of rational and negative powers of a formal ***series*** some methods are described for the generation of 
+... ***series*** expansion ***series*** inversion root extraction binomial ***theorem*** newton iterations chebyshev ***series*** poisson ***series*** fourier ***series*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2306
+ancient babylonian ***algorithms*** the early origins of mathematics are discussed emphasizing those aspects which seem to be of 
+... a ***number*** of old babylonian tablets many of which have never before been translated into english are quoted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1386
+symbolic factoring of polynomials in several variables an algorithm for finding the symbolic factors of a multi variate 
+... the algorithm consists of factoring single variable instances of the given polynomial by kroneckers method and introducing the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2109
+the use of quadratic residue research a quadratic residue search method has previously been suggested to avoid the 
+... it is shown that for some classes of ***prime*** numbers the complement of the set of quadratic residues 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2726
+combining decision rules in a decision table the techniques for minimizing logic circuits are applied to the simplification 
+... if some of the decision rules implied in the else rule occur with low frequency then the else 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1171
+a comparison of the primal simplex and primal dual ***algorithms*** for linear programming a statistical comparison of the 
+... it has also been found via a regression analysis that the relevant parameters in determining the difference in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2267
+each subroutine computes the radix and ***number*** of digits of the floating point numbers and whether rounding or 
+... ***algorithms*** to reveal properties of floating point arithmetic two ***algorithms*** are presented in the form of fortran subroutines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2283
+it is found that the algorithm operating with the triangular array is the most sensitive to image irregularities 
+... thinning ***algorithms*** on rectangular hexagonal and triangular arrays in this report three thinning ***algorithms*** are developed one each 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2490
+efficient ***algorithms*** for graph manipulation h algorithm a447 efficient ***algorithms*** are presented for partitioning a graph into connected 
+... if v is the ***number*** of vertices and e is the ***number*** of edges each algorithm requires time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3055
+an analysis of ***algorithms*** for the dutch national flag problem solutions to the dutch national flag problem have 
+... dijkstra starts with a simple program and arrives at an improved program by refinement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0944
+such trees have information storage and retrieval properties applicable to problems ***involving*** large quantities of data or to 
+... storage and search properties of a tree organized memory system a memory with list properties 1 may be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1679
+fast fourier transform time ***series*** analysis digital filtering spectral analysis real time spectrum analyzers fourier analysis discrete fourier 
+... a fast fourier transform algorithm for real valued ***series*** a new procedure is presented for calculating the complex 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2138
+***prime*** design goals of the design are the ability to produce highly efficient object code to allow access 
+... a major feature which contributes to the realization of these goals is a mechanism permitting the definition of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2355
+implementing clenshaw curtis quadrature i methodology and experience clenshaw curtis quadrature is a particularly important automatic quadrature scheme 
+... this paper is in two parts a companion paper ii computing the cosine transformation shows that this objection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1727
+object program reduction supervisor calls decreasing jump frequencies estimation control transfers estimation optimal program segmentation markov chain program 
+... one way of estimating frequencies of jumps in a program for the segmentation of a program it is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2095
+although the results are certainly not installation independent and although they are particularly influenced by features of the 
+... measurements of segment size distributions of segment sizes measured under routine operating con ditions on a computer system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1710
+asp a ring implemented associative structure package asp is a general purpose associative data structure package in which 
+... asp structures are built and manipulated by means of a ***series*** of macro calls which are outlined in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2114
+attribute value pair index keyword record record address k pointer k list file directory generalized file structure inverted 
+... a formal system for information retrieval from files a generalized file structure is provided by which the concepts 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2208
+by means of examples storage utilization is then studied as a function of the hashing algorithm the ***number*** 
+... given the n entries have been filed in the entire hierarchy an expression is derived for the expected 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2837
+a new upper bound for vin improves the bound given by the standard hadian sobel algorithm by a 
+... new upper bounds for selection the worst case minimum ***number*** of comparisons complexity vin of the i th 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2948
+the system consists of a communications computer directly connected to the time shared system a ***number*** of small 
+... the overall system design is presented along with the ***algorithms*** used to solve three specific problems local echoing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2963
+a fast algorithm for computing longest common subsequences previously published ***algorithms*** for finding the longest common subsequence of 
+... an algorithm for this problem is presented which has a running time of or nlog n where r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3118
+permutation of data blocks in a bubble memory a common internal organization of bubble memories consists of a 
+... a lower bound to the ***number*** of steps required buy a permutation algorithm is derived and the class 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3141
+an improved algorithm for decentralized extrema finding in circular configurations of processes this note presents an improvement to 
+... this decentralized algorithm uses a technique of selective message extinction in order to achieve an average ***number*** of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2555
+variable precision exponentiation a previous paper presented an efficient algorithm called the recomputation algorithm for evaluating a rational 
+... the recomputation algorithm can be applied to expressions ***involving*** any variable precision operations having o10 p sumei error 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2657
+an improved program synthesizing algorithm and its correctness an improved program synthesizing algorithm based on the algorithm proposed 
+... the correctness of the improved algorithm is also proved i 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2767
+simulation time flow mechanisms event list algorithm simulation time flow mechanisms event list algorithm simulation executive event scheduling 
+... a comparison of simulation event list ***algorithms*** four ***algorithms*** are considered which can be used to schedule events 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2860
+a practitioners guide to addressing ***algorithms*** this paper consolidates a ***number*** of popular rules of thumb which have 
+... guidelines for selecting identifier transformations overflow techniques loading factors bucket sizes and loading order and considered 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1504
+***algorithms*** for finding a fundamental set of cycles for an undirected linear graph given the adjacency matrix of 
+... for graphs with a large ***number*** of nodes and edges when storage is limited our algorithm is superior 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1609
+scheduling university course examinations by computer a new approach to the problem of scheduling course examinations is presented 
+... first course which may have their examinations scheduled at the same period are grouped together in all possible 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2146
+optimizing the polyphase sort various dispersion ***algorithms*** for the polyphase sorting procedure are examinedhe optimum algorithm based on 
+... this algorithm is relatively straightforward but it requires a fairly close estimate of the total ***number*** of unit 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2498
+the problem of choosing the page sizes to minimize the expected value of total wasted space in internal 
+... minimizing wasted space in partitioned segmentation a paged virtual memory system using a finite ***number*** of page sizes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2936
+an efficient data structure for the simulation event set recently ***algorithms*** have been presented for the realization of 
+... first the new ***algorithms*** performance is quite insensitive to skewed distributions and second its worst case complexity is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3018
+as consequences of this relationship the keyword conflict problem and the edge clique cover problem are shown to 
+... covering edges by cliques with regard to keyword conflicts and intersection graphs kellerman has presented a method for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3134
+the use of normal multiplication tables for information storage and retrieval this paper describes a method for the 
+... for a certain class of information systems the normal multiplication table method yields far more rapid retrieval with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3152
+storage reorganization techniques for matrix computation in a paging environment in order to multiply matrices while minimizing the 
+... this also makes possible the derivation of an asymptotically better bound for multiplication of matrices given in row 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3164
+progressive acyclic digraphs a tool for database integrity a progressive acyclic digraph pad algorithm accepts are requests and 
+... experiments suggest that for large n the second is considerably faster though both are asymptotically onr where n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3166
+computing standard deviations accuracy four ***algorithms*** for the numerical computation of the standard deviation of unweighted sampled data 
+... we conclude that all four ***algorithms*** will provide accurate answers for many problems but two of the ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1946
+computing polynomial resultants bezouts determinant vs 
+... collins reduced p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1957
+the list set generator a construct for evaluating set expressions the list set generator is defined and ***algorithms*** 
+... the list set generator is a construct which may be added to a list processing system or any 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2561
+a heuristic approach to inductive inference in fact retrieval systems heuristic procedures are presented which have been developed 
+... a program of experiments is described wherein the procedures are used with test data bases which are altered 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1145
+git a heuristic program for testing pairs of directed line graphs for isomorphism given a pair of directed 
+... since a straightforward enumerative algorithm might require 40 years of running time on a very high speed computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2986
+operations on sparse relations various computations on relations boolean matrices or directed graphs such as the computation of 
+... for example how to compute operator precedence or wirth weber precedence relations in on2 steps is shown as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1879
+two different types of storage fragmentation are distinguished 1 external fragmentation namely the loss in storage utilization caused 
+... the most striking result is the apparently general rule that rounding up requests for storage to reduce the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1812
+random ***number*** generation monte carlo simulation 5 
+... 5 ca691118 jb february 15 1978 1157 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1433
+a note on linear programming algorithm design a combinatorial problem as linear programming models grow bigger and bigger 
+... the ***number*** of repetitions of a certain transfer of data from tape to core memory is considered 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1572
+the simulation of time sharing systems the development of new large scale time sharing systems has raised a 
+... for the sake of efficiency and greater applicability the model was implemented in a limited fortran subset that 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1810
+and by nelson on an automatic folding mechanism of simple design a demand paging unit built at the 
+... the disadvantages of prefolding which is required when the folding is manual are examined and a ***number*** of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1886
+once all the factors have been ascertained a sequencing procedure is applied which orders the factors and expressions 
+... generation of optimal code for expressions via factorization given a set of expressions which are to be compiled 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1924
+organizing matrices and matrix operations for paged memory systems matrix representations and operations are examined for the purpose 
+... matrix ***algorithms*** array processing paging ***algorithms*** paged memory systems virtual memory systems array storage allocation storage allocation 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2111
+spelling correction in systems programs several specialized techniques are shown for efficiently incorporating spelling correction ***algorithms*** in to 
+... spelling correction error correction debugging compilers operating systems diagnostics error detection misspelling lexical analysis systems programming 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2142
+reconstruction of pictures from their projections there are situations in the natural sciences and medicine e 
+... the most important uses may be the reconstruction of possibly asymmetric particles from electron micrographs and three dimensional 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2189
+every set of edges ek 1 ek k 3 k n 1 is determined recursively by constructing a 
+... generation of rosary permutations expressed in hamiltonian circuits systematic generation of a specific class of permutations fundamental to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2325
+these are foundations finite precision ***number*** systems computational complexity synthesis and analysis of ***algorithms*** analysis of error programs 
+... numerical mathematics and computer science numerical mathematics is viewed as the analysis of continuous ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2344
+on the optimization of performance of time sharing systems by simulation a simulation model of a time sharing 
+... time sharing simulation studies optimization measure of performance scheduling ***algorithms*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2924
+an interactive computer graphics approach to surface representation an in teractive computer graphics method has been developed for 
+... computer graphics three dimensional surface representation splines loftingfinite element input methods 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3163
+insertion one sided height balanced trees height balanced trees binary trees search trees 
+... an optimal insertion algorithm for one sided height balanced binary search trees an algorithm for inserting an element 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2606
+it is designed to approximate poles of small integer order in the solutions of the differential equations by 
+... the taylor ***series*** method and the new method are shown to be superior in speed and accuracy while 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2447
+sard kernels for certain bivariate cubatures an error analysis for some bivariate cubatures is given 
+... cubatures sard kernels numerical integration ***remainder*** formulas 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2087
+permutation ordering ***number*** ***number*** system p ***number*** combinatorial 4 
+... 39 ca700311 jb february 13 1978 342 pm 

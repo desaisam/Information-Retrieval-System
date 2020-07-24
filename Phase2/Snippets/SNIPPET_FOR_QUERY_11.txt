@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2699
+automatic data structure choice in a language of very ***high*** ***level*** ***setl*** is a set theoretically oriented language 
+... among other methods of interest the optimizer uses techniques which allow relations of inclusion and membership to be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2782
+***high*** ***level*** ***languages*** philosophy of language design 4 
+... 19 ca750306 jb january 9 1978 438 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2647
+floating point arithmetic ***high*** ***level*** ***languages*** philosophy of language design 4 
+... more on algorithms that reveal properties of floating point arithmetic units cacm may 1974 gentleman w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2906
+very ***high*** ***level*** language nonprocedural language data flow language business application business data processing structured programming modular programming 
+... a very ***high*** ***level*** programming language for data processing applications application development today is too labor in tensive 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3148
+***high*** ***level*** programming for distributed computing programming for distributed and other loosely coupled systems is a problem of 
+... based on primitive notions of module message and transaction key the methodology is shown to be independent of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1835
+the iitran programming language the iitran language developed to be used by students and its important important features 
+... iitran is a procedure oriented language with a one ***level*** block structure and a variety of data types 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1923
+it is shown that this technique can provide potentially inexpensive methods for programs to communicate with deeply embedded 
+... operating systems interfaces input output ***high*** ***level*** ***languages*** command language 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2267
+each subroutine computes the radix and number of digits of the floating point numbers and whether rounding or 
+... algorithms to reveal properties of floating point arithmetic two algorithms are presented in the form of fortran subroutines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3171
+line numbers made cheap a technique is described for run time line number administration to be used for 
+... line number administration diagnostic messages abstract machine code  4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2717
+convert a ***high*** ***level*** translation definition language for data conversion this paper describes a ***high*** ***level*** and nonprocedural 
+... data conversion data restructuring data translation database reorganization translation definition utility program programming ***languages*** nonprocedural ***languages*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2956
+among these are the need for a notation for iterating over the elements of any finite set instead 
+... some ideas on data types in ***high*** ***level*** ***languages*** a number of issues are explored concerning the notion 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3150
+just as ***high*** ***level*** ***languages*** enabled the programmer to escape from the intricacies of a machines order code 
+... beyond programming ***languages*** as computer technology matures our growing ability to create large systems is leading to basic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0724
+a profile of the programmer synopsis 549 members of the acm participated in a study concerned primarily with 
+... their principal job satisfactions relate to the nature of their work and mostfind their jobs offer ***high*** ***level*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2003
+the first one is imol an interactive monitor language which is designed to perform the overall and control 
+... an interactive software system for computers aided design an application to circuit project the characteristics of an interactive 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2081
+some complete calculi for matrices a matrix calculus is introduced with the intention of developing data structures suitable 
+... the paper investigates how the special structure of matrices can be described and utilized for efficient computing by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2320
+structured multiprogramming programming ***languages*** operating systems concurrent processes shared data mutual exclusion critical regions process communication synchronizing events 
+... a combination of critical regions and event variables enables the programmer to control scheduling of resources among competing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1043
+talk a ***high*** ***level*** source language debugging technique with real time data extraction talk meaning take a look 
+... the extracted data is later edited listing the associated data with its ***high*** ***level*** source language identification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2198
+introduction to feature analysis of generalized data base management systems this paper is a separately published introduction to 
+... cacm may 1971 codasyl systems committee data base management systems programming ***languages*** data structures storage structures information retrieval 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2527
+the machine automatically allocates memory executes statements calls functions converts numbers from one type to another checks subscripts 
+... implementation of ***high*** ***level*** language machine computing machines which directly execute the statements of a ***high*** ***level*** language 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2923
+this paper proposes a simple general method of ***high*** ***level*** data flow analysis that allows free use of 
+... ***high*** ***level*** data flow analysis in contrast to the predominant use of low ***level*** in termediate text ***high*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3077
+associated with the functional style of programming is an algebra of programs whose variables range over programs and 
+... an alternative functional style of programming is founded on the use of combining forms for creating programs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2316
+programming ***languages*** higher ***level*** ***languages*** ***languages*** history future directions language interrelationships programming language tree programming language history programming 
+... programming ***languages*** history and future this paper discusses both the history and future of programming ***languages*** higher ***level*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2246
+a popular way of accomplishing this is to encode the software in a specially designed machine independent language 
+... this paper discusses the relative merits of pitching this language at a ***high*** ***level*** or a low ***level*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2815
+***high*** ***level*** binding with low ***level*** linkers an easy to implement scheme is described by which a compiler 
+... obscure run time errors caused by inconsistent usages are forestalled by static errors detected at linking time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2705
+the development of natural ***languages*** toward flexion less word order based language types speaks for programming language design 
+... by analogy with incidents of the history of artificial auxiliary ***languages*** it is suggested that fortran and cobol 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2593
+data base management information retrieval computer configurations computer networks data base task group language data base protection data 
+... a back end computer for data base management it is proposed that the data base management function be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2787
+matrix reduction an efficient method the paper describes an efficient method for reduction of the binary matrices which 
+... it has been generalized and adapted to fit into the complete timetabling process to use a more compact 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2826
+interactive skeleton techniques for enhancing motion dynamics in key frame animation a significant increase in the capability for 
+... its compatibility with the basic key frame animation technique permits skeleton control to be applied selectively to only 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2898
+a conceptual framework for a nonprocedural programming language a sequential programming language forces the programmer to prescribe explicitly 
+... parallel programming descriptive programming nonprocedural programming definitional language data flow programming applicative programming 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2938
+toward a discipline of real time programming programming is divided into three major categories with increasing complexity of 
+... by adhering to a strict programming discipline and by using a suitable ***high*** ***level*** language molded after this 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2954
+unlike a previous similar algorithm this one makes no assumptions about the storage allocation system in use and 
+... a bounded storage algorithm for copying cyclic structures a new algorithm is presented which copies cyclic list structures 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3027
+the design of the processor is then traced from the initial ideas for an associatively addressed name store 
+... a description is then given of the instruction set which includes a number of features conducive to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3127
+thoth a portable real time operating system thoth isa real time operating system which is designed to be 
+... thoth encourages structuring programs as networks of communicating processes by providing efficient interprocess communication primitives 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0265
+low ***level*** language subroutines for use within fortran this paper describes some subroutines coded in symbolic ***languages*** and 
+... multi precision arithmetic symbol manipulation bit manipulation and expanded character set input output and visual display 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1552
+the aed free storage package the most fundamental underlying problem in sophisticated software systems involving elaborate changing data 
+... blocks may be of any size and special provisions allow efficient handling of selected sizes control of shattering 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1676
+compiler compiler compiler machine independence scatter storage technique polish processor common subsegments tree representation optimization 4 
+... machine independent optimization occurs in pass ii and do loop and machine dependent optimization in pass iii 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2091
+a convenient easy to learn and to use ***high*** ***level*** problem oriented language to solve and study partial 
+... pdel a language for partial differential equations conventional computer methods available to solve continuous system problems characterized by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2542
+a software design and evaluation system a critical failure of current software system design and implementation methodology is 
+... operating system development language processing software evaluation compilers system programming supervisory systems debugging program maintenance modeling system integration 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2716
+squiral seeks to minimize query response time and space utilization by 1 performing global query optimization 2 exploiting 
+... the basic idea is to employ automatic programming techniques so that the interface analyzes and efficiently refines the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3080
+proving the correctness of heuristically optimized code a system for proving that programs written in a ***high*** ***level*** 
+... some interesting results are the ability to handle programs that implement recursion by bypassing the start of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1861
+users of the language can define new operators andor data types into the mad language so that their 
+... the mad definition facility one of the first definition facilities for higher ***level*** ***languages*** is described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2034
+it is a flexible provided by stage2 are summarized and the implementation techniques which have made it possible 
+... the mobile programming system stage2 stage2 is the second ***level*** of a bootstrap sequence which is easily implemented 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2398
+newbasiccatalystincorporates an advanced implementation of basic system ***level*** interactive features and a general capability for extension through user 
+... an example of interaction at the system ***level*** shows how students can mix the advantages of independent or 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1769
+education and increased understanding are basic to all progress with the computer 
+... problem oriented ***languages*** are particularly effective over the entire front 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3026
+beginning with the 1107 in 1962 the 1100 series has progressed through a succession of eight compatible computer 
+... the 1100 operating system is designed to support a symmetrical multiprocessor configuration simultaneously providing multiprogrammed batch timesharing and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0731
+the presentation is in the form of fortran programs depending on only a limited set of fortran programs 
+... this system is intended for imbeding in higher ***level*** ***languages*** capable of calling functions and subroutines coded in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1425
+although not every diagram is decomposable into a finite number of given base diagrams this becomes true at 
+... with every turing machine provided with a two way half tape there is associated a similar machine doing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2957
+data abstraction relational database data type aggregation database design data structure knowledge representation data definition language 3 
+... database abstractions aggregation aggregation is in troduced as an abstraction which is important in conceptualizing the real world 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3101
+this integration is accomplished by treating procedures and their activation records called environments as data objects and by 
+... the resulting procedure mechanismwhich is part of the sl5 programming language is well suited to goal oriented problems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2931
+logic programming ***languages*** automata denotational semantics a calculus models computability partial functions approximation function spaces 1 
+... these however are applications to logic and a big question is whether methods of logic have significance in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1358
+syntax macros and extended translation a translation approach is described which allows one to extended the syntax and 
+... syntax macros define string transformations based on syntactic elements of the base language 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1860
+an algol based associative language a ***high*** ***level*** programming language for large complex associative structures has been designed 
+... the underlying data structure has been implemented using a hash coding technique 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1641
+although the disks have an access time 104 times slower than core tests indicate that the actual slow 
+... a use of fast and slow memories in list processing ***languages*** a scheme is described which permitting a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1788
+programming language translator programming language processor general translator general processor macro instruction processor meta processor meta language translator 
+... toward a general processor for programming ***languages*** many efforts have been made to develop a better way of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2002
+amesplot a higher ***level*** data plotting software system amesplot is an extensible software system designed to make the 
+... computer graphics data potting data display syntax hardware independent software display device independent software plot elements self scaled 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0081
+ca590603 jb march 22 1978 636 pm 
+... norc ***high*** speed printer cacm june 1959 gleissner g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0198
+ca600413 jb march 22 1978 136 pm 
+... a ***high*** speed multiplication process for digital computers cacm april 1960 gurzi f 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1223
+***high*** speed compilation of efficient object code a three pass compiler with the following properties is briefly described 
+... the double scan one in either direction performed by the first two passes allows the compiler to remove 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0074
+ca590704 jb march 22 1978 620 pm 
+... a ***high*** speed sorting procedure cacm july 1959 shell d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0232
+ca600104 jb march 22 1978 227 pm 
+... a ***high*** speed sorting procedure cacm january 1960 frank r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1872
+ca690708 jb february 17 1978 901 am 
+... chebyshev interpolation and quadrature formulas of very ***high*** degree errata cacm july 1969 salzer h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1472
+description of a ***high*** capacity fast turnaround university computing center the operating system for the univac 1107 at 
+... the system is of interest because of the low turnaround times achieved the ***high*** throughput achieved and the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1627
+this technique called the multilevel store provides a means for economically satisfying the requirements for very large storage 
+... application of ***level*** changing to a multilevel storage organization a technique for organizing the devices of a computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2560
+a queuing model of a multiprogrammed computer with a two ***level*** storage system the results are presented of 
+... some numerical results are given which quantify the gains in cpu utilization obtainable by multiprogramming in the presence 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0628
+ca620304 jb march 20 1978 309 pm 
+... on a floating point number representation for use with algorithmic ***languages*** cacm march 1962 grau a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0651
+ca620108 jb march 20 1978 436 pm 
+... a survey of ***languages*** and systems for information retrieval cacm january 1962 grems m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0920
+ca630301 jb march 14 1978 151 pm 
+... toward better documentation of programming ***languages*** cacm march 1963 yngve v 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2814
+ca761201 jb january 3 1978 238 pm 
+... roster of programming ***languages*** for 1974 75  cacm december 1976 sammet j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0281
+in this note we produce a particular family of very fast ***high*** precision and eminently practical exponential evaluation 
+... putting a hex on ex recent notes on approximate natural antilogy have not considered indirect formulations for describing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1903
+chebyshev polynomials chebyshev interpolation chebyshev quadrature chebyshev points chebyshev zeros interpolation quadrature definite integrals 5 
+... chebyshev interpolation and quadrature formulas of very ***high*** degree cacm may 1969 salzer h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2489
+partitions enumeration change making energy ***level*** degeneracies molecular vibrational energy levels 3 
+... number of multiply restricted partitions a1 algorithm a448 cacm june 1973 beyer t 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3123
+employment characteristics of doctoral ***level*** computer scientists cacm february 1979 fairley r 
+... 2 ca790202 dh april 10 1979 213 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1142
+ca640201 jb march 10 1978 457 am 
+... an extension of algol like ***languages*** cacm february 1964  rose g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1466
+discussion summary on graphical ***languages*** cacm march 1966 ca660306 jb march 3 1978 146 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2661
+ideal teaching machines a solution to the pedagogic language problem cacm april 1974 sterling t 
+... 2 ca740409 jb february 1 1978 1038 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1459
+requirements for real time ***languages*** real time ***languages*** have different requirements from other programming ***languages*** because of the 
+... progress may be made by attacking the special compiling and executing system problems that must be solved 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0111
+by applying the recommended scaling and inversion rules the basic bairstow and newton raphson iterative techniques can be 
+... on programming the numerical solution of polynomial equations numerical techniques are presented for computing the roots of polynomial 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0367
+topological ordering of a list of randomly numbered elements of a network a network of directed line segments 
+... given a list of these lines in numeric order a simple technique can be used to create at 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0495
+a procedure for inverting large symmetric matrices in the least squares method for simultaneous adjustment of several parameters 
+... in order to solve the normal equations and evaluate the precision measures of the resulting parameters inversion of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0755
+this formula is compared to two standard integration methods and it is shown that for a large class 
+... thus this formula may be used with a large step size to decrease the total computing time for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0825
+pip a photo interpretive program for the analysis of spark chamber data an operating computer program that processes 
+... the input to the program consists of spark chamber photographs on which tracks of ***high*** energy particles are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0973
+estimation of heart parameters using skin potential measurements a fundamental problem of vector cardiography is the estimation of 
+... then it is shown that the inverse problem that of determining electrical heart parameters on the basis of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2493
+optimum data base reorganization points in certain data base organization schemes the cost per access may increase due 
+... this paper examines strategies for selecting the optimum reorganization points 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2621
+we discuss the selection of a suitable one way cipher and suggest that for this purpose polynomials over 
+... a ***high*** security log in procedure the protection of time sharing systems from unauthorized users is often achieved 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2749
+significant event simulation this paper compares a new method of simulation organization called the significant event method with 
+... the significant event method is found to be more efficient than the clock pulse method at low levels 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2922
+two ***level*** control structure for nondeterministic programming the basic ideas of nondeterministic programming are critically reconsidered to single 
+... the proposed attitude aims at retaining the purity of the nondeterministic formulation of search processes on one ***level*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3057
+this is equivalent to placing k1 linearly ordered objects of different sized one by one into k2 linearly 
+... optimal his togram matching by monotone gray ***level*** transformation this paper investigates the problem of optimal his togram 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0252
+after achieving the required ***level*** of integration both computers do similar processing on the same inputs and continually 
+... programming a duplex computer system this paper describes a method of duplex computer programming that has been used 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0479
+if the number of strings dispersed is between two levels acceptable by polyphase merge a more economical technique 
+... a dispersion pass algorithm for the polyphase merge this paper presents a new manner of dispersing strings for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0795
+ca630803 jb march 13 1978 846 pm 
+... debugging systems at the source language ***level*** cacm august 1963 ferguson h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1553
+contextual understanding by computers a further development of a computer program eliza capable of conversing in natural language 
+... it is argued that the adequacy of the ***level*** of understanding achieved in a particular conversation depends on 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1625
+these methods have been implemented in a processor called sure that accepts a program written in jovial and 
+... sure is described some of the problems encountered in automatic improvement at the source language ***level*** are discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1642
+the techniques depend on having two levels of secondary storage ***level*** 1 several times larger than the main 
+... time sharing on a computer with a small memory techniques to make time sharing attractive on a computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1720
+masters ***level*** computer science curricula the results of a survey of the course work done by masters degree 
+... surveys education computer science curricula 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1938
+some criteria for time sharing system performance time sharing systems as defined in this article are those multiaccess 
+... it is each terminal users ability to utilize the full resources of the system that makes quantitative evaluation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2208
+by means of examples storage utilization is then studied as a function of the hashing algorithm the number 
+... given the n entries have been filed in the entire hierarchy an expression is derived for the expected 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3058
+jump searching a fast sequential search technique when sequential file structures must be used and binary searching is 
+... this paper explores variants of the classic jump searching scheme where the optimum jump size is the square 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3119
+the impact of distributions and disciplines on multiple processor systems simple queueing models are used to study the 
+... issues considered include the impact of cpu service disciplines and distributions ***level*** of multiprogramming multitasking and job priorities 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3189
+an algebraic compiler for the fortran assembly program an algebraic compiler has been written which may be added 
+... it will compile multi ***level*** expressions in floating point arithmetic this is easily be revised to fixed point 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0689
+report of a visit to discuss common programming ***languages*** in czechoslovakia and poland 1963 cacm november 1963 gosden 
+... ca631103 jb march 13 1978 351 pm 

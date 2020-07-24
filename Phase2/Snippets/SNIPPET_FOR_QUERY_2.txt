@@ -1,0 +1,361 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3078
+a major purpose of this paper is to demonstrate that the difficulties of obtaining analytical solutions to markov 
+... analysis of the availability of computer systems using computer aided algebra analytical results related to the availability of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2434
+using page residency to select the working set parameter dennings method for selecting the working set parameter which 
+... using this modified model denings results on page residency are rederived and reconsidered for selecting the working set 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2863
+the results of simulating vmin dennings working set and the page partitioning replacement algorithms on five virtual memory 
+... demand paging performance measurement multilevel memory systems virtual memory working set page replacement algorithms optimal page replacement 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+an 80 column ibm card is divided into two fields reference material field columns 1 67 and identification 
+... a card format for reference files in information processing this paper proposes a card format suitable for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0492
+the probability distribution of the displacement of records from their calculated address which is one less than the 
+... analysis of a file addressing method this paper presents a new file addressing method based on the calculation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1014
+machine controls for analysis of variance a major problem in using the analysis of variance as the number 
+... even though the experimenter may not be ***interested*** in these interactions it is impossible to ignore them in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1623
+this paper is more concerned with the use of programming techniques in formac than with the actual engineering 
+... an application of formac a nonlinear circuit analysis problem is stated and the way in which it was 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1867
+on the expected lengths of sequences generated in sorting by replacement selecting in the replacement selecting technique of 
+... using complex variable theory it is shown that lj 2 and that asymptotically the average interval between sign 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1046
+rohl in their most recent paper have presented a very interesting programming system that they have developed for 
+... a compiler building system developed by brooker and morris in a number of ***articles*** published during the past 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0597
+ca620508 jb march 20 1978 147 pm 
+... modular data processing systems ***written*** in cobol cacm may 1962 emery j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0435
+a decision matrix as the basis for a simple data input routine currently a great deal of time 
+... since the implementation of of new methods and procedures is not instantaneous but rather occurs by an evolutionary 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0531
+person matching by electronic methods record linkage in the updating of files is accomplished in many establishments through 
+... here we present in more detail our initial procedures for the person matching process in order to elicit 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1397
+proceedings of the acm symposium on symbolic and algebraic manipulation the acm symposium on symbolic and algebraic manipulation 
+... the conference was sponsored by the acm special interest committee on symbolic and algebraic manipulation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0847
+a penny matching program the logic of a penny matching program ***written*** for the csx 1 is described 
+... ca630602 jb march 14 1978 1027 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0616
+it is hoped that this report will be read a with avid interest by programming language designers and 
+... an information algebra phase i report language structure group of the codasyl development committee this report represents the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1168
+across machine lines in cobol the production of a large file maintenance and retrieval program system ***written*** in 
+... the cobol language was used specifically to enable the system to operate on three ibm computers 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1183
+a note on the use of a digital computer for doing tedious algebra and programming a special purpose 
+... the procedure is based on a straight forward use of format statements for generating machine ***written*** programs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1345
+tensor calculations on the computer a formac program has been ***written*** which is capable of calculating various quantities 
+... using this code christoffel symbols have been calculated for 12 basic orthogonal coordinate systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0282
+where an error occurs in writing a record a programmed error routine may either bypass some or all 
+... this paper evaluates these two procedures on the basis of expected loss of computer time and develops a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0971
+time sharing in a traffic control program the toronto traffic signal control system consists of a variety of 
+... to satisfy these demands a time sharing program has been ***written*** whose purpose is to execute in the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1117
+polyphase sorting with overlapped rewind a variation of the polyphase merge technique of sorting is described which permits 
+... the technique should be considered whenever a sort is ***written*** to operate on five or more tapes that 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1305
+the internal structure of the fortran cep translator the fortran cep translator converts a source program ***written*** in 
+... emphasis is on the compilation of expressions of inputoutput lists and of subscripted variables 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1391
+computer experiments in finite algebra a medium scale programming system is ***written*** in mad and fap on the 
+... designed to operate in a time sharing environment the system can serve as a teachers aid to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1403
+a method for finding the m smallest values of a monotonic function defined on ordered sets of positive 
+... this observation is used to devise an efficient method for finding the m smallest functional values of monotonic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1424
+automatic analysis of electronic digital circuits using list processing a mapping from black diagrams of digital circuits to 
+... ca660513 jb march 3 1978 924 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1439
+mechanization of the curve fitting process datan a process for fitting a curve to approximate data and the 
+... an approach has also been defined and a system has been ***written*** for the sru 1107 to mechanize 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1625
+these methods have been implemented in a processor called sure that accepts a program ***written*** in jovial and 
+... sure is described some of the problems encountered in automatic improvement at the source language level are discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2439
+multiple terminals under user program control in a time sharing environment user ***written*** programs on the dartmouth time 
+... dtss multiple terminals remote terminals remote consoles time sharing on line interaction on line games 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3189
+an algebraic compiler for the fortran assembly program an algebraic compiler has been ***written*** which may be added 
+... it will compile multi level expressions in floating point arithmetic this is easily be revised to fixed point 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0728
+computer drawn flowcharts to meet the need for improved documentation of ***written*** computer programs a simple system for 
+... the programmer describes his program in a simple format and the computer prepares flow charts and other cross 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0942
+fortran subroutines for time series analysis the authors have recently been concerned in a time series study that 
+... wehave found that the many different numerical processes that were required could be built up almost completely from 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1161
+1401 compatibility feature on the ibm system360 model 30 the second generation of stored program computers of which 
+... this feature in conjunction with other aids permits a smooth and inexpensive transition to optimum use of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1214
+some experiments in algebraic manipulation by computer a set of subroutines to allow algebraic manipulations on the ibm 
+... ca650810 jb march 6 1978 810 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1348
+flowtrace a computer program for flowcharting programs the flowtrace system produces flowcharts of programs ***written*** in almost any 
+... such an approach permits the documentation of descriptive remarks and avoids the inclusion of coding details 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1427
+to study the output of scanners with various characteristics a program which simulates radioisotope scans has been ***written*** 
+... simulation of radioisotope scans by computer in radioisotope scanning a field which is assuming increasing importance in medical 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1486
+some speculations are made about how the mechanical detection of common parts or patterns of library items could 
+... rules are given for transforming programs ***written*** in the language and for rearranging the items in the library 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1498
+the alcor illinois 70907094 post mortem dump a dump technique for programs ***written*** in algol 60 is described 
+... this technique provides an intelligible analysis of an unsuccessful computation process in terms of the original source program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1503
+the comparison of these differently designed programs shows that the simscript program uses more computer storage and more 
+... a simscript fortran case study two programs for a vehicle dispatching model one ***written*** in 7040 simscript and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1564
+since the preprocessor and this language associated with it were developed for cobol users the preprocessor was ***written*** 
+... description of basic algorithm in detab65 preprocessor the basic algorithm for the conversion of decision tables into cobol 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1861
+users of the language can define new operators andor data types into the mad language so that their 
+... the mad definition facility one of the first definition facilities for higher level languages is described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1926
+it features good performance totally free form input very flexible formatting capabilities including up to eight columns per 
+... description of format a text processing program format is a production program which facilitates the editing and printing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2383
+music and computer composition the problem discussed is that of simulating human composition of western popular music by 
+... artificial intelligence heuristic programming models of cognitive processes computer music computer composition music theory 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2456
+on the capabilities of while repeat and exit statements a well formed program is defined as a program 
+... it is shown that a program is well formed if and only if it can be ***written*** with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2471
+artificial intelligence intelligence learning heuristic procedures heuristic programming game playing problem solvingdominoes incomplete information machine learning signature table 
+... a learning program which plays partnership dominoes a learning program has been ***written*** is basic to play four 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2519
+complex information information communication mathematics proof interactive system language 1 
+... on the problem of communicating complex information the nature of the difficulty involved in communicating mathematical results between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2850
+symbolic execution program testing program debugging program proving program verification symbolic interpretation 4 
+... symbolic execution and program testing this paper describes the symbolic execution of programs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2912
+these include a solution to the general problem in which a read is repeated if it might have 
+... it is assumed that only one process at a time can modify the data but concurrent reading and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2937
+detailed analysis of the errors made by the subjects in programming solutions to reasonably small problems shows that 
+... analysis of the number of errors and the number of runs containing errors shows that at least in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3127
+thoth a portable real time operating system thoth isa real time operating system which is designed to be 
+... thoth encourages structuring programs as networks of communicating processes by providing efficient interprocess communication primitives 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1145
+git a heuristic program for testing pairs of directed line graphs for isomorphism given a pair of directed 
+... since a straightforward enumerative algorithm might require 40 years of running time on a very high speed computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1215
+some techniques used in the alcor illinois 7090 an algol compiler has been ***written*** by the alcor group 
+... some little known but significant techniques in compiler writing together with organizational details of this compiler are described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1264
+this system will perform any or all of the following users specified functions assemble sps source decks post 
+... blnsys a 1401 operating system with braille capabilities blnsys is an operating system designed for a 4k 1401 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1315
+this system provides detailed records for each container of radioactive material purchased andor created in the triga reactor 
+... automation of the radioisotope accountability system the radioisotope service of the veterans administration hospital omaha nebraska used a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1334
+mechanization of tedious algebra the newcomb operators of planetary theory a computer program has been ***written*** to generate 
+... the newcomb operators are expressed as polynomials in two variables one of which stands for a simple differential 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1469
+it includes a nonproceduralpurely functional subsystem that aims to expand the class of users needs that can be 
+... the next 700 programming languages a family of unimplemented computing languages is described that is intended to span 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1523
+sharer a time sharing system for the cdc 6600 a time sharing system embedded within the standard batch 
+... the system is general purpose and file based providing facilities for file input manipulation editing compilation and conversational 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1542
+a microprogrammed implementation of euler on ibm system360 model 30 an experimental processing system for the algorithmic language 
+... the structure and content of a higher level language can be matched by an appropriate interpretive language which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1591
+a model for a multifunctional teaching system a teaching system model that was incorporated into an operating system 
+... the teaching system abac ii was ***written*** to run under the operating system ibsys for the ibm 7044 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1671
+it permits the user to define on line sets of rules statable within the framework presented in the 
+... the system is ***written*** in bbn lisp on the scientific data system 940 computer and is designed to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1676
+compiler compiler compiler machine independence scatter storage technique polish processor common subsegments tree representation optimization 4 
+... machine independent optimization occurs in pass ii and do loop and machine dependent optimization in pass iii 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1680
+a general purpose display processing and tutorial system adept a display expedited processing and tutorial system is described 
+... this system was designed to improve man computer communications by employing a display unit to interleave tutoring with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1741
+computer display computer graphics computer raster display tv display console digital tv display swept raster computer display swept 
+... after an initial display system investment of 50000 each display with teletype costs less than 3000 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1811
+it is shown that with proper programming solution time when n processors are applied approaches 1n times the 
+... communication between cooperating processors is by means of data in storage shared by all processors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1939
+directed random generation of sentences the problem of producing sentences of a transformational grammar by using a random 
+... a solution is offered in the form of a computer program which allows the user to constrain and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2092
+a deductive question answer for natural language inference the question answering aspects of the protosynthex iii pro totype 
+... question answering natural language protosynthex iii lisp semantics artificial intelligence computational linguistics language processing fact retrieval 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2096
+experiments with the m n tree searching program the m n procedure is an improvement to the mini 
+... artificial intelligence heuristic program tree searching lisp kalah game playing decision theory mini max backing up procedure backing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2217
+experiments in automatic learning for a multipurpose heuristic program an automatic learning capability has been developed and implemented 
+... also automatic data handling routines were ***written*** for passing data between the learning program and the proving program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2812
+computer aided analysis information systems logical system design problem statement language problem statement analyzer physical system design accurately 
+... the statement of requirements was ***written*** in ads accurately defined systems and analyzed by a problem statement analyzer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2939
+this paper provides an in troduction to the abstraction mechanisms in clu 
+... abstraction mechanisms in clu clu is a new programming language designed to support the use of abstractions in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2943
+the proofs are particularly easy to follow and straightforward to produce because the statements in a lucid program 
+... lucid a nonprocedural language with iteration lucid is a formal system in which programs can be ***written*** and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3005
+implications of structured programming for machine architecture based on an empirical study of more than 10000 lines of 
+... unlike a huffman code which utilizes variable length fields this method uses only fixed length 1 byte op 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3080
+proving the correctness of heuristically optimized code a system for proving that programs ***written*** in a high level 
+... some interesting results are the ability to handle programs that implement recursion by bypassing the start of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3160
+galler university of michigan patricia goldberg ibm corporation john hamblen university of missouri at rolla elliot pinson bell 
+... in preparation for the original workshop all doctorate granting computer science departments in the nation were asked for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3199
+also included are such functions as substitution differentiation determining coefficients of specified variables solving a linear equation basic 
+... algem an algebraic manipulator algem is a package of subprograms ***written*** in slip fortran iv and map 7094 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3201
+symbolic manipulation of poisson series poisson series of three variables are manageable symbolically through as a set of 
+... the routines are entirely self contained subroutines and require only standard fortran inputoutput units 5 and 6 they 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3202
+manip a computer system for algebra and analytic differentiation a mathematical expression to be operated upon is ***written*** 
+... the problemm of performing algebraic operations and obtaining analytic derivatives was translated into that of identifying and manipulating 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3204
+an on line program for non numerical algebra the goal of this program is to make a step 
+... the q 32 computer as system development corporation santa monica california was chosen because it also had a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0321
+remarks are based on the authors interpretations of the algol 60 report 
+... however experience has shown that once the report is explained it is in fact easy to learn algol 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1464
+an algol compiler construction and use in relation to an elaborate operating system an algol translator has been 
+... using the chain feature of ibsys links ***written*** in map or fortran as well as algol may be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1468
+syntax directed interpretation of classes of pictures a descriptive scheme for classes of pictures based on labeling techniques 
+... a partial generative grammar for handwritten english letters is given as are also a few computer generated outputs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1549
+an efficient machine independent procedure for garbage collection in various list structures a method for returning registers to 
+... the routine for implementing this algorithm can be ***written*** in the list language with which it is to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1705
+input output transput input output procedures input echo quality output decompose integer decompose real style berkeley style procedures 
+... a set of basic input output procedures algorithm 335 15 by means of the primitives in symbol outsymbol 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1854
+on multiprogramming machine coding and computer organization the author feels that the interrupt feature which is available in 
+... a programming scheme is presented which avoids the concept of the interrupt and permits the specification of concurrent 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2002
+amesplot a higher level data plotting software system amesplot is an extensible software system designed to make the 
+... computer graphics data potting data display syntax hardware independent software display device independent software plot elements self scaled 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2317
+programming systems and languages 1965 1975 in spite of impressive gains by pli fortran and cobol remain the 
+... important trends include the increased interest in the development of system measurement and evaluation techniquesand increased use of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2356
+a technique for software module specification with examples this paper presents an approach to writing specifications for parts 
+... the main goal is to provide specifications sufficiently precise and complete that other pieces of software can be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2483
+specific chess algorithms are described which could be used as a command structure by anyone desiring to do 
+... coko iii the cooper koz chess program coko iii is a chess player ***written*** entirely in fortran 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2645
+two languages for estimating program efficiency two languages enabling their users to estimate the efficiency of computer programs 
+... programming languages syntax directed translation symbolic manipulation program efficiency analysis of algorithms 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2233
+thomas jefferson beale codes cryptanalysis cyphers decoding declaration of independence encoding magna carta pseudotext signature simulation 3 
+... signature simulation and certain cryptographic codes three cyphers allegedly authored by thomas jefferson beale in 1822 have been 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3077
+associated with the functional style of programming is an algebra of programs whose variables range over programs and 
+... an alternative functional style of programming is founded on the use of combining forms for creating programs 

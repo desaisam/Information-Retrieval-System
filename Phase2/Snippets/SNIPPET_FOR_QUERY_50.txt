@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2114
+attribute value pair index keyword record record address k pointer k list file directory generalized file structure inverted 
+... a formal system for ***information*** ***retrieval*** from files a generalized file structure is provided by which the concepts 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2714
+these performances compare very favorably with the previous best ***parallel*** merging algorithm batchers algorithm which requires np mn2plog2 
+... the paper presents an algorithm for merging a and b with the p ***parallel*** ***processors*** which requires at 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1680
+a general purpose display processing and tutorial system adept a display expedited processing and tutorial system is described 
+... this system was designed to improve man computer communications by employing a display unit to interleave tutoring with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3075
+fast ***parallel*** sorting algorithms a ***parallel*** bucket sort algorithm is presented that requires time olog n and the 
+... a procedure is also presented to sort n numbers in time ok log n using n 1 1k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3156
+computing connected components on ***parallel*** computers we present a ***parallel*** algorithm which uses n2 ***processors*** to find the 
+... simultaneous access to the same location is permitted for fetch instructions but not for store instructions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2967
+a comparison of hardware and software associative memories in the context of computer graphics the associative processing of 
+... associative memory associative processor content addressable memory graphics ***information*** ***retrieval*** data structures software evaluation hardware evaluation ***parallel*** processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1811
+it is shown that with proper programming solution time when n ***processors*** are applied approaches 1n times the 
+... communication between cooperating ***processors*** is by means of data in storage shared by all ***processors*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2570
+***parallel*** processing precedence graphs scheduling list scheduling optimization dynamic programming 4 
+... a comparison of list schedules for ***parallel*** processing systems the problem of scheduling two or more ***processors*** to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2278
+binary trees search trees ***information*** storage ***information*** ***retrieval*** 3 
+... on fosters ***information*** storage and ***retrieval*** using avl trees cacm september 1972 tan k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0275
+ca611006 jb march 16 1978 1258 pm 
+... dynamic storage allocation for an ***information*** ***retrieval*** system cacm october 1961 sams b 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0651
+ca620108 jb march 20 1978 436 pm 
+... a survey of languages and systems for ***information*** ***retrieval*** cacm january 1962 grems m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2070
+ca700414 jb february 13 1978 237 pm 
+... a formal system for ***information*** ***retrieval*** from files cacm april 1970 hsiao d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2497
+an interlock scheme called read interlock which does not require memory pause instructions has been developed for a 
+... when a processor examines a lock a memory location with a read interlock instruction it will be interrupted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1830
+***information*** ***retrieval*** direct access memory data base inverted list 3 
+... ***retrieval*** times for a packed direct access inverted file cacm october 1969 bayes a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0239
+ca611211 jb march 15 1978 1010 pm 
+... inefficiency of the use of boolean functions for ***information*** ***retrieval*** systems cacm december 1961 verhoeff j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0292
+ca610902 jb march 16 1978 951 pm 
+... an ***information*** ***retrieval*** language for legal studies cacm september 1961 kehl w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0634
+ca620209 jb march 20 1978 344 pm 
+... manipulation of trees in ***information*** ***retrieval*** cacm february 1962 salton g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0891
+furtherthe method of solution makes it possible for many groups who have previously dismissed an ***information*** ***retrieval*** program 
+... everymans ***information*** ***retrieval*** system the ***information*** ***retrieval*** problem whose solution is presented here was posed by a technical 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1457
+data manipulation and programming problems in automatic ***information*** ***retrieval*** automatic ***information*** ***retrieval*** programs require the manipulation of a 
+... a variety of data representations which have been used to describe structured ***information*** are then examined and the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3012
+the use of an interactive ***information*** storage and ***retrieval*** system in medical research this paper presents the results 
+... the results show the important role played by frequently chosen laboratory reference leaders in influencing the use of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2175
+depending on the hardware environment in which the expression is to be executed these subexpressions can be evaluated 
+... this observation is valid for configurations ranging from a uniprocessor with an unbuffered main memory to multiprocessor with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0655
+comit as an ir language many of the features that make comit a good all around symbol manipulation 
+... presented here is a general discussion of this unique and different programming language and an examination of some 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1675
+a note on a relevance estimate and its improvement in this paper the effect of iterating the improvement 
+... it is shown that applications of the improvement factor beyond the first time are ineffectual and that the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1831
+***information*** ***retrieval*** file searching tree structures double chaining 3 
+... 74 ca691015 jb february 15 1978 131 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2532
+string substring hashing ***information*** storage and ***retrieval*** 3 
+... 5 ca730307 jb january 24 1978 1030 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2781
+keys direct access method sequential access method randomizing ***information*** ***retrieval*** 3 
+... the algorithm sequential access method an alternative to index sequential cacm march 1975 whitt j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2976
+database inverted file organization database performance and measurement ***information*** ***retrieval*** query answering 3 
+... approximating block accesses in database organizations cacm april 1977 yao s 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3168
+comment on an optimal evaluation of boolean expressions in an online query system 
+... query boolean expression ***information*** ***retrieval*** file organization 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3169
+note on an optimal evaluation of boolean expressions in an online query system 
+... query boolean expression optimal evaluation ***information*** ***retrieval*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1514
+on the expected gain from adjust ing matched term ***retrieval*** systems a file adjustment procedure based on maximizing 
+... the expected gain and its probability distribution are derived as a function of 1 the prior proportion of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2288
+file organization consecutive storage consecutive ***retrieval*** ***information*** ***retrieval*** record organization query structure record structure storage on tapes storage 
+... file organization the consecutive ***retrieval*** property the consecutive ***retrieval*** property is an important relation between a query set 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1032
+theoretical considerations in ***information*** ***retrieval*** systems ***information*** storage and ***retrieval*** systems are composed of three major components a 
+... for searching strategy a linear model for an evaluation function of relevancy is developed which rewards the system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1359
+this results in the implementation of a two part data filter module that satisfies internal processing functions by 
+... data filtering applied to ***information*** storage and ***retrieval*** applications manipulation of data strings is the most complex processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2516
+equations are derived to predict the effect of such a system on data access times using sequential files 
+... hierarchical storage in ***information*** ***retrieval*** a probabilistic analysis is employed to determine the effect of hierarchical storage organizations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2990
+by relating term accuracy to the frequency of occurrence of the term in the documents of a collection 
+... the concept of query term accuracy is in troduced as the probability of occurrence of a query term 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3134
+the use of normal multiplication tables for ***information*** storage and ***retrieval*** this paper describes a method for the 
+... for a certain class of ***information*** systems the normal multiplication table method yields far more rapid ***retrieval*** with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1959
+an interrupt based organization for management ***information*** systems a programming structure language constructs and a supervisory system organization 
+... the bases for this organization are a generalized interrupt structure and the newly introduced concept of file tagging 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1846
+on simulating networks of ***parallel*** processes in which simultaneous events may occur some of the problems of simulating 
+... simulation ***parallel*** processes simultaneous events picture processing computer system simulation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2865
+verifying properties of ***parallel*** programs an axiomatic approach an axiomatic method for proving a number of properties of 
+... this paper defines a more powerful deductive system which is in some sense complete for partial correctness 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1236
+the smart automatic document ***retrieval*** system an illustration a fully automatic document ***retrieval*** system operating on the ibm 
+... this feature is used in the ***retrieval*** process by leaving the exact sequence of operations initially unspecified and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2140
+***retrieval*** update speed tradeoffs using combined indices in a paper in the november 1970 communications of the acm 
+... tradeoff curves are developed to show minimal cost of file usage by grouping various partially combined indices 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2561
+a heuristic approach to inductive inference in fact ***retrieval*** systems heuristic procedures are presented which have been developed 
+... a program of experiments is described wherein the procedures are used with test data bases which are altered 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1681
+natural language communication on line searching remote console communication ***information*** ***retrieval*** man machine communication remote terminal communication translator 
+... requests are formulated in a standardized syntactical form examples of which are presented and this form is then 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1699
+***information*** ***retrieval*** testing ***information*** system evaluation experimental document ***retrieval*** document ***retrieval*** document perusal man machine communication remote console 
+... experimental evaluation of ***information*** ***retrieval*** through a teletypewriter experiments designed to evaluate the capabilities of mechanized ***information*** ***retrieval*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1927
+course curriculum graduate courses university coursescomputer science curriculum ***information*** science ***information*** organization ***information*** ***retrieval*** data ***retrieval*** language analysis 
+... computer science program this report contains recommendations on a sample course curriculum in the general area of ***information*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2484
+a note on ***information*** organization and storage since the logical structure of a data base can be represented 
+... there are three important elements in this general construction method namely a set of binary relations an algorithm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2519
+complex ***information*** ***information*** communication mathematics proof interactive system language 1 
+... on the problem of communicating complex ***information*** the nature of the difficulty involved in communicating mathematical results between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1627
+this technique called the multilevel store provides a means for economically satisfying the requirements for very large storage 
+... application of level changing to a multilevel storage organization a technique for organizing the devices of a computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1937
+codas a data display system codas a customer oriented data system is a user oriented data ***retrieval*** and 
+... the command language of the system provides the user with an easy means for specifying data ***retrieval*** and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2139
+when there is low probability that the test will be satisfied it is shown how the operation can 
+... implementation of the substring test by hashing a technique is described for implementing the test which determines if 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2141
+algorithmic selection of the best method for compressing map data strings the best of a dozen different methods 
+... the technique has been used to compress data from forest resource maps but is widely applicable to map 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2412
+hashing ***information*** storage and ***retrieval*** scatter storage searching symbol table 3 
+... 9 ca731114 jb january 19 1978 440 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2493
+optimum data base reorganization points in certain data base organization schemes the cost per access may increase due 
+... this paper examines strategies for selecting the optimum reorganization points 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2530
+an algorithm for extracting phrases in a space optimal fashion z algorithm a444 cacm march 1973 wagner r 
+... ***information*** ***retrieval*** coding text compression 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2552
+a note on when to chain overflow items within a direct access table cacm january 1973 bays c 
+... hash code open hash chaining ***information*** ***retrieval*** collision 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2965
+an optimal evaluation of boolean expressions in an online query system cacm may 1977 hanani m 
+... query boolean expression ***information*** ***retrieval*** file organization 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1601
+***parallel*** numerical methods for the solution of equations classical iterative procedures for the numerical solution of equations provide 
+... several families of numerical procedures which use the technique of the procedures in a ***parallel*** processing environment are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1725
+associative memories content addressed memories ordered lists ordered ***information*** ***retrieval*** ordered ***retrieval*** theorem column digit values digit value 
+... a simple proof of lewins ordered ***retrieval*** theorem for associative memories an efficient method of ordered ***retrieval*** of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2882
+a stochastic evaluation model for database organization in data ***retrieval*** systems experimental work in the valuation of large 
+... the model is designed to estimate the ***retrieval*** workload of alternative data ***retrieval*** systems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0082
+handling identifiers as internal symbols in language ***processors*** substitution of computer oriented symbols for programmer oriented symbols in 
+... ca590602 jb march 22 1978 638 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2723
+multiprocessing compactifying garbage collection algorithms for a multiprocessing compactifying garbage collector are presented and discussed 
+... garbage collection storage reclamation reclaimer storage allocation multiprocessing synchronization semaphores ***parallel*** processing compactification relocation lisp list processing free 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0670
+more challenging are questions relating to off premises ***processors*** particularly with respect to the obligation not to disclose 
+... some legal implications of the use of computers in the banking business the introduction of computers in to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2645
+two languages for estimating program efficiency two languages enabling their users to estimate the efficiency of computer programs 
+... programming languages syntax directed translation symbolic manipulation program efficiency analysis of algorithms 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1409
+nebula a digital computer using a 20 mc glass delay line memory oregon state university has designed and 
+... the design objectives as originally conceived in a special seminar were 1 to be a research project in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1960
+the main features of the system include the ability given to any user to schedule his own ***parallel*** 
+... process management and resource sharing in the multiaccess system esope the main design principles of the multiaccess system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0440
+rules that can be applied generally to name ***retrieval*** systems have been developed in a methodological study of 
+... record linkage special difficulties are encountered in devising reliable systems for searching and updating any large files of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0944
+such trees have ***information*** storage and ***retrieval*** properties applicable to problems involving large quantities of data or to 
+... storage and search properties of a tree organized memory system a memory with list properties 1 may be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1527
+since the recognition function succeeds just in case the posed question is drawn from the set of sentences 
+... a grammar base question answering procedure the subject of this paper is a procedure for the automatic ***retrieval*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1935
+randomized binary search technique a mathematical model is developed for the mean and variance of the number of 
+... binary pattern file examination graph theory ***information*** ***retrieval*** mathematical model partitioning probabilistic method random sequencing search techniques tree 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2032
+two types of such trees are examined and their relation to trees studied in the past is explainedesults 
+... file structures using hashing functions a general method of file structuring is proposed which uses a hashing function 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2050
+automatic parsing for content analysis although automatic syntactic and semantic analysis is not yet possible for all of 
+... preliminary studies show that the harvard syntactic analyzer can produce correct and unambiguous identification of the subject and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2160
+address calculation atoms of boolean algebra attributes boolean functions boolean queries file organization ***information*** ***retrieval*** inverted file key 
+... thus for example the structure for ***retrieval*** on the basis of ranges of values of a given attribute 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2258
+hashing hashing techniques hashing methods hash coding keys key transformation key to address transformation direct addressing direct access 
+... additional results on key to address transform techniques a fundamental performance study on large existing formatted files cacm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2307
+dynamic document processing the current role of computers in automatic document processing is briefly outlined and some reasons 
+... the proposed procedures provide powerful tools for ***information*** ***retrieval*** and for the control of dynamic library collections in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2388
+optimizing binary trees grown with a sorting algorithm items can be retrieved from binary trees grown with a 
+... the binary trees grown by this algorithm sometimes have some branches longer than others therefore it is possible 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2455
+an experiment is performed to compare these trees with standard avl trees and with balanced trees on the 
+... it is shown that by permitting imbalances of up to five units the ***retrieval*** time is increased a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2593
+data base management ***information*** ***retrieval*** computer configurations computer networks data base task group language data base protection data 
+... a back end computer for data base management it is proposed that the data base management function be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2623
+a new technique for compression and storage of data the widespread tendency toward storage of large programs and 
+... the techniques involve special handling of leading and trailing blanks and the encoding of other symbols in groups 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2711
+a vector space model for automatic indexing in a document ***retrieval*** or other pattern matching environment where stored 
+... an approach based on space density computations is used to choose an optimum indexing vocabulary for a collection 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2846
+it has the same underlying m ary tree structure as a trie where m is a parameter of 
+... in the analysis part of the paper it will be shown that for a collection of n keys 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1652
+a code for non numeric ***information*** processing applications in online systems a code has been specifically designed to 
+... this code called ipc ***information*** processing code is an 8 bit code set constructed so that 7 6 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1711
+law legal lawyer liability torts negligence contracts warrantees guarantees accounting regulations simulation income tax copyrights patents trade secrets 
+... when your computer needs a lawyer possible liability for negligence for other torts such as slander of credit 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2631
+text searching ***information*** theory file organization direct access ***information*** ***retrieval*** character string bit vector 3 
+... an ***information*** theoretic approach to text searching in direct access systems using direct access computer files of bibliographic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1976
+the method which in its degenerate case becomes the conventional secondary index filing scheme works similarly but has 
+... through the use of redundancy and storing keys or access numbers of the records that satisfy different combinations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0675
+coding clinical laboratory data for automatic storage and ***retrieval*** a series of clinical laboratory codes have been developed 
+... the paper concludes that even though many problems remain unsolved the next ten years could witness the emergence 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1194
+the main features of the ***information*** system are direct user access via on line teletypewriter console direct user 
+... establishment of the acm repository and principles of the ir system applied to its operation the history of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1456
+an important conclusion is that although lisp and other list processing languages are ideally suited for producing complex 
+... storage and ***retrieval*** of aspects of meaning in directed graph structures an experimental system that uses lisp to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1700
+peekabit computer offspring of punched card peekaboo for natural language searching the peekaboo idea from punched card ***information*** 
+... if at search time the logical product using the and operation of this mask and a similarly constructed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2092
+a deductive question answer for natural language inference the question answering aspects of the protosynthex iii pro totype 
+... question answering natural language protosynthex iii lisp semantics artificial intelligence computational linguistics language processing fact ***retrieval*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2390
+interactive system organization of scientific community readers writers commentators computer utility ***information*** ***retrieval*** trees data structures 1 
+... a proposal for a computer based interactive scientific community because of the problems created by the explosion of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2437
+general performance analysis of key to address transformation methods using an abstract file concept this paper presents a 
+... hashing hashing techniques hashing methods hash coding key transformation key to address transformation direct addressing randomizing random access 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2451
+as a practical application of such a model this paper considers the design of a novel tree search 
+... design of tree structures for efficient querying a standard ***information*** ***retrieval*** operation is to determine which records in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2543
+the expected number of probes to look up an entry predicted theoretically and verified by monte carlo experiments 
+... address calculation content addressing file searching hash addressing hash code linear probing linear quotient method scatter storage searching 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2547
+the algebraic properties of the data structure make it computationally easy to determine whether a point lies within 
+... representation of contours ad regions for efficient computer search a novel computer searchable representation for the three basic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2650
+error correction regular languages regular events finite state automata compiler error recovery spelling correction string best match problem 
+... order n correction for regular languages a method is presented for calculating a string b belonging to a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2722
+multidimensional binary search trees used for associative searching this paper develops the multidimensional binary search tree or k 
+... associative ***retrieval*** binary search trees key attribute ***information*** ***retrieval*** system nearest neighbor queries partial match queries intersection queries 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2746
+efficient string matching an aid to bibliographic search this paper describes a simple efficient algorithm to locate all 
+... the number of state transitions made by the pattern matching machine in processing the text string is independent 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2795
+the model encompasses several diverse classes of linguistic knowledge which include 1 executable tests of conceptual properties stored 
+... in generating sentences from meaning structures the program employs both the ***information*** ***retrieval*** and deduction capabilities of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2889
+performance of height balanced trees this paper presents the results of simulations that investigate the performance of height 
+... it is shown that the only statistic of hb1 trees avl trees that is a function of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2916
+a fast string searching algorithm an algorithm is presented that searches for the location i of the first 
+... thus the algorithm has the unusual property that in most cases not all of the first i characters 

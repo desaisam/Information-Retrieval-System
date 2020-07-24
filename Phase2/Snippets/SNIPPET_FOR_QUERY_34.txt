@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1893
+***root*** finders roots of ***polynomial*** equations ***polynomial*** zeros ***root*** squaring operations graeffe method resultant procedure subresultant procedure testing 
+... roots of polynomials by a ***root*** squaring and resultant routine algorithm 340 c2 cacm may 1969 noltemeier a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2660
+parallelism ***polynomial*** ***root*** finding real zeros 5 
+... 15 ca740410 jb february 1 1978 1036 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1763
+***root*** finders ***polynomial*** equation roots quadratic equation roots cubic equation roots biquadratic equation roots ***polynomial*** zeros 5 
+... roots of low order ***polynomial*** equations algorithm 326 c2 cacm april 1968 nonweiler t 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1524
+a stopping criterion for ***polynomial*** ***root*** finding when searching for the ***root*** of a ***polynomial*** it is generally 
+... in this paper an algorithm is presented which allows one to terminate the iteration process on the basis 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1667
+***root*** finders roots of ***polynomial*** equations ***polynomial*** zeros ***root*** squaring operations graeffe method resultant procedure subresultant procedure testing 
+... roots of polynomials by a ***root*** squaring and resultant routine algorithm 340 c2 cacm november 1968 noltemeier a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1999
+optimal starting approximations for generating square ***root*** for slow or no divide on machine with slow or no 
+... the problem of optimal initial approximants is considered and some optimal ***polynomial*** initial approximations are tabulated 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1620
+methods of evaluating ***polynomial*** approximations in function evaluation routines the method of nested multiplication is commonly used in 
+... new ***polynomial*** evaluation methods have been developed in ***recent*** years which require fewer multiplications than nested multiplication and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1567
+such an approach unifies earlier work and lends insight to previously published work by aaron booker 
+... on the representation of symmetric polynomials relations are given between certain symmetric polynomials in the light of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1046
+rohl in their most ***recent*** paper have presented a very interesting programming system that they have developed for 
+... a compiler building system developed by brooker and morris in a number of articles published during the past 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1949
+fortran finiteness assumptions intellectual ***isolation*** integer variable range memory finiteness finite word size 2 
+... finiteness assumptions and intellectual ***isolation*** of computer scientists cacm december 1970 wagner r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0005
+ca581102 jb march 22 1978 833 pm 
+... two square ***root*** approximations cacm november 1958 wadey w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1615
+an algorithm for generating ***root*** locus diagrams a technique for using a digital computer to draw both ordinary 
+... time lag diagrams which had been impossible to obtain are drawn with the same speed and accuracy as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1882
+matrix symmetric matrix positive definite matrix matrix square ***root*** 5 
+... determination of the square ***root*** of a positive definite matrix algorithm 298 f1 cacm june 1969 duke b 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0334
+division and square ***root*** in the quater imaginary number system cacm april 1961 nadler m 
+... ca610334 jb march 16 1978 1116 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0672
+ca631202 jb march 13 1978 314 pm 
+... ***recent*** developments affecting adp in tax administration cacm december 1963 leibowitz g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0035
+ca580101 jb march 22 1978 927 pm 
+... a machine method for square ***root*** computation cacm january 1958 bemer r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1520
+absolute value and square ***root*** of a complex number algorithm 312 a2 cacm october 1967 friedland p 
+... ca671012a jb february 27 1978 149 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1618
+determination of the square ***root*** of a positive definite matrix algorithm 298 f1 cacm march 1967 spath h 
+... ca670311b jb march 23 1978 409 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3114
+difference ***isolation*** word processing text editing program maintenance hash coding file compression bandwidth compression longest common subsequence file 
+... the algorithm isolates differences in a way that corresponds closely to our intuitive notion of difference is easy 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0492
+the probability distribution of the displacement of records from their calculated address which is one less than the 
+... analysis of a file addressing method this paper presents a new file addressing method based on the calculation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1014
+machine controls for analysis of variance a major problem in using the analysis of variance as the number 
+... even though the experimenter may not be ***interested*** in these interactions it is impossible to ignore them in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1623
+this paper is more concerned with the use of programming techniques in formac than with the actual engineering 
+... an application of formac a nonlinear circuit analysis problem is stated and the way in which it was 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1867
+on the expected lengths of sequences generated in sorting by replacement selecting in the replacement selecting technique of 
+... using complex variable theory it is shown that lj 2 and that asymptotically the average interval between sign 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2385
+zeros of a complex ***polynomial*** c2 algorithm a419 cacm february 1972 jenkins m 
+... 15 ca720206 jb january 31 1978 414 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0848
+1 will give examples of this usage for the square ***root*** and logarithm function for both binary and 
+... a note on range transformations for square ***root*** and logarithm there was the germ of an idea in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1440
+starting approximations for square ***root*** calculation on ibm system360 several starting approximations for square ***root*** calculation by newtons 
+... these approximations include several for the range 116 1 which is the interval of primary interest on ibm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1932
+square ***root*** newtons method relative error logarithmic error best fit optimal approximation maximal error recurrence relation integer ***root*** 
+... the logarithmic error and newtons method for the square ***root*** the problem of obtaining optimal starting values for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1254
+the iteration element a ***recent*** addition to the mad language has made the iteration structure of the mad 
+... ca650601 jb march 7 1978 1249 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1031
+a note on starting the newton raphson method determination of a suitable initial estimate for a ***root*** of 
+... ca640716 jb march 9 1978 744 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1495
+solution of transcendental equations by series reversion an algorithm is developed for expressing the solution y of the 
+... ca660102 jb march 3 1978 427 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1803
+downhill method complex relaxation method complex iteration complex equation transcendental complex equation algebraic complex equation 5 
+... complex ***root*** finding algorithm 365 c5 cacm december 1969 bach h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1832
+logarithmic error transformed rational approximation square ***root*** 5 
+... 10 ca691014 jb february 15 1978 138 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1689
+calculation of a ***polynomial*** and its derivative values by horner scheme algorithm 337 c1 cacm september 1968 pankiewicz 
+... 22 ca680912 jb february 21 1978 433 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1940
+calculation of a ***polynomial*** and its derivative values by horner scheme algorithm 337 c1 cacm january 1969 smith 
+... function evaluation ***polynomial*** evaluation algol procedure horners scheme 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0062
+ca590907 jb march 22 1978 444 pm 
+... multi dimensional least squares ***polynomial*** curve fitting cacm september 1959 lesh f 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0112
+ca601204 jb march 20 1978 644 pm 
+... numerical solution of the ***polynomial*** equation algorithm 30 cacm december 1960 ellenberger k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0125
+ca601110 jb march 20 1978 706 pm 
+... ***polynomial*** transformer algorithm 29 cacm november 1960 mackinney j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0179
+ca600611 jb march 20 1978 935 pm 
+... evaluation of the legendre ***polynomial*** pnx by recursion algorithm cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0180
+ca600610 jb march 20 1978 936 pm 
+... evaluation of the laguerre ***polynomial*** lnx by recursion algorithm cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0181
+ca600609 jb march 20 1978 937 pm 
+... evaluation of the hermite ***polynomial*** hnx by recursion algorithm cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0182
+ca600608 jb march 20 1978 938 pm 
+... evaluation of the chebyshev ***polynomial*** tnx by recursion algorithm ****** cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0325
+ca610509 jb march 16 1978 1058 pm 
+... numerical solution of the ***polynomial*** equation algorithm 30 cacm may 1961 alexander w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0341
+ca610427 jb march 16 1978 1138 pm 
+... chebyschev ***polynomial*** algorithm 10 cacm april 1961 ****** herndon j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0647
+ca620112 jb march 20 1978 432 pm 
+... numerical solution of the ***polynomial*** equation algorithm 30 cacm january 1962 cohen k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0764
+ca630834 jb march 13 1978 809 pm 
+... reduction of a matrix containing ***polynomial*** elements algorithm 170 cacm august 1963 hennion p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0819
+ca630705 jb march 14 1978 846 am 
+... ***polynomial*** evaluation revised cacm july 1963 ****** eisman s 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0842
+ca630607 jb march 14 1978 1021 am 
+... a posteriori bounds on a zero of a ***polynomial*** algorithm 174 cacm june 1963 gibb a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1080
+ca640509 jb march 9 1978 1157 pm 
+... chebyshev ***polynomial*** coefficients algorithm 227 cacm may 1964 cyvin s 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1599
+ca670506d jb march 23 1978 403 pm 
+... numerical solution of the ***polynomial*** equation algorithm 300 c2 cacm may 1967 kohfeld j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2440
+localization of the roots of a ***polynomial*** algorithm r429 cacm september 1973 driessen h 
+... ca730915 jb january 23 1978 834 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2458
+ca730816 jb january 23 1978 1026 am 
+... localization of the roots of a ***polynomial*** algorithm r429 cacm august 1973 williams e 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2676
+ca740307 jb january 18 1978 1111 am 
+... zeros of a complex ***polynomial*** algorithm r419 cacm march 1973 withers d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0281
+in this note we produce a particular family of very fast high precision and eminently practical exponential evaluation 
+... putting a hex on ex ***recent*** notes on approximate natural antilogy have not considered indirect formulations for describing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0435
+a decision matrix as the basis for a simple data input routine currently a great deal of time 
+... since the implementation of of new methods and procedures is not instantaneous but rather occurs by an evolutionary 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0531
+person matching by electronic methods record linkage in the updating of files is accomplished in many establishments through 
+... here we present in more detail our initial procedures for the person matching process in order to elicit 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1397
+proceedings of the acm symposium on symbolic and algebraic manipulation the acm symposium on symbolic and algebraic manipulation 
+... the conference was sponsored by the acm special interest committee on symbolic and algebraic manipulation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0276
+program organization and record keeping for dynamic storage allocation the ***material*** presented in this paper is part of 
+... project ascii matic is concerned with the application of computer techniques to the activities of certain headquarters military 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1253
+a brief description of simscript is included as is a sufficient description of 20 gate to render this 
+... quikscript a simscript like language for the g 20 quikscript is a simulation language based on simscript and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2808
+the lemniscate constants the lemniscate constants and indeed some of the methods used for actually computing them have 
+... this ***material*** can be used for teaching purposes and there is much relevant and interesting historical ***material*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2822
+general permission to republish but not for profit all or part of this ***material*** is granted provided that 
+... standards case standards criteria for standards standardization 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0089
+a routine to find the solution of simultaneous linear equations with ***polynomial*** coefficients cacm april 1959 larson e 
+... ca590403 jb march 22 1978 712 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0177
+grau communications acm february 1960 algorithm cacm june 1960 thacher jr 
+... ca600613 jb march 20 1978 931 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0226
+solution of ***polynomial*** equation by bairstow hitchcock method algorithm 3 cacm february 1960 grau a 
+... ca600206 jb march 22 1978 220 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0327
+zeros of a real ***polynomial*** by resultant procedure algorithm 59 cacm may 1961 bareiss e 
+... ca610507 jb march 16 1978 1101 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0340
+ca610428 jb march 16 1978 1137 pm 
+... legendre ***polynomial*** algorithm 13 cacm april 1961 herndon j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0342
+solution of ***polynomial*** equation by barstow hitchcock algorithm 3 cacm april 1961 herndon j 
+... ca610426 jb march 16 1978 1139 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0388
+solution of ***polynomial*** equations by bairstow hitchcock method algorithm 3 cacm february 1961 vandergraft j 
+... ca610210 jb march 17 1978 1254 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0765
+orthogonal ***polynomial*** least squares surface fit algorithm 164 cacm august 1963 bitterli c 
+... ca630833 jb march 13 1978 810 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0884
+orthogonal ***polynomial*** least squares surface fit algorithm 164 cacm april 1963 clark r 
+... ca630407 jb march 14 1978 1225 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1037
+ca640710 jb march 9 1978 813 pm 
+... reduction of a matrix containing ***polynomial*** elements algorithm 170 f3 cacm july 1964 priebe k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1450
+simultaneous displacement of ***polynomial*** roots if real and simple algorithm 283 c2 cacm april 1966 kerner i 
+... ca660403e jb march 23 1978 719 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2291
+localization of the roots of a ***polynomial*** c2 algorithm a429 cacm august 1972 squire w 
+... polynomials roots of polynomialstheory of equations routh hurwitz criterion 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0962
+the present work largely inspired by the successes of maehly and his associates concerns the extension of one 
+... double precision squares ***root*** for the cdc 3600 in january of 1960 the late hans j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1420
+a new uniform pseudorandom number generator a new multiplicative congruential pseudorandom number generator is discussed in which the 
+... this generator passes the usual statistical tests and in addition the least significant bits appear to be as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1933
+coding the lehmer pseudo random number generator an algorithm and coding technique is presented for quick evaluation of 
+... pseudo random number random number modular arithmetic uniform probability density uniform frequency function simulation prime factorization primitive roots 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3058
+jump searching a fast sequential search technique when sequential file structures must be used and binary searching is 
+... this paper explores variants of the classic jump searching scheme where the optimum jump size is the square 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0679
+the basic implementation of this language was described in a previous paper madcap a scientific compiler for a 
+... this paper discusses ***recent*** improvements in the language in three areas complex display logical control and subprogramming 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0111
+by applying the recommended scaling and inversion rules the basic bairstow and newton raphson iterative techniques can be 
+... on programming the numerical solution of ***polynomial*** equations numerical techniques are presented for computing the roots of ***polynomial*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1015
+using this formula a partitioning algorithm is obtained for dividing a basic interval into subintervals for which approximations 
+... near minimax ***polynomial*** approximations and partitioning of intervals a method of near minimax ***polynomial*** approximation is described 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1643
+it is shown how the accuracy of this division may be increased by dividing in order of both 
+... an improvement to iterative methods of ***polynomial*** factorization methods of ***polynomial*** factorization which find the zeros one at 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1875
+***polynomial*** and spline approximation by quadratic programming the problem of approximation to a given function or of fitting 
+... two approaches are presented in each of which quadratic programming is used to provide both the constraints on 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2266
+a highly parallel algorithm for approximating all zeros of a ***polynomial*** with only real zeros an algorithm is 
+... the algorithm which is conceptually suitable for parallel computation determines its own starting values so that convergence to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+an 80 column ibm card is divided into two fields reference ***material*** field columns 1 67 and identification 
+... a card format for reference files in information processing this paper proposes a card format suitable for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1032
+theoretical considerations in information retrieval systems information storage and retrieval systems are composed of three major components a 
+... for searching strategy a linear model for an evaluation function of relevancy is developed which rewards the system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1362
+code extension in ascii an asa tutorial the american standard code for information interchange ascii contains a number 
+... this paper presents a set of mutually consistent philosophies regarding code extension applications and suggests a corollary set 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2407
+curriculum recommendations for undergraduate programs in information systems the need for education related to information systems in organizations 
+... education undergraduate curricula management systems information systems information analysis system design systems analysis 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2486
+computer photocomposition of technical text in computer assisted typesetting by means of photocomposition special problems arise in highly 
+... words or formulas placed partly at the end of one line and partly at the beginning of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3130
+curriculum 78 recommendations for the undergraduate program in computer science contained in this report are the recommendations for 
+... the core curriculum common to all computer science undergraduate programs is presented in terms of elementary level topics 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0116
+the purpose of this communication is to enlist the help of other members in bringing to light whatever 
+... the sumador chino on a ***recent*** motor trip through mexico the writer came across on adding device which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1121
+comments on a continued operation notation this note is intended to clarify and correct several points in a 
+... ca640310 jb march 10 1978 245 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1294
+note on triple precision floating point arithmetic with 132 bit numbers in a ***recent*** paper gregory and raney 
+... a similar technique can be developed for triple precision floating point arithmetic and it is the purpose of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1333
+reducing truncation errors using cascading accumulators when accumulating a large number of quantities as in numerical integration the 
+... a simpler and slightly more flexible algorithm is presented which deals also with the case of negative addends 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1441
+methods of numerical integration applied to a system having trivial function evaluations a study has been made to 
+... ***recent*** methods due to butcher and gear are compared with classic runge kutta kutta nystrom and adams methods 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1722
+methods of convergence improvement for some improper integrals in the numerical integration of an improper integral of the 
+... in this paper several methods of convergence improvement are developed which greatly improve convergence of some improper integrals 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2619
+graph coloring conditions for the existence of solutions to the timetable problem a necessary and sufficient condition is 
+... using some ***recent*** results that convert graphs with preconditions to graphs without them it is shown that the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2837
+a new upper bound for vin improves the bound given by the standard hadian sobel algorithm by a 
+... new upper bounds for selection the worst case minimum number of comparisons complexity vin of the i th 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2999
+an approach to multidimensional data array processing by computer some ***recent*** work on the development of general purpose 
+... array processing table processing statistical analysis data retrieval data processing syntax for data structures computing techniques time series 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0616
+it is hoped that this report will be read a with avid interest by programming language designers and 
+... an information algebra phase i report language structure group of the codasyl development committee this report represents the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1806
+to avoid this difficulty and to improve the rate of convergence toward a ***root*** some modifications of the 
+... on the downhill method the downhill method is a numerical method for solving complex equations fz 0 on 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2229
+construction of rational and negative powers of a formal series some methods are described for the generation of 
+... series expansion series inversion ***root*** extraction binomial theorem newton iterations chebyshev series poisson series fourier series 3 

@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2678
+visible surface plotting program j6 algorithm a475 cacm march 1974 wright t 
+... hidden line problem ***computer*** ***graphics*** contour surface 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2751
+illumination for ***computer*** generated pictures the quality of ***computer*** generated images of three dimensional scenes depends on the 
+... the shading algorithm itself depends in part on the method for modeling the object which also determines the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2913
+the aliasing problem in ***computer*** generated shaded images certain defects such as jagged edges and disappearing detail have 
+... a method for evaluating filters is presented the application of prefiltering to hidden surface ***algorithms*** is discussed and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2004
+this algorithm achieves a significant increase in speed of computation over the warnock algorithm developed at the university 
+... a procedure for generation of three dimensional half toned ***computer*** ***graphics*** presentations a description is given of an 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2384
+hidden line plotting program j6 algorithm a420 cacm february 1972 williamson h 
+... 9 ca720207 jb january 31 1978 412 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2473
+hidden line plotting program algorithm r420 cacm july 1973 macleod i 
+... hidden line plot surface plot 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2369
+this paper describes a polygon comparison scheme in which the relationships of two polygons can be classified into 
+... hidden lines elimination for a rotating object a method is presented of determining which parts of three dimensional 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2827
+a parametric algorithm for drawing pictures of solid objects composed of quadric surfaces an algorithm for drawing pictures 
+... this scheme can find the coordinates of points of even quartic fourth order intersection curves using equations of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1915
+hidden line elimination back line recognition three dimensional representation plane faced objects perspective view machine rendering of solids 
+... an algorithm for hidden line elimination the algorithm presented causes the elimination of hidden lines in the representation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2692
+reentrant polygon clipping a new family of clipping ***algorithms*** is described 
+... code capable of clipping the polygon against a single boundary is reentered to clip against subsequent boundaries 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2829
+texture and reflection in ***computer*** generated images in 1974 catmull developed a new algorithm for rendering images of 
+... several examples of images synthesized using these new techniques are included 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2828
+hierarchical geometric models for visible surface ***algorithms*** the geometric structure inherent in the definition of the shapes of 
+... fourth frame to frame coherence and clipping define a graphical working set or fraction of the total structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2441
+hidden line plotting program algorithm r420 cacm september 1973 williamson h 
+... ca730914 jb january 23 1978 836 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2564
+ca741210 jb january 13 1978 345 pm 
+... hidden line plotting program algorithm r420 cacm december 1974 ellis t 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2637
+ca740609 jb january 17 1978 259 pm 
+... hidden line plotting program algorithm r420 cacm june 1974 ellis t 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2638
+ca740608 jb january 17 1978 300 pm 
+... hidden line plotting program algorithm r420 cacm june 1974 gaither b 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2924
+an interactive ***computer*** ***graphics*** approach to surface representation an in teractive ***computer*** ***graphics*** method has been developed for 
+... ***computer*** ***graphics*** three dimensional surface representation splines loftingfinite element input methods 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2674
+***graphics*** scan conversion raster display line drawing discrete image dot generation matrix displays 4 
+... scan conversion ***algorithms*** for a cell organized raster display raster scan ***computer*** ***graphics*** with real time character generators 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2967
+a comparison of hardware and software associative memories in the context of ***computer*** ***graphics*** the associative processing of 
+... associative memory associative processor content addressable memory ***graphics*** information retrieval data structures software evaluation hardware evaluation parallel processing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3149
+the cyclic order property of vertices as an aid in scene analysis a cyclic order property is defined 
+... this property augments previously known grammatical rules that determine the existence of three dimensional bodies corresponding to given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2925
+this surface to be composed of triangular tiles is constructed by separately determining an optimal surface between each 
+... optimal surface reconstruction from planar contours in many scientific and technical endeavors a three dimensional solid must be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2771
+for practical designers the technique has the advantage that operations are concise readily composed and are given in 
+... the synthesis of solids bounded by many faces a technique is presented which allows a class of solid 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3116
+typically drawings are used in an attempt to detect such unwanted interferences but the two dimensional static drafting 
+... two types of interference checking are discussed detection of intersections among objects in fixed positions and detection of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1978
+the use of interactive ***graphics*** to solve numerical problems with the advent of on line time sharing ***computer*** 
+... rather than simply use the new power to achieve fast turnaround we can develop interactive routines which are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2486
+***computer*** photocomposition of technical text in ***computer*** assisted typesetting by means of photocomposition special problems arise in highly 
+... words or formulas placed partly at the end of one line and partly at the beginning of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3111
+secure communications over insecure channels according to traditional conceptions of cryptographic security it is necessary to transmit a 
+... security cryptography cryptology communications security wiretap ***computer*** network security passive eavesdropping key distribution public key cryptosystem 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1697
+chinese characters inputoutput orthography rand tablet pdp 1 automatic typesetting man machine communication ***computer*** ***graphics*** graphical input on 
+... graphical inputoutput of nonstandard characters a system developed at harvard for graphically inputting and outputting nonstandard characters on 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2841
+the principal features of the system are 1 the surfaces are rendered as isoparametric line drawings on a 
+... designing surfaces in 3 d an experimental system for ***computer*** aided design of free form surfaces in three 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0266
+ca611102 jb march 15 1978 1100 pm 
+... fitting ***spheres*** by the method of least squares cacm november 1961 robinson s 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1014
+machine controls for analysis of variance a major problem in using the analysis of variance as the number 
+... even though the experimenter may not be ***interested*** in these interactions it is impossible to ignore them in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2201
+animator an on line two dimensional film animation system animator is a ***computer*** animation system which was designed 
+... during all stages on the system input elements light pen pushbuttons and teletype is maintained 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2687
+a cell organized raster display for line drawings raster scan ***computer*** ***graphics*** displays with real time character generators 
+... the feasibility of such a display is shown by deriving the minimum number of patterns required in the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2402
+pictorial pattern recognition phase problem x ray crystallography interactive ***graphics*** 3 
+... pictorial pattern recognition and the phase problem of x ray crystallography the availability of interactive three dimensional ***computer*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2547
+the algebraic properties of the data structure make it computationally easy to determine whether a point lies within 
+... representation of contours ad regions for efficient ***computer*** search a novel ***computer*** searchable representation for the three basic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2367
+the impact of computers is divided into five components political economic cultural social and moral the main part 
+... computers and society a proposed course for ***computer*** scientists the purpose of this paper is to describe a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1181
+a simple data transmission system using the office telephone a method has evolved for transmitting data of a 
+... present applications include cardiac output calculations radio activity tracer studies and neurophysiology time sequence studies of nerve impulses 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1680
+a general purpose display processing and tutorial system adept a display expedited processing and tutorial system is described 
+... this system was designed to improve man ***computer*** communications by employing a display unit to interleave tutoring with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2987
+boundary line representation cartography ***computer*** ***graphics*** ***computer*** searchable structures contour representation geographic information processing graphic data retrieval in 
+... representation of many sided polygons and polygonal lines for rapid processing a representation for polygons and polygonal lines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0087
+ca590405 jb march 22 1978 704 pm 
+... a note on a method for generating points uniformly on n dimensional ***spheres*** cacm april 1959 muller m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2421
+a scan conversion algorithm with reduced storage requirements most ***graphics*** systems using a raster scan output device crt 
+... results slow that storage requirements can be reduced by more than 80 percent while causing less than a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1397
+proceedings of the acm symposium on symbolic and algebraic manipulation the acm symposium on symbolic and algebraic manipulation 
+... the conference was sponsored by the acm special interest committee on symbolic and algebraic manipulation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2918
+alternative memory organizations are compared and it is shown that a home memory organization in which each processor 
+... multiprocessor memory organization and memory interference the structure of shared memory in a multiprocessor ***computer*** system is examined 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2919
+the four basic sections of the paper in troduce the subjectoutline the general concept discuss areas where such 
+... in this paper it is suggested that there are many other situations where it would be advantageous to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3082
+time clocks and the ordering of events in a distributed system the concept of one event happening before 
+... the algorithm is then ***specialized*** for synchronizing physical clocks and a bound is derived on how far out 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2341
+a variety of graphical problems including flowcharting bargraphs logic diagrams mathematical equation formation and text justification and preparation 
+... character manipulation output formatting string processing ***graphics*** nonnumerical programming snobol4 data types two dimensional mathematics test processing flowcharting 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2111
+spelling correction in systems programs several ***specialized*** techniques are shown for efficiently incorporating spelling correction ***algorithms*** in to 
+... spelling correction error correction debugging compilers operating systems diagnostics error detection misspelling lexical analysis systems programming 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2825
+analysis of variance cluster analysis contingency tables data analysis discriminant analysis factor analysis ***graphics*** outliers regression time series 
+... the bmd and bmdp series of statistical ***computer*** programs cacm october 1976 frane j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2211
+the scanned image is stored in the core memory of the ***computer*** and software scan conversion is used 
+... scanned display ***computer*** ***graphics*** a television like scanned display system has been successfully implemented on a honeywell ddp 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0531
+person matching by electronic methods record linkage in the updating of files is accomplished in many establishments through 
+... here we present in more detail our initial procedures for the person matching process in order to elicit 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1145
+git a heuristic program for testing pairs of directed line graphs for isomorphism given a pair of directed 
+... since a straightforward enumerative algorithm might require 40 years of running time on a very high speed ***computer*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2016
+these tools include special hardware clocks and data channels general purpose programmed probing and recording tools and ***specialized*** 
+... instrumentation performance measurement multiprogramming systems measuring tools system analysis multics metering event tracing demand paging script driven measurement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2809
+new results concerning norms with values in an archimedian vector lattice not necessarily being totally ordered are given 
+... an example of application to operator norms is given concerning contraction properties of positive operators 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2078
+representations for space planning problems involving the arrangement of objects in two or three space where the objective 
+... automated design data structures ***computer*** ***graphics*** ***computer*** aided design engineering design architectural design robots 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2873
+the language allows the flexible definition of geometric objects and elements computes their parameters and displays the results 
+... lg has been specifically designed for use by nonprogrammers it is easy to learn and very close to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2494
+the graphic principle used is the representation of the elements of a data matrix of similarities or dissimilarities 
+... a well known set of data consisting of the correlations of 24 psychological tests is used to illustrate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2845
+this makes it possible to force logical storage blocks to coincide with physical storage blocks such as tracks 
+... a buddy system variation for disk storage allocation a generalization of the buddy system for storage allocation is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2188
+each subsystem is chosen from large numbers of alternatives the selection is based on considerations such as system 
+... an approach to the optimum design of ***computer*** ***graphics*** systems display system designers are faced with the difficult 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1742
+as it was found that successive improvements to the display processor design lie on a circular path by 
+... display processor design display system ***computer*** ***graphics*** graphic terminal displays ***graphics*** display generator display channel display programming graphical 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2826
+interactive skeleton techniques for enhancing motion dynamics in key frame animation a significant increase in the capability for 
+... its compatibility with the basic key frame animation technique permits skeleton control to be applied selectively to only 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2959
+programming language ***graphics*** user in terface data flow forms flow data abstraction database query data processing business system 
+... the system for business automation sba programming language the system for business automation sba is a system within 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2035
+conversational access to a 2048 word machine lap6 is an on line system running on a 2048 word 
+... conversational ***computer*** access display editing display oriented system filing ***algorithms*** lap6 layering linc man machine communication on line 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2786
+a system for typesetting mathematics this paper describes the design and implementation of a system for typesetting mathematics 
+... the system interfaces directly with text formatting programs so mixtures of text and mathematics may be handled simply 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1891
+three dimensional ***computer*** display a stereographic display terminal has been produced using the raster display brad recently developed 
+... ***computer*** ***graphics*** three dimensional display swept raster display interactive stereographic terminal video map color separation 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3049
+a simply extended and modified batch environment graphical system sembegs sembegs is a complete batch environment graphical system 
+... the design of sembegs is founded upon the basic assumption that the true aim of ***computer*** ***graphics*** is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1551
+on compiling ***algorithms*** for arithmetic expressions this paper deals with ***algorithms*** concerning arithmetic expressions used in a fortran 
+... the ***algorithms*** generate an object code which minimizes the frequency of storing and recovering the partial results of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1658
+***computer*** experiments still provide little hope of solving problems with over 100 variables with a reasonable amount of 
+... analysis of ***algorithms*** for the zero one programming problem this paper is concerned with a review and examination 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2267
+each subroutine computes the radix and number of digits of the floating point numbers and whether rounding or 
+... ***algorithms*** to reveal properties of floating point arithmetic two ***algorithms*** are presented in the form of fortran subroutines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2490
+efficient ***algorithms*** for graph manipulation h algorithm a447 efficient ***algorithms*** are presented for partitioning a graph into connected 
+... if v is the number of vertices and e is the number of edges each algorithm requires time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2306
+ancient babylonian ***algorithms*** the early origins of mathematics are discussed emphasizing those aspects which seem to be of 
+... a number of old babylonian tablets many of which have never before been translated into english are quoted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2426
+***algorithms*** scale1 scale2 and scale3 for determination of scales on ***computer*** generated plots j6 algorithm a463 cacm october 
+... 41 ca731014 jb january 20 1978 1101 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0439
+on line digital ***computer*** for measurement of a neurological control system cacm november 1962 stark l 
+... ca621122 jb march 17 1978 520 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1172
+conversion of limited entry decision tables to ***computer*** programs decision tables are useful for describing a set of 
+... ***algorithms*** that can efficiently convert the tables into ***computer*** programs will extend the usefulness of decision tables to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1741
+***computer*** display ***computer*** ***graphics*** ***computer*** raster display tv display console digital tv display swept raster ***computer*** display swept 
+... after an initial display system investment of 50000 each display with teletype costs less than 3000 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1829
+an interactive graphical display monitor in a batch processing environment with remote entry a graphic monitor program is 
+... graphic monitor manmachine interaction graphic interface graphic in batch environment design of graphical system 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2003
+the first one is imol an interactive monitor language which is designed to perform the overall and control 
+... an interactive software system for computers aided design an application to circuit project the characteristics of an interactive 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2152
+display procedures although the use of structured display files is widespread in interactive ***computer*** ***graphics*** these structures present 
+... this paper discusses some of these problems and suggests an alternative approach to display system design which avoids 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3151
+an optimal real time algorithm for planar convex hulls an algorithm is described for the construction in real 
+... computational geometry convex hull planar set of points real time ***algorithms*** on line ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0492
+the probability distribution of the displacement of records from their calculated address which is one less than the 
+... analysis of a file addressing method this paper presents a new file addressing method based on the calculation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1623
+this paper is more concerned with the use of programming techniques in formac than with the actual engineering 
+... an application of formac a nonlinear circuit analysis problem is stated and the way in which it was 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1867
+on the expected lengths of sequences generated in sorting by replacement selecting in the replacement selecting technique of 
+... using complex variable theory it is shown that lj 2 and that asymptotically the average interval between sign 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2973
+sorting on a mesh connected parallel ***computer*** two ***algorithms*** are presented for sorting n2 elements on an n 
+... parallel ***computer*** parallel sorting parallel merge routing and comparison steps perfect shuffle 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2890
+these models show that adaptive routing does not satisfy the necessary conditions for an optimal routing adaptive routing 
+... on quadratic adaptive routing ***algorithms*** two analytic models of a store and forward communications network are constructed one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3032
+***algorithms*** for accomplishing this delivery through a store and forward packet switching ***computer*** network include 1 transmission of 
+... to this list of ***algorithms*** we add 6 reverse path forwarding a broadcast routing method which exploits routing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1844
+multiple terminal systems terminal oriented systems multiple processor systems high availability conversational systems general purpose time sharing systems 
+... a modular ***computer*** sharing system an alternative approach to the design and organization of a general purpose interactive 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1426
+there types of policies were examined admission based on percentages of discharge rates discharge rates plus or minus 
+... a simulation of hospital admission policy a study is described which simulates different admission policies of a large 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2708
+practical syntactic error recovery this paper describes a recovery scheme for syntax errors which provides automatically generated high 
+... syntax errors error recovery error correction parsing simple precedence compilers debugging 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0671
+telefile a case study of an on line savings bank application the development of an on line ***computer*** 
+... benefits to the bank are discussed from the bankers point of view an indication of future trends in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2002
+amesplot a higher level data plotting software system amesplot is an extensible software system designed to make the 
+... ***computer*** ***graphics*** data potting data display syntax hardware independent software display device independent software plot elements self scaled 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2820
+the design and implementation of a table driven interactive diagnostic programming system caps is a highly interactive diagnostic 
+... most components of caps are table driven both to reduce the space needed for implementation and to increase 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1592
+string similarity and misspellings the problem of programming a ***computer*** to determine whether or not a string of 
+... these techniques were tested on a collection of misspellings made by students at various grade levels 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2389
+preliminary report on a system for general space planning a ***computer*** language and a set of programs within 
+... the language is an extension of algol and includes means to represent spaces and objects to manipulate them 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2948
+the system consists of a communications ***computer*** directly connected to the time shared system a number of small 
+... the overall system design is presented along with the ***algorithms*** used to solve three specific problems local echoing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3038
+example protocols are presented for the establishment of authenticated connections for the management of authenticated mail and for 
+... using encryption for authentication in large networks of computers use of encryption to achieve authenticated communication in ***computer*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2535
+it is concluded that while for certain values of system parameters there is noticeable improvement in the performance 
+... the effects of multiplexing on a ***computer*** communications system a study is made of the way in which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2273
+conversion of decision tables by rule mask method without rule mask two ***algorithms*** for generating ***computer*** programs from 
+... execution time can be considerably reduced by instantly marking rules which are not applicable ***algorithms*** 1 and 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2902
+algorithm performancedynamic memory allocation dynamic memory management dynamic storage allocation garbage collection list processing memory allocation memory management 
+... dynamic memory allocation in ***computer*** simulation this paper investigates the performance of 35 dynamic memory allocation ***algorithms*** when 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2981
+a set of sufficient conditions are presented which guarantee that an input output specification is strong enough for 
+... program verification proving programs correct induction rule computation induction inductive assertions structural induction proof rule recursive programs iterative 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3071
+an algorithm using symbolic techniques for the bel petrov classification of gravitational fields in this note an algorithm 
+... this algorithm although more ***specialized*** than that of dinverno and russell clark requires neither the use of a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2357
+time sharing remote computing on line access on line computing remote file manager real time multiplexer implementation effort 
+... the system which required one man year for initial software implementation although basically simple provides the necessary elements 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2892
+some measurements of line efficiency for the arpanet are presented and by extrapolation these measurements are used to 
+... arpanet ***computer*** communication networks interprocess communication measurement packet switching performance evaluation and efficiency resource sharing 3 

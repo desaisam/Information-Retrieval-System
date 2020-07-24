@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2826
+interactive skeleton techniques for enhancing ***motion*** ***dynamics*** in key frame animation a significant increase in the capability for 
+... its compatibility with the basic key frame animation technique permits skeleton control to be applied selectively to only 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0695
+problem programs however are not currently filed on the disk 
+... several possible future applications are noted which appear to have disk connotations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2828
+hierarchical ***geometric*** models for visible surface algorithms the ***geometric*** structure inherent in the definition of the shapes of 
+... fourth frame to frame coherence and clipping define a graphical working set or fraction of the total structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1543
+computer formulation of the equations of ***motion*** using tensor notation a means is described for extending the area 
+... since this operation involves a formulation in terms of first and second order differential coefficients it provides a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0492
+the probability distribution of the displacement of records from their calculated address which is one less than the 
+... analysis of a file addressing method this paper presents a new file addressing method based on the calculation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1014
+machine controls for analysis of variance a major problem in using the analysis of variance as the number 
+... even though the experimenter may not be ***interested*** in these interactions it is impossible to ignore them in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1623
+this paper is more concerned with the use of programming techniques in formac than with the actual engineering 
+... an application of formac a nonlinear circuit analysis problem is stated and the way in which it was 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1867
+on the expected lengths of sequences generated in sorting by replacement selecting in the replacement selecting technique of 
+... using complex variable theory it is shown that lj 2 and that asymptotically the average interval between sign 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0438
+mechanical pragmatics a time ***motion*** study of a miniature mechanical linguistic system cacm december 1962 gorn s 
+... ca621201 jb march 17 1978 519 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0605
+computer simulation of city traffic in simulating traffic flow on city streets the national bureau of standards has 
+... each vehicle is assigned a digital identification giving points of entry and exit type of vehicle desired speed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2230
+although the language has been specifically designed for the automatic generation of integrated circuit masks it turns out 
+... a language for treating ***geometric*** patterns in a two dimensional space in this paper cadep a problem oriented 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2721
+the digital simulation of river plankton population ***dynamics*** this paper deals with the development of a mathematical model 
+... digital simulation mathematical modeling plankton population ***dynamics*** phytoplankton zooplankton river ecosystems ecological mechanisms environmental simulation modeling ecosystems pollution 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2873
+the language allows the flexible definition of ***geometric*** objects and elements computes their parameters and displays the results 
+... lg has been specifically designed for use by nonprogrammers it is easy to learn and very close to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0435
+a decision matrix as the basis for a simple data input routine currently a great deal of time 
+... since the implementation of of new methods and procedures is not instantaneous but rather occurs by an evolutionary 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0531
+person matching by electronic methods record linkage in the updating of files is accomplished in many establishments through 
+... here we present in more detail our initial procedures for the person matching process in order to elicit 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1397
+proceedings of the acm symposium on symbolic and algebraic manipulation the acm symposium on symbolic and algebraic manipulation 
+... the conference was sponsored by the acm special interest committee on symbolic and algebraic manipulation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1365
+among the areas in which it has been successfully used are differentiation of complicated expressions expansion of truncated 
+... eliminating monotonous mathematics with formac the formac formula manipulation compiler programming system provides a powerful tool for performing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1664
+an algorithm for deriving the equations of mathematical physics by symbolic manipulation a method is described whereby a 
+... the equations obtained will be relative to the curvilinear coordinate system specified by the transformation equations used as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0417
+legal implications of computer use this paper points out a variety of ways computer systems used in business 
+... techniques are suggested for making legal clearance effective with the least burden on the new technology and for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0616
+it is hoped that this report will be read a with avid interest by programming language designers and 
+... an information algebra phase i report language structure group of the codasyl development committee this report represents the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1234
+a technique of simulation at compile time of the use of a conventional run time stack enables the 
+... the context problem in the transmission to recursive procedures of parameters called by name is solved in a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2931
+logic programming languages automata denotational semantics a calculus models computability partial functions approximation function spaces 1 
+... these however are applications to logic and a big question is whether methods of logic have significance in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1385
+computer technology in communist china 1956 1965 based on information from translations of communist chinese news items and 
+... communist china is adjudged to have a marginal computer capability with most of its machines probably being of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0242
+notes on ***geometric*** weighted check digit verification this note describes a method for utilizing ***geometric*** weight modulus 11 
+... in addition some attempt has been made to show some limitations of this system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2671
+a note on a ***combinatorial*** problem of burnett and coffman cacm march 1974 stone h 
+... memories interleaving derangements rencontres ***combinatorial*** analysis 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0530
+ca620731 jb march 17 1978 743 pm 
+... a computer method for radiation treatment ***planning*** cacm july 1962 siler w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1148
+an example in significant digit arithmetic different methods of handling the summing process for the ***geometric*** series are 
+... ca640107 jb march 10 1978 534 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1009
+solution of ***combinatorial*** problems using generating functions on a variable field computer the utility of generating functions in 
+... ca640902 jb march 9 1978 617 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0704
+ca631021 jb march 13 1978 534 pm 
+... ***combinatorial*** of m things taken one at a time two at a time up to n at a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0705
+ca631020 jb march 13 1978 536 pm 
+... ***combinatorial*** of m things taken n at a time algorithm 160 cacm october 1963 blakely r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0887
+***combinatorial*** of m things taken one at a time two at a time up to n at a 
+... ca630404 jb march 14 1978 1228 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0397
+an 80 column ibm card is divided into two fields reference material field columns 1 67 and identification 
+... a card format for reference files in information processing this paper proposes a card format suitable for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2176
+buffer allocation in merge sorting a fixed buffer allocation for merge sorting is presented here which minimizes the 
+... when sorting on movable ***arm*** disks the number of seeks is equal to the number of input output 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0697
+a numerical method for the determination of moving field isodose curves for treatment ***planning*** in radiotherapy cacm october 
+... ca631028 jb march 13 1978 519 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2078
+representations for space ***planning*** problems involving the arrangement of objects in two or three space where the objective 
+... automated design data structures computer graphics computer aided design engineering design architectural design robots 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2389
+preliminary report on a system for general space ***planning*** a computer language and a set of programs within 
+... the language is an extension of algol and includes means to represent spaces and objects to manipulate them 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0767
+ca630831 jb march 13 1978 813 pm 
+... certification of algorithm 161 ***combinatorial*** of m things taken one at a time two at a time up 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0768
+ca630830 jb march 13 1978 814 pm 
+... certification of algorithm 160 ***combinatorial*** of m things taken n at a time m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0888
+ca630403 jb march 14 1978 1229 pm 
+... algorithm 160 ***combinatorial*** of m things taken n at a time cacm april 1963 wolfson m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1113
+this fact plus the advent of high speed microfilm printers such as the general ***dynamics*** electronics s c 
+... computer made perspective movies as a scientific and communication tool it is easy to program the basic transformation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3035
+a strategic ***planning*** methodology for the computing effort in higher education an empirical evaluation the findings of a 
+... two years after the methodology was implemented the effectiveness of the ***planning*** methodology was assessed in terms of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3172
+an algorithm for ***planning*** collision free paths among polyhedral obstacles this paper describes a collision avoidance algorithm for 
+... trajectories are found by searching a network which indicates for each vertex in the transformed obstacles which other 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1186
+recursive solution of a class of ***combinatorial*** problems an example ***combinatorial*** problems requiring the selection of n elements 
+... several specific problems are analyzed the general technique is exposed and an algol program is developed for one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1368
+systematic generation of hamiltonian circuits for a ***combinatorial*** matrix which may specify both directed and nondirected arcs the 
+... specific application is made to the traveling salesman problem 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2087
+permutation ordering number number system p number ***combinatorial*** 4 
+... 39 ca700311 jb february 13 1978 342 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2417
+four ***combinatorial*** algorithms g6 algorithm a466 cacm november 1973 ehrlich g 
+... 39 ca731109 jb january 20 1978 959 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2505
+reflection free permutations rosary permutations and adjacent transposition algorithms cacm may 1973 roy m 
+... 39 ca730515 jb january 23 1978 429 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2804
+elementary divisors of tensor products the elementary divisors of a tensor product of linear transformations have been known 
+... this paper provides a short easily accessible proof of these results and points out an interesting ***combinatorial*** consequence 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1046
+rohl in their most recent paper have presented a very interesting programming system that they have developed for 
+... a compiler building system developed by brooker and morris in a number of ***articles*** published during the past 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2187
+computer science a conceptual framework for curriculum ***planning*** two views of computer science are considered a global view 
+... an approach to curriculum ***planning*** in computer science is presented which is guided by the structure of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1001
+copyright ***aspects*** of computer usage this paper is concerned with the question of what constitutes infringement of a 
+... the question of copyrightability of programs and infringement of copyrights on programs is also discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1621
+the point is made that experts in science technology and programming are guaranteed a correct algol documentation without 
+... a working method is described for publishing algol by computerized translation from hardware into reference representation computerized ***planning*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2547
+the algebraic properties of the data structure make it computationally easy to determine whether a point lies within 
+... representation of contours ad regions for efficient computer search a novel computer searchable representation for the three basic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2667
+execution characteristics of programs in a page on demand system data are presented which show the execution characteristics 
+... program behavior virtual memory paging demand paging software monitor program execution characteristics compiler execution behavior editor execution behavior 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3135
+several applications of this technique in the field of chemistry are 1 in pharmacology searching for a common 
+... detection of three dimensional patterns of atoms in chemical structures an algorithm for detecting occurrences of a three 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2306
+ancient babylonian algorithms the early origins of mathematics are discussed emphasizing those ***aspects*** which seem to be of 
+... a number of old babylonian tablets many of which have never before been translated into english are quoted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2502
+a comment on the practical ***aspects*** of computer science education cacm may 1973 estell r 
+... education computer engineering computer sciences curriculum systems design 1 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2666
+an example is given for which the nondiscrete solution can be interpreted as a set of timetables differing 
+... although the discrete problem may have no feasible solution there may exist a solution to the equivalent continuous 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2772
+on maintenance of the opportunity list for class teacher timetable problems one of the principal components of procedures 
+... opportunity list maintenance methods are based on necessary conditions for the existence of a solution 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2834
+efficient generation of the binary reflected gray code and its applications algorithms are presented to generate the n 
+... applications to the generation of the combinations of n things taken k at a time the compositions of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2836
+weighted derivation trees the nodes of a weighted derivation tree are associated with weighting functions over the vocabulary 
+... an algorithm is presented for constructing the optimal derivation tree having the same structure as a given weighted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1088
+menu ***planning*** by computer a computer code has been developed which plans menus by finding minimum cost combinations 
+... a fast special integer programming algorithm is described which approximates the theoretical solution to the problem 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2485
+it is suggested that the ***planning*** organizing and controlling activities associated with managing the computer resource will change 
+... managing the computer resource a stage hypothesis based on the study of expenditures for data processing a descriptive 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3117
+further when computer applications extend beyond routine uses to nonroutine efforts such as resource allocation or computer aided 
+... this paper reports on case studies and surveys which provinsights on the implementation and impact of police computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1948
+group theory coset enumeration subgroup lattices automorphism groups character tables commutator calculus topology crystallography permutation groups abelian groups 
+... the most important areas of application at present are coset enumeration subgroup lattices automorphism groups of finite groups 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2707
+backtrack depth first search exhaustive search macros ***combinatorial*** computing non attacking queens problem difference preserving codes pentominoes tiling 
+... in particular this technique has allowed the solution of two previously open ***combinatorial*** problems the computation of new 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2712
+horners rule for the evaluation of general closed queueing networks the solution of separable closed queueing networks requires 
+... it is also shown how mean queue size and throughput an be obtained at negligible extra cost once 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3008
+embeddings of graphs are used to model the loss of proximity involved in such storage schemes and an 
+... average loss of proximity is then considered and it is shown that arrays cannot be stored as linear 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3018
+as consequences of this relationship the keyword conflict problem and the edge clique cover problem are shown to 
+... covering edges by cliques with regard to keyword conflicts and intersection graphs kellerman has presented a method for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3040
+an algorithm is developed that can achieve any level of consistency desired in order to preprocess the problem 
+... synthesizing constraint expressions a constraint network representation is presented for a ***combinatorial*** search problem finding values for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3086
+on the complexity of computing the measure of uai bi the decision tree complexity of computing the measure 
+... these problems provide an excellent opportunity for discussing the effects of the computational model on the ease of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1099
+because of intense training in and constant experience with locating objects in the unseen environment and also because 
+... since there are few if any occupations in which the blind can participate without serious disadvantage the opportunities 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2922
+two level control structure for nondeterministic programming the basic ideas of nondeterministic programming are critically reconsidered to single 
+... the proposed attitude aims at retaining the purity of the nondeterministic formulation of search processes on one level 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0320
+logic tables are two dimensional in nature enabling us to fully express and consider both the sequential and 
+... logic structure tables logic tables are an excellent way of developing and expressing the logic required in procedures 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0971
+time sharing in a traffic control program the toronto traffic signal control system consists of a variety of 
+... to satisfy these demands a time sharing program has been written whose purpose is to execute in the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1267
+the paper also presents an orderly arrangement of characteristics and parameters that affect information thruput and some examples 
+... performance of systems used for data transmission transfer rate of information bits an asa tutorial standard information thruput 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1404
+computational ***aspects*** of multiple covariance analysis on a multifactor structure the computational procedure for the analysis of multiple 
+... a special operator calculus developed by hartly for programming analysis of variance for multifactor experiments is extended to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1413
+the object of this paper is to present a vision of potential educational technology and to raise questions 
+... this ignorance stems largely from ignorance about the social response to potential technological change 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1541
+a language for modeling and simulating dynamic systems the general objective of this language is to facilitate both 
+... the nature of the language and the role of the process concept is presented by means of an 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2399
+the program operates from low cost cathode ray tube entry and display stations with keyboard and 13 function 
+... editing text cathode ray tube entry display time sharing 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1433
+a note on linear programming algorithm design a ***combinatorial*** problem as linear programming models grow bigger and bigger 
+... the number of repetitions of a certain transfer of data from tape to core memory is considered 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2189
+every set of edges ek 1 ek k 3 k n 1 is determined recursively by constructing a 
+... generation of rosary permutations expressed in hamiltonian circuits systematic generation of a specific class of permutations fundamental to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2202
+dynamic microprogramming processor organization and programming a dynamically microprogrammed processor is characterized by a small 4k 64 bit 
+... in particular the processor developed in this paper stresses the simultaneous operation within the microinstruction of the adder 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0071
+proposal for a feasible programming system this paper proposes designing a programming facility itself involving a digital computer 
+... the programming system should stress the discovery in source program statements of as many errors as possible before 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2357
+time sharing remote computing on line access on line computing remote file manager real time multiplexer implementation effort 
+... the system which required one man year for initial software implementation although basically simple provides the necessary elements 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2383
+music and computer composition the problem discussed is that of simulating human composition of western popular music by 
+... artificial intelligence heuristic programming models of cognitive processes computer music computer composition music theory 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2406
+a data definition and mapping language a data definition language i sa declarative computer language for specifying data 
+... data definition language data and storage structure data translation data base management systems file translation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2486
+computer photocomposition of technical text in computer assisted typesetting by means of photocomposition special problems arise in highly 
+... words or formulas placed partly at the end of one line and partly at the beginning of the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2518
+programming by questionnaire an effective way to use decision tables programming by questionnaire combines ***aspects*** of decision table 
+... it is proposed that programming by questionnairies a useful compromise between general and special purpose programming for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2705
+the development of natural languages toward flexion less word order based language types speaks for programming language design 
+... by analogy with incidents of the history of artificial auxiliary languages it is suggested that fortran and cobol 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2810
+each of the four types of institutions academic industry government and the professional society that educate employ regulate 
+... professionalism in the computing field the term professional means different things to different people nevertheless there are certain 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2886
+semantic evaluation from left to right this paper describes attribute grammars and their use for the definition of 
+... a condition for an attribute grammar is given which assures that the semantics of any program can be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2936
+an efficient data structure for the simulation event set recently algorithms have been presented for the realization of 
+... first the new algorithms performance is quite insensitive to skewed distributions and second its worst case complexity is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3000
+segment sizes and lifetimes in algol 60 programs the characteristics of the virtual memory requirements of a sample 
+... they provide new empirical evidence of certain ***aspects*** of the construction and behavior of real programs and some 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3148
+high level programming for distributed computing programming for distributed and other loosely coupled systems is a problem of 
+... based on primitive notions of module message and transaction key the methodology is shown to be independent of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2181
+the state of computer oriented curricula in business schools 1970 the acm committee on computer education for management 
+... to provide the committee with material for its study of curricular needs five regional meetings in the united 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2740
+a large semaphore based operating system the paper describes the internal structure of a large operating system as 
+... the operating system is the first large one using the rc 4000 multiprogramming system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2753
+a heuristic problem solving design system for equipment or furniture layouts the designer problem solver dps demonstrates that 
+... dps is a heuristic problem solver with a ***planning*** phase prefixed to it 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1083
+an experiment in a user oriented computer system a version of a software hardware system for the purpose 
+... while the compiler part is efficient the system as a whole has much broader ***aspects*** as a tool 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1456
+an important conclusion is that although lisp and other list processing languages are ideally suited for producing complex 
+... storage and retrieval of ***aspects*** of meaning in directed graph structures an experimental system that uses lisp to 

@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2932
+complexity of computations the framework for research in the theory of complexity of computations is described emphasizing the 
+... complexity of computations ***algebraic*** complexity in tractable problems ***probabilistic*** ***algorithms*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1474
+tests of ***probabilistic*** models for propagation of roundoff errors in any prolonged computation it is generally assumed that 
+... the purpose of this paper is to give precise descriptions of certain ***probabilistic*** models for roundoff error and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3175
+breaking substitution ciphers using a relaxation ***algorithm*** substitution ciphers are codes in which each letter of the alphabet 
+... in this paper the problem of breaking substitution ciphers is represented as a ***probabilistic*** labeling problem 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3071
+an ***algorithm*** using ***symbolic*** techniques for the bel petrov classification of gravitational fields in this note an ***algorithm*** 
+... this ***algorithm*** although more specialized than that of dinverno and russell clark requires neither the use of a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2836
+weighted derivation trees the nodes of a weighted derivation tree are associated with weighting functions over the vocabulary 
+... an ***algorithm*** is presented for constructing the optimal derivation tree having the same structure as a given weighted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2090
+algebra ***symbolic*** algebra ***symbolic*** multiplication ***algebraic*** distribution ***algebraic*** multiplication distribution ***algorithm*** multiplication ***algorithm*** product ***algorithm*** ***polynomial*** distribution ***polynomial*** 
+... ***symbolic*** expansion of ***algebraic*** expressions ***algorithm*** 377 r2 cacm march 1970 levine m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2165
+general relativity and the application of ***algebraic*** manipulative systems the paper describes some applications of ***symbolic*** algebra systems 
+... attention is drawn to the strictly ***algebraic*** difficulties encountered in this work 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1386
+***symbolic*** factoring of polynomials in several variables an ***algorithm*** for finding the ***symbolic*** factors of a multi variate 
+... the ***algorithm*** consists of factoring single variable instances of the given ***polynomial*** by kroneckers method and introducing the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2437
+general performance analysis of key to address transformation methods using an abstract file concept this paper presents a 
+... hashing hashing techniques hashing methods hash coding key transformation key to address transformation direct addressing randomizing random access 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2560
+a queuing model of a multiprogrammed computer with a two level storage system the results are presented of 
+... some numerical results are given which quantify the gains in cpu utilization obtainable by multiprogramming in the presence 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2681
+dynamic memory repacking a ***probabilistic*** model of a multiprogramming system is exercised in order to determine the conditions 
+... dynamic memory repacking memory compactionstorage fragmentation multiprogramming system model ***probabilistic*** model central processor productivity resource utilization system throughput 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2323
+toward a general theory of special functions a list of a number of natural developments for the ***field*** 
+... the claim is made that recent developments in mathematics indicate that it should be possible to algorithmically generate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1935
+randomized binary search technique a mathematical model is developed for the mean and variance of the number of 
+... binary pattern file examination graph theory information retrieval mathematical model partitioning ***probabilistic*** method random sequencing search techniques tree 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2516
+equations are derived to predict the effect of such a system on data access times using sequential files 
+... hierarchical storage in information retrieval a ***probabilistic*** analysis is employed to determine the effect of hierarchical storage organizations 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2580
+artificial intelligence heuristic programming models of cognitive processes computer music computer composition music theory formal languages ***probabilistic*** grammars 
+... fundamental to the method is a set of productions together with sets of applicability rules and weight rules 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2645
+two languages for estimating program efficiency two languages enabling their users to estimate the efficiency of computer programs 
+... programming languages syntax directed translation ***symbolic*** ***manipulation*** program efficiency analysis of ***algorithms*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1397
+proceedings of the acm symposium on ***symbolic*** and ***algebraic*** ***manipulation*** the acm symposium on ***symbolic*** and ***algebraic*** ***manipulation*** 
+... the conference was sponsored by the acm special interest committee on ***symbolic*** and ***algebraic*** ***manipulation*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2164
+the third from mathematics led to richardsons proof of the unsolvability of the problem for a class of 
+... the second from ***algebraic*** ***manipulation*** led to manoves implementation and to horowitz and tobeys reexamination of the hermite 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2414
+arithmetic overa ***finite*** ***field*** a1 ***algorithm*** a469 cacm november 1973 lam c 
+... 19 ca731112 jb january 20 1978 925 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2170
+applications of symbol ***manipulation*** in theoretical physics this paper surveys the applications of ***symbolic*** computation techniques to problems 
+... particular emphasis is placed on applications in quantum electrodynamics where the most activity has occurred 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2931
+logic programming languages automata denotational semantics a calculus models computability partial functions approximation function spaces 1 
+... these however are applications to logic and a big question is whether methods of logic have significance in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2450
+although the words working set are now commonly encountered in the literature ***dealing*** with resource allocation there is 
+... empirical working set behavior the working set model for program behavior has been proposed in recent years as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3203
+grad assistant a program for ***symbolic*** ***algebraic*** ***manipulation*** and differentiation the general recursive algebra and differentiation assistant grad 
+... while some complicated expressions notably ones involving nested radicals and trigonometric functions do not yield completely to the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2166
+automated ***algebraic*** ***manipulation*** in celestial mechanics in this paper we consider some of the applications of automated ***algebraic*** 
+... to illustrate the relative simplicity of the ***algorithm*** required in celestial mechanics a typical integration problem is considered 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2169
+the altran system for rational function ***manipulation*** a survey altran is a complete system for ***symbolic*** computation with 
+... considerable effort has been spent to ensure a minimum amount of machine dependence in the implementation thus permitting 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1893
+root finders roots of ***polynomial*** equations ***polynomial*** zeros root squaring operations graeffe method resultant procedure subresultant procedure ***testing*** 
+... roots of polynomials by a root squaring and resultant routine ***algorithm*** 340 c2 cacm may 1969 noltemeier a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0719
+since these stacking operations can be made the basis of compiler decoding ***algorithms*** the proper use of machines 
+... variable width stacks character addressable variable ***field*** computers permit ready establishment and ***manipulation*** of variable width stacks 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1392
+although many details from the formac implementation are presented an attempt is made to stress principles and ideas 
+... concrete ***examples*** are provided by the formac expand and differentiation ***algorithms*** a basic formac utility routine and an 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2402
+pictorial pattern recognition phase problem x ray crystallography interactive graphics 3 
+... pictorial pattern recognition and the phase problem of x ray crystallography the availability of interactive three dimensional computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1543
+computer formulation of the equations of motion using tensor notation a means is described for extending the area 
+... since this operation involves a formulation in terms of first and second order differential coefficients it provides a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1664
+an ***algorithm*** for deriving the equations of mathematical physics by ***symbolic*** ***manipulation*** a method is described whereby a 
+... the equations obtained will be relative to the curvilinear coordinate system specified by the transformation equations used as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2490
+efficient ***algorithms*** for graph ***manipulation*** h ***algorithm*** a447 efficient ***algorithms*** are presented for partitioning a graph into connected 
+... if v is the number of vertices and e is the number of edges each ***algorithm*** requires time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0717
+***algorithm*** are described which generate without repetitions the n tuples corresponding to 1 all partitions of the given 
+... partitioning ***algorithms*** for ***finite*** sets the partitions of a set with n elements are represented by certain n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2167
+***algebraic*** ***manipulation*** ***algebraic*** simplification canonical simplification 3 
+... finally we discuss some of the theoretical results related to ***algebraic*** simplification 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1948
+group theory coset enumeration subgroup lattices automorphism groups character tables commutator calculus topology crystallography permutation groups abelian groups 
+... the most important areas of application at present are coset enumeration subgroup lattices automorphism groups of ***finite*** groups 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1667
+root finders roots of ***polynomial*** equations ***polynomial*** zeros root squaring operations graeffe method resultant procedure subresultant procedure ***testing*** 
+... roots of polynomials by a root squaring and resultant routine ***algorithm*** 340 c2 cacm november 1968 noltemeier a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1524
+a stopping criterion for ***polynomial*** root finding when searching for the root of a ***polynomial*** it is generally 
+... in this paper an ***algorithm*** is presented which allows one to terminate the iteration process on the basis 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2266
+a highly parallel ***algorithm*** for approximating all zeros of a ***polynomial*** with only real zeros an ***algorithm*** is 
+... the ***algorithm*** which is conceptually suitable for parallel computation determines its own starting values so that convergence to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0393
+two subroutines for symbol ***manipulation*** with an ***algebraic*** compiler cacm february 1961 carr iii j 
+... ca610205 jb march 17 1978 1259 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2567
+an exponential method for the solution of systems of ordinary differential equations an explicit coupled single step method 
+... when compared to a standard fourth order runge kutta implementation computation time required by this method has ranged 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2253
+address calculations ***algorithm*** transformation compilation data structures indexing by name indexing by position index domain index map index 
+... index ranges for matrix calculi the paper describes a scheme for ***symbolic*** ***manipulation*** of index expressions which arise 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2850
+***symbolic*** execution program ***testing*** program debugging program proving program verification ***symbolic*** interpretation 4 
+... ***symbolic*** execution and program ***testing*** this paper describes the ***symbolic*** execution of programs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2767
+simulation time flow mechanisms event list ***algorithm*** simulation time flow mechanisms event list ***algorithm*** simulation executive event scheduling 
+... a comparison of simulation event list ***algorithms*** four ***algorithms*** are considered which can be used to schedule events 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2314
+list processing programming languages design of programming languages interactive systems control structures data structures programming primitives semantics advanced 
+... requirements for advanced programming systems for list processing list processing systems should be designed to facilitate production of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2997
+convex hulls of ***finite*** sets of poin ts in two and three dimensions the convex hulls of sets 
+... the presented ***algorithms*** use the divide and conquer technique and recursively apply a merge procedure for two nonin 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1806
+to avoid this difficulty and to improve the rate of convergence toward a root some modifications of the 
+... on the downhill method the downhill method is a numerical method for solving complex equations fz 0 on 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1393
+pm a system for ***polynomial*** ***manipulation*** pm is an ibm 7094 program system for formal ***manipulation*** of polynomials 
+... some of the formal operations which can be performed by the system are sums differences products quotients derivatives 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1144
+digital computer determination of alpha source activity a technique is described for determining the activity and homogeneity of 
+... it is believed that the technique using a digital computer has many uses and applications in the ***field*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1216
+***symbolic*** derivatives without list processing subroutines or recursion a routine has been developed which computes and prints out 
+... the chain rule is applied and the result is edited to produce results as elegant and efficient as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0284
+this ***algorithm*** enablesus to derive over all system transfer functions from algebraically described block diagrams of any linear 
+... the machine representation of the derived expression is by virtue of the ***algorithm*** in a form which simplifies 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2987
+boundary line representation cartography computer graphics computer searchable structures contour representation geographic information processing graphic data retrieval in 
+... representation of many sided polygons and polygonal lines for rapid processing a representation for polygons and polygonal lines 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2498
+the problem of choosing the page sizes to minimize the expected value of total wasted space in internal 
+... minimizing wasted space in partitioned segmentation a paged virtual memory system using a ***finite*** number of page sizes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2719
+this paper discusses the mechanization of such analysis and describes a system metric which is able to analyze 
+... analysis of programs performance analysis execution time execution behavior difference equations generating functions list processing lisp ***algebraic*** ***manipulation*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2094
+on an ***algorithm*** for nonlinear minimax approximation certain nonlinear minimax approximation problems are characterize d by properties which 
+... ***examples*** are given to illustrate that this ***algorithm*** can give satisfactory results and in particular can successfully solve 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2208
+by means of ***examples*** storage utilization is then studied as a function of the hashing ***algorithm*** the number 
+... given the n entries have been filed in the entire hierarchy an expression is derived for the expected 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1049
+numerical solution of nonlinear two point boundary problems by ***finite*** difference methods solution of nonlinear two point boundary 
+... this paper gives ***examples*** and discusses the ***finite*** difference method for non linear two point boundary value problems 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1941
+f distribution ***algorithm*** 322 s14 cacm january 1969 ***field*** j 
+... 5 ca690108 jb february 20 1978 1148 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0351
+inverse of a ***finite*** segment of the hilbert matrix ***algorithm*** 50 cacm april 1961 herndon j 
+... ca610417 jb march 16 1978 1150 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2385
+zeros of a complex ***polynomial*** c2 ***algorithm*** a419 cacm february 1972 jenkins m 
+... 15 ca720206 jb january 31 1978 414 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1145
+git a heuristic program for ***testing*** pairs of directed line graphs for isomorphism given a pair of directed 
+... since a straightforward enumerative ***algorithm*** might require 40 years of running time on a very high speed computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2453
+information theory applied to the conversion of decision tables to computer programs using ideas from information theory this 
+... the method is applicable to any limited entry decision table and does not require that actions have single 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3018
+as consequences of this relationship the keyword conflict problem and the edge clique cover problem are shown to 
+... covering edges by cliques with regard to keyword conflicts and intersection graphs kellerman has presented a method for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1214
+some experiments in ***algebraic*** ***manipulation*** by computer a set of subroutines to allow ***algebraic*** manipulations on the ibm 
+... ca650810 jb march 6 1978 810 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0265
+low level language subroutines for use within fortran this paper describes some subroutines coded in ***symbolic*** languages and 
+... multi precision arithmetic symbol ***manipulation*** bit ***manipulation*** and expanded character set input output and visual display 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1388
+automast automatic mathematical analysis and ***symbolic*** translation a procedure for numerically solving systems of ordinary differential equation is 
+... the procedure is based on a ***finite*** taylor series expansion that includes an estimate of the error in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1696
+an ***algorithm*** for identifying the ergodic subchains and transient states of a stochastic matrix an ***algorithm*** for identifying 
+... applications in markov renewal programming and in the construction of variable length codes are reviewed and an updating 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0111
+by applying the recommended scaling and inversion rules the basic bairstow and newton raphson iterative techniques can be 
+... on programming the numerical solution of ***polynomial*** equations numerical techniques are presented for computing the roots of ***polynomial*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2344
+on the optimization of performance of time sharing systems by simulation a simulation model of a time sharing 
+... time sharing simulation studies optimization measure of performance scheduling ***algorithms*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3131
+focus has the wide ranging character of floating point numbers with a uniformity of state distributions that give 
+... focus computations are typically five times faster than single precision fixed point or integer arithmetic for a mixture 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3094
+analyses of deterministic parsing ***algorithms*** this paper describes an approach for determining the minimum maximum and average times 
+... these quantities are presented in the form of ***symbolic*** formulas called time formulas 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1612
+top to bottom parsing rehabilitated this note is concerned with the efficiency of the top to bottom parsing 
+... it is shown for instance that retracing of unprofitable paths can often be eliminated by a suitable rearrangement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2240
+pseudo random numbers g5 ***algorithm*** c266 cacm december 1972 sullins w 
+... pseudo random numbers ***testing*** random number generators 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2646
+a model for masking rotational latency by dynamic disk allocation this paper presents the background and ***algorithms*** for 
+... it discusses the anticipatory input and output of blocks of data to buffer and primary memories for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2410
+a recurrence scheme for converting from one orthogonal expansion into another a generalization of a scheme of hamming 
+... orthogonal expansions series interconversion recurrence schemes hamming recurrence clenshaw recurrence three term recurrence five term recurrence chebyshev series 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3006
+one type of anomaly for example concerns the fact that with certain reference strings and paging ***algorithms*** an 
+... anomalies with variable partition paging ***algorithms*** five types of anomalous behavior which may occur in paged virtual memory 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3031
+first it is shown how the use of ***algebraic*** axiomatizations can simplify the process of proving the correctness 
+... abstract data types and software validation a data abstraction can be naturally specified using ***algebraic*** axioms 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2828
+hierarchical geometric models for visible surface ***algorithms*** the geometric structure inherent in the definition of the shapes of 
+... fourth frame to frame coherence and clipping define a graphical working set or fraction of the total structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1946
+computing ***polynomial*** resultants bezouts determinant vs 
+... collins reduced p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1020
+ca640810 jb march 9 1978 656 pm 
+... free ***field*** read ***algorithm*** 239 i5 cacm august 1964 mckeeman w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1743
+reliable full duplex file transmission over half duplex telephone lines a ***field*** proven scheme for achieving reliable duplex 
+... telephone communication half duplex transmission error correction full duplex telephone errors 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0646
+inverse of a ***finite*** segment of the hilbert matrix ***algorithm*** 50 cacm january 1962 randell b 
+... ca620113 jb march 20 1978 431 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0937
+inverse of a ***finite*** segment of the hilbert matrix ***algorithm*** 50 cacm january 1963 naur p 
+... ca630111 jb march 14 1978 236 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1681
+natural language communication on line searching remote console communication information retrieval man machine communication remote terminal communication translator 
+... requests are formulated in a standardized syntactical form ***examples*** of which are presented and this form is then 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0112
+ca601204 jb march 20 1978 644 pm 
+... numerical solution of the ***polynomial*** equation ***algorithm*** 30 cacm december 1960 ellenberger k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0125
+ca601110 jb march 20 1978 706 pm 
+... ***polynomial*** transformer ***algorithm*** 29 cacm november 1960 mackinney j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0179
+ca600611 jb march 20 1978 935 pm 
+... evaluation of the legendre ***polynomial*** pnx by recursion ***algorithm*** cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0180
+ca600610 jb march 20 1978 936 pm 
+... evaluation of the laguerre ***polynomial*** lnx by recursion ***algorithm*** cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0181
+ca600609 jb march 20 1978 937 pm 
+... evaluation of the hermite ***polynomial*** hnx by recursion ***algorithm*** cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0182
+ca600608 jb march 20 1978 938 pm 
+... evaluation of the chebyshev ***polynomial*** tnx by recursion ***algorithm*** ****** cacm june 1960 galler g 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0325
+ca610509 jb march 16 1978 1058 pm 
+... numerical solution of the ***polynomial*** equation ***algorithm*** 30 cacm may 1961 alexander w 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0341
+ca610427 jb march 16 1978 1138 pm 
+... chebyschev ***polynomial*** ***algorithm*** 10 cacm april 1961 ****** herndon j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0647
+ca620112 jb march 20 1978 432 pm 
+... numerical solution of the ***polynomial*** equation ***algorithm*** 30 cacm january 1962 cohen k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0764
+ca630834 jb march 13 1978 809 pm 
+... reduction of a matrix containing ***polynomial*** elements ***algorithm*** 170 cacm august 1963 hennion p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0842
+ca630607 jb march 14 1978 1021 am 
+... a posteriori bounds on a zero of a ***polynomial*** ***algorithm*** 174 cacm june 1963 gibb a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1080
+ca640509 jb march 9 1978 1157 pm 
+... chebyshev ***polynomial*** coefficients ***algorithm*** 227 cacm may 1964 cyvin s 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1599
+ca670506d jb march 23 1978 403 pm 
+... numerical solution of the ***polynomial*** equation ***algorithm*** 300 c2 cacm may 1967 kohfeld j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2440
+localization of the roots of a ***polynomial*** ***algorithm*** r429 cacm september 1973 driessen h 
+... ca730915 jb january 23 1978 834 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2458
+ca730816 jb january 23 1978 1026 am 
+... localization of the roots of a ***polynomial*** ***algorithm*** r429 cacm august 1973 williams e 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2676
+ca740307 jb january 18 1978 1111 am 
+... zeros of a complex ***polynomial*** ***algorithm*** r419 cacm march 1973 withers d 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1387
+solution of systems of ***polynomial*** equations by elimination the elimination procedure as described by williams has been coded 
+... the method by itself appears in appropriate however in the solution of large systems of equation due to 

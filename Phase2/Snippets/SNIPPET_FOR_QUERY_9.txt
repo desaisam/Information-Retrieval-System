@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2849
+computer ***networks*** packet switching multiprocessing ***distributed*** control ***distributed*** computing broadcast communication statistical arbitration 3 
+... ethernet ***distributed*** packet switching for ***local*** computer ***networks*** ethernet is a branching broadcast communication system for carrying digital 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1745
+a position paper on computing and communications the effective operation of free enterprise in creating the envisioned information 
+... information ***networks*** information ***systems*** computing and free enterprise computing economics computer installation management government regulation communications services ***distributed*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2578
+multiprocessing ***networks*** self stabilization synchronization mutual exclusion robustness sharing error recovery ***distributed*** control harmonious cooperation self repair 4 
+... self stabilizing ***systems*** in spite of ***distributed*** control cacm november 1974 dijkstra e 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2949
+***distributed*** computer ***network*** correctness proofs computer ***networks*** ***distributed*** control ***network*** topology routing problem in ***networks*** ***distributed*** ***operating*** system 
+... a correctness proof of a topology information main tenance protocol for a ***distributed*** computer ***network*** in order for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3068
+a model for verification of data ***security*** in ***operating*** ***systems*** program verification applied to kernel architectures forms a 
+... this model is suitable as a basis for verifying many of those properties of an ***operating*** system which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3137
+***distributed*** processing system design cost minimization ***distributed*** database interactive computing economic modeling transaction processing 4 
+... a methodology for the design of ***distributed*** information ***systems*** a macro model of a ***distributed*** information system in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2621
+we discuss the selection of a suitable one way cipher and suggest that for this purpose polynomials over 
+... a high ***security*** log in procedure the protection of time sharing ***systems*** from unauthorized users is often achieved 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3174
+password ***security*** a case history this paper describes the history of the design of the password ***security*** scheme 
+... the present design was the result of countering observed attempts to penetrate the system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3082
+time clocks and the ordering of events in a ***distributed*** system the concept of one event happening before 
+... the algorithm is then specialized for synchronizing physical clocks and a bound is derived on how far out 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2046
+a relational model of data for large shared data banks future users of large data banks must be 
+... data bank data base data structure data organization hierarchies of data ***networks*** of data relations derivability redundancy consistency 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3076
+electronic funds transfer ***systems*** social impacts of computing privacy social choice computer ***networks*** ***network*** reliability ***security*** social values 
+... value conflicts and social choice in electronic funds transfer system developments during the last few years computer based 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2372
+on the implementation of ***security*** measures in information ***systems*** the ***security*** of an information system may be represented 
+... the model is used to explain ***security*** features of several existing ***systems*** and serves as a framework for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2969
+optimal program and data locations in computer ***networks*** an optimization procedure for the allocation of program and data 
+... this algorithm takes into account the dependencies between files and programs such as occur in real heterogeneous computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3141
+an improved algorithm for decentralized extrema finding in circular configurations of processes this note presents an improvement to 
+... this decentralized algorithm uses a technique of selective message extinction in order to achieve an average number of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2371
+a system for interprocess communication in a resource sharing computer ***network*** a system of communication between processes in 
+... the hypothetical application of the system to an existing ***network*** is discussed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3158
+secure personal computing in an insecure ***network*** a method for implementing secure personal computing in a ***network*** with 
+... each user is responsible for his own ***security*** and need not rely on the ***security*** of the central 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3128
+a new synchronization mechanism is proposed using abstract objects called eventcounts and sequencers that allows processes to control 
+... the relationship of the mechanism to protection mechanisms in the system is explained in particular eventcounts are shown 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3127
+thoth a portable real time ***operating*** system thoth isa real time ***operating*** system which is designed to be 
+... thoth encourages structuring programs as ***networks*** of communicating processes by providing efficient interprocess communication primitives 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2900
+the problem of finding the optimal set of ***network*** sites at which to locate copies of a file 
+... in this paper we present three theorems which can be applied a priori to indicate that certain sites 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1695
+plexus an on line system for modeling neural ***networks*** a description is presented of plexus a system which 
+... biological modeling data analysis discrete system simulation library ***systems*** modeling ***network*** simulation neural ***networks*** neurophysiological models on line 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1928
+the main results obtained are a clear and useful separation of structural and behavioral model description a reduction 
+... essential objectives sought are improved ease and economy in model generation economy in execution time and space and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2951
+the research clearly reveals that sufficient system data are currently obtainable at least for the five diverse arpa 
+... analytical simulation and statistical performance evaluation tools are employed to investigate the feasibility of a dynamic response time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2424
+dynamic verification of ***operating*** system decisions dynamic verification of a decision implies that every time the decision is 
+... the technique of dynamic verification allows the construction of an ***operating*** system which does not make certain decisions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1461
+discussion summary on ***operating*** ***systems*** cacm march 1966 ca660311 jb march 3 1978 126 pm 
+...  
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1750
+***considerations*** in the design of a multiple computer system with extended core storage the use of large quantities 
+... the general design of the hardware arrangement and the software components and functions of such a system are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1846
+on simulating ***networks*** of parallel processes in which simultaneous events may occur some of the problems of simulating 
+... simulation parallel processes simultaneous events picture processing computer system simulation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2776
+computer ***networks*** in higher education socio economic political factors this study presents the results of a nationwide survey 
+... the five major ***networks*** included the arpa net the california state college ***network*** the university of iowaiowa state 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2622
+a user authentication scheme not requiring secrecy in the computer in many computer ***operating*** ***systems*** a user authenticates 
+... this function is applied to the users password and the result compared to a table entry a match 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1747
+three criteria for designing computing ***systems*** to facilitate debugging the designer of a computing system should adopt explicit 
+... computer design computer design criteria computer ***systems*** computer ***systems*** design input equipment input equipment design ***operating*** ***systems*** ***operating*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2632
+hydra the kernel of a multiprocessor ***operating*** system this paper describes the design philosophy of hydra the kernel 
+... ***operating*** system kernel nucleus protection ***security*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2358
+***operating*** system multics virtual memory segmentation information sharing paging memory management memory hierarchy 4 
+... the multics virtual memory concepts and design as experience with use of on line ***operating*** ***systems*** has grown 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3148
+high level programming for ***distributed*** computing programming for ***distributed*** and other loosely coupled ***systems*** is a problem of 
+... based on primitive notions of module message and transaction key the methodology is shown to be independent of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1032
+theoretical ***considerations*** in information retrieval ***systems*** information storage and retrieval ***systems*** are composed of three major components a 
+... for searching strategy a linear model for an evaluation function of relevancy is developed which rewards the system 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0046
+techniques are described which place the burden of the programmed logic on system programs supervisory program and compiler 
+... these requirements are met in the stretch system by a carefully balanced combination of built in and programmed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3011
+management utilization of computers in american ***local*** governments traditional concepts of management information ***systems*** mis bear little relation 
+... computer utilization management information system american ***local*** government city government computers county government computers computer impacts management computing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1808
+advanced cryptographic techniques for computers cryptographic techniques which can be used to maintain the confidentiality of information processed 
+... special emphasis is paid to the unique characteristics of computer files that make many cryptographic methods of little 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3177
+this technique enables the construction of robust key management schemes for cryptographic ***systems*** that can function securely and 
+... how to share a secret in this paper we show how to divide data d into n pieces 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0828
+incompressible flow ***network*** calculations a general method for the calculation of flows and pressures in fluid flow ***networks*** 
+... ca630621 jb march 14 1978 1003 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2614
+arrow to precedence ***network*** transformation h algorithm a481 cacm august 1974 crandall k 
+... critical path ***networks*** precedence ***networks*** 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3023
+it covers virtual storage program control data manipulation instructions timing facilities multiprocessing debugging and monitoring error handling and 
+... it comments on some experiences with the original objectives for system360 and on the efforts to achieve them 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2137
+a new garbage collection algorithm has been introduced to make lists as compact as possible partial garbage collection 
+... new lisp techniques for a paging environment the system described herein employs the block concept and that of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3038
+example protocols are presented for the establishment of authenticated connections for the management of authenticated mail and for 
+... using encryption for authentication in large ***networks*** of computers use of encryption to achieve authenticated communication in computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1247
+the available services include dynamic allocation of storage for contiguous blocks of arbitrary size input and output for 
+... an ***operating*** environment for dynamic recursive computer programming ***systems*** presented in this paper is a brief nontechnical introduction 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2867
+modularization and hierarchy in a family of ***operating*** ***systems*** this paper describes the design philosophy used in the 
+... family members can share much software as a result of the implementation of run time modules at the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2406
+a data definition and mapping language a data definition language i sa declarative computer language for specifying data 
+... data definition language data and storage structure data translation data base management ***systems*** file translation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2596
+a weighted buddy method for dynamic storage allocation an extension of the buddy method called the weighted buddy 
+... these results indicate that for a uniform request distribution the buddy system has less total memory fragmentation than 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3181
+as a result any effort to stimulate meaningful public participation in decisions on the introduction of eft ***systems*** 
+... this article presents several possible alternatives for improving the current system but ongoing research is also needed to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2876
+intentional resolution of privacy protection in database ***systems*** traditionally privacy protection in database ***systems*** is understood to be 
+... this paper is concerned with another independent dimension of privacy protection the control over what a user is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2454
+computational algorithms for closed queueing ***networks*** with exponential servers methods are presented for computing the equilibrium distribution of 
+... the computational algorithms are based on two dimensional iterative techniques which are highly efficient and quite simple to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1290
+in conjunction with the earlier tutorial paper this paper is expected to lead to a proposal for stand 
+... moreover it goes on to cover the additional control problems of handling material such as off line encrypted 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1664
+an algorithm for deriving the equations of mathematical physics by symbolic manipulation a method is described whereby a 
+... the equations obtained will be relative to the curvilinear coordinate system specified by the transformation equations used as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1978
+the use of interactive graphics to solve numerical problems with the advent of on line time sharing computer 
+... rather than simply use the new power to achieve fast turnaround we can develop interactive routines which are 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1261
+the digital ***network*** is modeled as a set of time dependent or time independent boolean transformations each transformation 
+... modeling and simulation of digital ***networks*** the simulation of digital ***networks*** on a digital computer provides the engineer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1685
+gan a system for generating and analyzing activity ***networks*** gan a system for generating activity ***networks*** is designed 
+... activity ***network*** management project standard ***network*** ***network*** generator ***network*** assembler activity ***network*** analysis ***network*** calculation ***network*** program 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1723
+an algorithm is given for constructing project ***networks*** directly from the project precedence relations 
+... the algorithm creates dummy activities and topologically orders the arcs and nodes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2741
+this approach is taken in order to identify in multiprogramming paging ***systems*** i unstable regimes of operations and 
+... decomposability instabilities and saturation in multiprogramming ***systems*** a step by step approach to model the dynamic behavior and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3153
+the control of response times in multi class ***systems*** by memory allocations the possibility of giving different quality 
+... initially a closed system consisting of a process or and paging and file devices with fixed numbers of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1652
+a code for non numeric information processing applications in online ***systems*** a code has been specifically designed to 
+... this code called ipc information processing code is an 8 bit code set constructed so that 7 6 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2947
+sitar an interactive text processing system for small computers sitar a low cost in teractive text handling and 
+... extensive experience with sitar shows that the combined powers of simple commands string orientation circular file structure a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2515
+***network*** project event node ***network*** activity node ***network*** minimal event node ***network*** dummy activity project precedence relations 3 
+... minimal event node ***network*** of project precedence relations a procedure for constructing a minimal event node ***network*** to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3111
+secure communications over insecure channels according to traditional conceptions of cryptographic ***security*** it is necessary to transmit a 
+... ***security*** cryptography cryptology communications ***security*** wiretap computer ***network*** ***security*** passive eavesdropping key distribution public key cryptosystem 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2188
+each subsystem is chosen from large numbers of alternatives the selection is based on ***considerations*** such as system 
+... an approach to the optimum design of computer graphics ***systems*** display system designers are faced with the difficult 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0322
+operational compatibility of ***systems*** conventions the general standards committee of the share organization has devoted considerable effort to 
+... each of these programming ***systems*** has been coded to utilize a fixed set of hardware components without recognizing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2840
+protection in ***operating*** ***systems*** a model of protection mechanisms in computing ***systems*** is presented and its appropriateness is 
+... protection protection system ***operating*** system decidability turing machine 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2948
+the system consists of a communications computer directly connected to the time shared system a number of small 
+... the overall system design is presented along with the algorithms used to solve three specific problems ***local*** echoing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2626
+multics protection ***security*** privacy access control authentication computer utilities time sharing ***systems*** proprietary programs protected subsystems virtual memory 
+... protection and the control of information sharing in multics the design of mechanisms to control the sharing of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2870
+the lattice properties permit concise formulations of the ***security*** requirements of different existing ***systems*** and facilitate the construction 
+... the model provides a unifying view of all ***systems*** that restrict information flow enables a classification of them 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3021
+a method for obtaining digital signatures and public key cryptosystems an encryption method is presented with the novel 
+... digital signatures public key cryptosystems privacy authentication ***security*** factorization prime number electronic mail message passing electronic funds transfer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3182
+vulnerabilities of efts to intentionally caused losses the hypothesis that consumers are provided greater accuracy and freedom from 
+... factors such as backup requirements regulatory and legislative actions and economics give rise to the urgency for immediate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2988
+memory management and response time this paper presents a computationally tractable methodology for including accurately the effects of 
+... relations between workload variables such as memory requirement distribution and job swap time and performance measures such as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3059
+models for parallel processing within programs application to cpuio and ioio overlap approximate queueing models for internal parallel 
+... the percentage performance improvement from cpuio overlap is found to be greatest for ***systems*** which are in approximate 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3070
+hybrid simulation models of computer ***systems*** this paper describes the structure and operation of a hybrid simulation model 
+... in an example based on a simple hypothetical computer system discrete event simulation is used to model the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1226
+this paper provides the ***systems*** designer with an information source which describes ten techniques that may be employed 
+... the characteristics of the organizations described are application independent thus providing the designer with a reference which allows 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1923
+it is shown that this technique can provide potentially inexpensive methods for programs to communicate with deeply embedded 
+... ***operating*** ***systems*** interfaces input output high level languages command language 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2069
+page on demand demand paging time sharing multiprogramming markovian computer models scheduling strategies ***operating*** ***systems*** memory management 2 
+... comments on a paper by wallace and mason cacm april 1970 heess jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3043
+concurrent programming ***distributed*** processes microprocessor ***networks*** nondeterminism guarded regions programming languages process communication and scheduling sorting arrays coroutines 
+... the paper gives several examples of ***distributed*** processes and shows that they include procedures coroutines classes monitors processes 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0441
+topological sorting of large ***networks*** topological sorting is a procedure required for many problems involving analysis of ***networks*** 
+... it permits treatment of larger ***networks*** than can be handled on present procedures and achieves this with greater 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2712
+horners rule for the evaluation of general closed queueing ***networks*** the solution of separable closed queueing ***networks*** requires 
+... it is also shown how mean queue size and throughput an be obtained at negligible extra cost once 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3133
+on the other hand by regarding semantic ***networks*** as an abstract data structure for the representation of clauses 
+... logic and semantic ***networks*** an extended form of semantic ***network*** is defined which can be regarded as a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1946
+computing polynomial resultants bezouts determinant vs 
+... collins reduced p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1324
+the most difficult and important research questions for the advancement of general purpose language processors are seen to 
+... answering english questions by computer a survey fifteen experimental english language question answering ***systems*** which are programmed and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2111
+spelling correction in ***systems*** programs several specialized techniques are shown for efficiently incorporating spelling correction algorithms in to 
+... spelling correction error correction debugging compilers ***operating*** ***systems*** diagnostics error detection misspelling lexical analysis ***systems*** programming 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2138
+prime design goals of the design are the ability to produce highly efficient object code to allow access 
+... a major feature which contributes to the realization of these goals is a mechanism permitting the definition of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2581
+a locally organized parser for spoken input this paper describes lpars a locally organized parsing system designed for 
+... the system is locally organized in the sense that it builds ***local*** parse structures from reliable word candidates 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2470
+it is argued that the system is more suitable than set theory or its derivatives for the concise 
+... fen an axiomatic basis for program semantics a formal system is presented which abstracts the notions of data 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1611
+the critical path algorithm incorporated in the c e i r proprietary scheduling system ramps resource allocation and 
+... scheduling project ***networks*** some of the basic concepts and terminology of project networking are developed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1680
+a general purpose display processing and tutorial system adept a display expedited processing and tutorial system is described 
+... this system was designed to improve man computer communications by employing a display unit to interleave tutoring with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1752
+resource management for a medium scale time sharing ***operating*** system task scheduling and resource balancing for a medium 
+... a synopsis is given of the task scheduling and paging algorithms that were implemented and the results of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2378
+the supervisor handles io with external devices the file and directory system schedules active processes and manages memory 
+... a process is able to specify a request for a complicated action on the part of the supervisor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2379
+***operating*** ***systems*** system design levels of abstraction machine architecture microprogramming segments semaphores multiprogramming virtual machines processes process communication 
+... the design of the venus ***operating*** system the venus ***operating*** system is an experimental multiprogramming system which supports 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2597
+illustrative examples include a single resource scheduler a bounded buffer an alarm clock a buffer pool a disk 
+... monitors an ***operating*** system structuring concept this paper develops brinch hansens concept of a monitor as a method 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1462
+proper division of responsibility between levels leads to greater efficiency and less logical complexity while actually enhancing capability 
+... multilevel ***operating*** ***systems*** the basic software for all newer computers is built on the well established need for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2890
+these models show that adaptive routing does not satisfy the necessary conditions for an optimal routing adaptive routing 
+... on quadratic adaptive routing algorithms two analytic models of a store and forward communications ***network*** are constructed one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0696
+an automatic data acquisition and inquiry system using disk files lockheed missiles and space company has installed a 
+... a large capacity rca 366 data disc file is used to store information required to provide up to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1236
+the smart automatic document retrieval system an illustration a fully automatic document retrieval system ***operating*** on the ibm 
+... this feature is used in the retrieval process by leaving the exact sequence of operations initially unspecified and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1951
+estimates of distributions of random variables for certain computer communications traffic models a study of multiaccess computer communications 
+... data were examined from four operational multiaccess ***systems*** and the model is shown to be robust that is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2036
+a set of functions to accomplish the above which could be embedded into any string processing language is 
+... an interactive command generating facility a facility to permit conversationally controlled tasks to be executed in a noninteractive 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2151
+user program measurement in a time shared environment a general discussion of the measurement of software ***systems*** is 
+... ***operating*** ***systems*** multiprogramming ***systems*** time sharing ***systems*** software measurement user program measurement measurement technology tx 2 computer virtual 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2184
+on the meaning of names in programming ***systems*** it is assumed that there is a similarity of function 
+... whereas a function can be regarded as the abstraction based upon the first two terms of the expression 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2522
+recent research in time sharing paging ***systems*** has developed the working set model for program behavior and are 
+... this report discusses the design and implementation of a dispatcher based on the working set principle presents data 

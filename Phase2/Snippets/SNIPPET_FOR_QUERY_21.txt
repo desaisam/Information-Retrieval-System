@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2337
+one new algorithm for finding the minimum and maximum elements of a set with fewest comparisons is proved 
+... a sorting problem and its ***complexity*** a technique for proving min max norms of sorting ***algorithms*** is given 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3018
+as consequences of this relationship the keyword conflict problem and the edge clique cover problem are shown to 
+... covering edges by cliques with regard to keyword conflicts and intersection graphs kellerman has presented a method for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2110
+it has a time bound proportional to n3 where n is the length of the string being parsed 
+... an efficient context free parsing algorithm a parsing algorithm which seems to be the most efficient general context 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3086
+on the ***complexity*** of computing the measure of uai bi the decision tree ***complexity*** of computing the measure 
+... these problems provide an excellent opportunity for discussing the effects of the ***computational*** model on the ease of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2702
+***computational*** ***complexity*** context free grammars parsing lrk grammars np complete problems 4 
+... the time ***complexity*** of this problem is analyzed both when k is considered to be a fixed integer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2837
+a new upper bound for vin improves the bound given by the standard hadian sobel algorithm by a 
+... new upper bounds for selection the worst case minimum number of comparisons ***complexity*** vin of the i th 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2997
+convex hulls of finite sets of poin ts in two and three dimensions the convex hulls of sets 
+... the presented ***algorithms*** use the divide and conquer technique and recursively apply a merge procedure for two nonin 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3110
+an efficient solution is presented for the case in which the operand of every such span dependent instruction 
+... assembling code for machines with span dependent instructions many modern computers contain instructions whose lengths depend on the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2325
+these are foundations finite precision number systems ***computational*** ***complexity*** synthesis and analysis of ***algorithms*** analysis of error programs 
+... numerical mathematics and computer science numerical mathematics is viewed as the analysis of continuous ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2986
+operations on sparse relations various computations on relations boolean matrices or directed graphs such as the computation of 
+... for example how to compute operator precedence or wirth weber precedence relations in on2 steps is shown as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2771
+for practical designers the technique has the advantage that operations are concise readily composed and are given in 
+... the synthesis of solids bounded by many faces a technique is presented which allows a class of solid 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2932
+***complexity*** of computations the framework for research in the theory of ***complexity*** of computations is described emphasizing the 
+... ***complexity*** of computations algebraic ***complexity*** in tractable problems probabilistic ***algorithms*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2743
+merge sorting ***computational*** ***complexity*** data modeling computing models binary comparisons 5 
+... 31 ca750610 jb january 9 1978 1245 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2216
+the empirical tests as well as the analytical results are in agreement with previously published results for the 
+... the solution to the integral equation indicates that using more advanced ***algorithms*** in the family makes only minor 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2931
+logic programming languages automata denotational semantics a calculus models computability partial functions approximation function spaces 1 
+... these however are applications to logic and a big question is whether methods of logic have significance in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3165
+approximation of polygonal maps by cellular maps the approximation of polygonal thematic maps by cellular maps an important 
+... the data organization used for representing the polygonal maps is a widely used segment based data structure where 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2703
+the intrinsically exponential ***complexity*** of the circularity problem for attribute grammars attribute grammars are an extension of context 
+... specifically it is shown that any deterministic algorithm which solves the problem must for infinitely many cases use 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2706
+a note on the set basis problem related to the compaction of character sets this note discusses the 
+... compaction of character sets set basis set covering ***computational*** ***complexity*** polynomial completeness clique cover  4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2784
+expected time bounds for selection a new selection algorithm is presented which is shown to be very efficient 
+... the number of comparisons used to select the ith smallest of n numbers is nminin ion 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3162
+on improving the worst case running time of the boyer moore string matching algorithm it is shown how 
+... ***computational*** ***complexity*** linear time worst case string matching periodicity 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2189
+every set of edges ek 1 ek k 3 k n 1 is determined recursively by constructing a 
+... generation of rosary permutations expressed in hamiltonian circuits systematic generation of a specific class of permutations fundamental to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2749
+significant event simulation this paper compares a new method of simulation organization called the significant event method with 
+... the significant event method is found to be more efficient than the clock pulse method at low levels 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1619
+in the present paper methods are described which are error free simple in concept and usually less costly 
+... error free methods for statistical computations neely has discussed ***computational*** error generated by some ***algorithms*** used to compute 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3055
+an analysis of ***algorithms*** for the dutch national flag problem solutions to the dutch national flag problem have 
+... dijkstra starts with a simple program and arrives at an improved program by refinement 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2454
+***computational*** ***algorithms*** for closed queueing networks with exponential servers methods are presented for computing the equilibrium distribution of 
+... the ***computational*** ***algorithms*** are based on two dimensional iterative techniques which are highly efficient and quite simple to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1650
+a unifying ***computational*** method for the analysis of complete factorial experiments a ***computational*** method which may be used 
+... the following variants are discussed 1 the standard analysis of variance 2 analyses omitting certain levels of one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1658
+computer experiments still provide little hope of solving problems with over 100 variables with a reasonable amount of 
+... analysis of ***algorithms*** for the zero one programming problem this paper is concerned with a review and examination 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2226
+further evidence for the analysis of ***algorithms*** for the zero one programming problem the purpose of this note 
+... operations research integer programming zero one variables ***algorithms*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1309
+use of two special languages extract and matran permits selective extraction of any data subset efficient processing through 
+... a computer user oriented system a computer language system has been developed which makes possible fast preparation of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2927
+some new upper bounds on the generation of prime numbers given an integer n what is the ***computational*** 
+... use of preprocessing techniques involving space time and additive multiplicative tradeoffs reduces this upper bound to onlog logn 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3070
+hybrid simulation models of computer systems this paper describes the structure and operation of a hybrid simulation model 
+... in an example based on a simple hypothetical computer system discrete event simulation is used to model the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3032
+***algorithms*** for accomplishing this delivery through a store and forward packet switching computer network include 1 transmission of 
+... to this list of ***algorithms*** we add 6 reverse path forwarding a broadcast routing method which exploits routing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3037
+the algorithm executes in time proportional to n assuming that multiplication of integers not larger than n can 
+... a linear sieve algorithm for finding prime numbers a new algorithm is presented for finding all primes between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3131
+focus has the wide ranging character of floating point numbers with a uniformity of state distributions that give 
+... focus computations are typically five times faster than single precision fixed point or integer arithmetic for a mixture 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2251
+weighted increment linear search for scatter tables a new linear search for hash tables whose increment step is 
+... linear search weighted increment search scatter storage hash table key hash address clustering search length 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2953
+notes on recursion elimination various methods of recursion elimination are applied to the schematic recursive procedure proc sx 
+... procedures with this general form arise in connection with tree traversal and sorting ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3151
+an optimal real time algorithm for planar convex hulls an algorithm is described for the construction in real 
+... ***computational*** geometry convex hull planar set of points real time ***algorithms*** on line ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2746
+efficient string matching an aid to bibliographic search this paper describes a simple efficient algorithm to locate all 
+... the number of state transitions made by the pattern matching machine in processing the text string is independent 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2916
+a fast string searching algorithm an algorithm is presented that searches for the location i of the first 
+... thus the algorithm has the unusual property that in most cases not all of the first i characters 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2766
+copying cyclic list structures in linear time using bounded workspace a bounded workspace copying algorithm for arbitrary list 
+... the best previous bounded workspace copying ***algorithms*** achieved n2 time without tag bits and n log n time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2936
+an efficient data structure for the simulation event set recently ***algorithms*** have been presented for the realization of 
+... first the new ***algorithms*** performance is quite insensitive to skewed distributions and second its worst case ***complexity*** is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1957
+the list set generator a construct for evaluating set expressions the list set generator is defined and ***algorithms*** 
+... the list set generator is a construct which may be added to a list processing system or any 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2365
+matrix computations with fortran and paging the ***efficiency*** of conventional fortran programs for matrix computations can often be 
+... such modifications produce modest savings in many common situations and very significant savings for large problems run under 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2950
+a unifying approach to scheduling this paper presents a scheme for classifying scheduling ***algorithms*** based on an abstract 
+... a criterion for the implementation ***efficiency*** of an algorithm is developed and results in the definition of time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3040
+an algorithm is developed that can achieve any level of consistency desired in order to preprocess the problem 
+... synthesizing constraint expressions a constraint network representation is presented for a combinatorial search problem finding values for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2679
+some performance tests of quicksort and descendants detailed performance evaluations are presented for six acm ***algorithms*** quicksort no 
+... sorting in place sorting sorting ***efficiency*** sorting performance tests quicksort quickersort qsort shellsort stringsort treesort3utility sort algorithm general 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2903
+in particular it is shown how the fast linear pattern matching algorithm of knuth morris and pratt can 
+... improving programs by the introduction of recursion a new technique of program transformation called recursion in troduction is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3166
+computing standard deviations accuracy four ***algorithms*** for the numerical computation of the standard deviation of unweighted sampled data 
+... we conclude that all four ***algorithms*** will provide accurate answers for many problems but two of the ***algorithms*** 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2169
+the altran system for rational function manipulation a survey altran is a complete system for symbolic computation with 
+... considerable effort has been spent to ensure a minimum amount of machine dependence in the implementation thus permitting 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1462
+proper division of responsibility between levels leads to greater ***efficiency*** and less logical ***complexity*** while actually enhancing capability 
+... multilevel operating systems the basic software for all newer computers is built on the well established need for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2665
+that result demonstrates that marking can be done in average time nlogn without the aid of supplemental tag 
+... any noncyclic structure is copied in linear speed while cyclic structures are copied in average time less than 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2855
+an efficient list moving algorithm using constant workspace an efficient algorithm is presented for moving arbitrary list structures 
+... list moving list copying lisp space ***complexity*** constant workspace 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3150
+just as high level languages enabled the programmer to escape from the intricacies of a machines order code 
+... beyond programming languages as computer technology matures our growing ability to create large systems is leading to basic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3163
+insertion one sided height balanced trees height balanced trees binary trees search trees 
+... an optimal insertion algorithm for one sided height balanced binary search trees an algorithm for inserting an element 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2695
+consider the class of sparse matrices which can be tridiagonalized using only row and corresponding column permutations 
+... tridiagonalization by permutations tridiagonalizing a matrix by similarity transformations is an important ***computational*** tool in numerical linear algebra 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1350
+in section 2 the augmented predictive analyzer as a parsing algorithm for arbitrary context free languages is compared 
+... the augmented predictive analyzer for context free languages its relative ***efficiency*** it has been proven by greibach that 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2645
+two languages for estimating program ***efficiency*** two languages enabling their users to estimate the ***efficiency*** of computer programs 
+... programming languages syntax directed translation symbolic manipulation program ***efficiency*** analysis of ***algorithms*** 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2033
+the reduction in space is accomplished by exploiting the possibility that a small fraction of errors of commission 
+... the ***computational*** factors considered are the size of the hash area space the time required to identify a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3057
+this is equivalent to placing k1 linearly ordered objects of different sized one by one into k2 linearly 
+... optimal his togram matching by monotone gray level transformation this paper investigates the problem of optimal his togram 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2828
+hierarchical geometric models for visible surface ***algorithms*** the geometric structure inherent in the definition of the shapes of 
+... fourth frame to frame coherence and clipping define a graphical working set or fraction of the total structure 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1572
+the simulation of time sharing systems the development of new large scale time sharing systems has raised a 
+... for the sake of ***efficiency*** and greater applicability the model was implemented in a limited fortran subset that 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1886
+once all the factors have been ascertained a sequencing procedure is applied which orders the factors and expressions 
+... generation of optimal code for expressions via factorization given a set of expressions which are to be compiled 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2524
+after closest in terms of a metric on the the key space is suitably defined three file structures 
+... some approaches to best match file searching the problem of searching the set of keys in a file 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2313
+block cylinder device field extent file page record physical record logical record track volume entity set entity class 
+... the evolution of storage structures data base management systems have grown rapidly in their power and ***complexity*** over 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2092
+a deductive question answer for natural language inference the question answering aspects of the protosynthex iii pro totype 
+... question answering natural language protosynthex iii lisp semantics artificial intelligence ***computational*** linguistics language processing fact retrieval 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2628
+minimal total processing time drum and disk scheduling disciplines this article investigates the application of minimal total processing 
+... fixed head drum and moving head drum and moving head disk storage units are considered and emphasis is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3132
+pattern recognition pattern classification linear discriminants central hyperplanes centering centrality criteria dead zone hyperplane linearly separable relaxation algorithm 
+... experiments with some ***algorithms*** that find central solutions for pattern classification in two class pattern recognition it is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3007
+ca780306 jb march 28 1978 102 pm 
+... ***complexity*** of computations corrigendum cacm march 1978 rabin m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1706
+symbol manipulation string handling character manipulation conditional expressions procedures structure matching recursive programming quantifiers 4 
+... algol procedures can in turn be called by string procedures so that numeric and symbolic processes may conveniently 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1811
+it is shown that with proper programming solution time when n processors are applied approaches 1n times the 
+... communication between cooperating processors is by means of data in storage shared by all processors 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0719
+since these stacking operations can be made the basis of compiler decoding ***algorithms*** the proper use of machines 
+... variable width stacks character addressable variable field computers permit ready establishment and manipulation of variable width stacks 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2135
+***algorithms*** are developed for rapid computation of l q for a wide class of selections of q which 
+... rapid computation of general interpolation formulas and mechanical quadrature rules let f have n continuous on a closed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2389
+preliminary report on a system for general space planning a computer language and a set of programs within 
+... the language is an extension of algol and includes means to represent spaces and objects to manipulate them 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2955
+analyses of the in ternal fragmentation of the binary buddy system the fibonacci buddy system and the weighted 
+... dynamic storage allocation buddy system fragmentation fibonacci buddy system weighted buddy system 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3065
+further although both insertion and deletion can be carried out in o log n time for right brother 
+... dictionary problem search trees avl trees brother trees right balanced treesone sided height balanced trees insertion and deletion 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3118
+permutation of data blocks in a bubble memory a common internal organization of bubble memories consists of a 
+... a lower bound to the number of steps required buy a permutation algorithm is derived and the class 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0895
+a ***computational*** extension of the variate difference method presented here is a ***computational*** extension of the variate difference 
+... ca630325 jb march 14 1978 1257 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2081
+some complete calculi for matrices a matrix calculus is introduced with the intention of developing data structures suitable 
+... the paper investigates how the special structure of matrices can be described and utilized for efficient computing by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2035
+conversational access to a 2048 word machine lap6 is an on line system running on a 2048 word 
+... conversational computer access display editing display oriented system filing ***algorithms*** lap6 layering linc man machine communication on line 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2499
+efficient multiprogramming resource allocation and accounting although sometimes thought of as only a component of time sharing operation 
+... allocation of resources is closely connected to accounting for those resources raising the problems of repeatability minimal uncharged 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2030
+context sensitive grammars context sensitive parsing formal grammars formal language theory parsing parsing ***algorithms*** recognition ***algorithms*** 3 
+... context sensitive parsing this paper presents a canonical form for context sensitive derivations and a parsing algorithm which 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2627
+scheduling independent tasks to reduce mean finishing time sequencing to minimize mean finishing time or mean time in 
+... in addition to presenting and analyzing new ***algorithms*** it is shown that the most general mean finishing time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2289
+a major challenge in the effective use of cellular arrays for the solution of graph problems is the 
+... in this paper it is shown that cellular arrays are inherently well suited for the solution of many 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3153
+the control of response times in multi class systems by memory allocations the possibility of giving different quality 
+... initially a closed system consisting of a process or and paging and file devices with fixed numbers of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2435
+a class of dynamic memory allocation ***algorithms*** anew dynamic memory allocation algorithm the fibonacci system is introduced 
+... a generalization is mentioned which includes both of these systems as special cases 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3134
+the use of normal multiplication tables for information storage and retrieval this paper describes a method for the 
+... for a certain class of information systems the normal multiplication table method yields far more rapid retrieval with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0117
+ca601118 jb march 20 1978 651 pm 
+... an estimation of the relative ***efficiency*** of two internal sorting methods cacm november 1960 nagler h 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2111
+spelling correction in systems programs several specialized techniques are shown for efficiently incorporating spelling correction ***algorithms*** in to 
+... spelling correction error correction debugging compilers operating systems diagnostics error detection misspelling lexical analysis systems programming 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1265
+on the relative efficiencies of context free grammar recognizers a number of diverse recognition procedures that have been 
+... several ***algorithms*** for producing grammars equivalent to a given context free grammar have been considered and the increase 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2701
+a fast and usually linear algorithm for global flow analysis abstract only complete paper jacm 231 january 1976 
+... global flow analysis data flow code optimization common subexpression elimination live dead analysis information propagation flow graph reducibility 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0149
+a decision rule for improved ***efficiency*** in solving linear programming problems with the simplex algorithm cacm september 1960 
+... ca600908 jb march 20 1978 843 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2508
+6 ca730512 jb january 23 1978 435 pm 
+... increasing the ***efficiency*** of quicksort algorithm r402 cacm may 1973 wheeler r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1465
+for a compiler to have a substantial useful life it needs a clear logical structure reliability and sound 
+... a compiler must be based on fixed conventions to preserve ***efficiency*** and reliability empty options and default conventions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1491
+the structure of a language is defined by a phrase structure syntax the meaning in terms of the 
+... euler a generalization algol and its formal definition part i a method for defining programming languages is developed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1404
+***computational*** aspects of multiple covariance analysis on a multifactor structure the ***computational*** procedure for the analysis of multiple 
+... a special operator calculus developed by hartly for programming analysis of variance for multifactor experiments is extended to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0321
+remarks are based on the authors interpretations of the algol 60 report 
+... however experience has shown that once the report is explained it is in fact easy to learn algol 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0164
+ca600802 jb march 20 1978 902 pm 
+... a short study of notation ***efficiency*** cacm august 1960 smith jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0267
+some proposals for improving the ***efficiency*** of algol 60 cacm november 1961 wilkes m 
+... ca611101 jb march 151978 1101 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0598
+the cobol librarian a key to object program ***efficiency*** many answers to the question how may a cobol 
+... ca620507 jb march 20 1978 150 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1708
+a note on the ***efficiency*** of a lisp computation in a paged machine the problem of the use 
+... storage management list processor implementation lisp paging secondary storage utilization ***efficiency*** of paged computation 3 

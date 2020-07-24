@@ -1,0 +1,401 @@
+
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3139
+finally an exact ***method*** is given which performs better than the randall brown algorithm and is able to 
+... new methods to color the vertices of a ***graph*** this paper describes efficient new ***heuristic*** methods to color 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3018
+as consequences of this relationship the keyword conflict problem and the edge clique cover problem are shown to 
+... covering edges by cliques with regard to keyword conflicts and intersection graphs kellerman has presented a ***method*** for 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3156
+computing connected components on parallel computers we present a parallel algorithm which uses n2 processors to ***find*** the 
+... simultaneous access to the same location is permitted for fetch instructions but not for store instructions 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1145
+git a ***heuristic*** program for testing pairs of directed line graphs for ***isomorphism*** given a pair of directed 
+... since a straightforward enumerative algorithm might require 40 years of running time on a very high speed computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2177
+algorithm block block cutpoint tree cutnode fundamental cycle set ***graph*** lobe lobe ***decomposition*** ***graph*** separable spanning tree web 
+... if w denotes the word length of the machine employed the storage in machine words required for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1504
+***algorithms*** for finding a fundamental set of cycles for an undirected linear ***graph*** given the adjacency ***matrix*** of 
+... for graphs with a large number of nodes and edges when storage is limited our algorithm is superior 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2289
+a major challenge in the effective use of cellular arrays for the solution of ***graph*** problems is the 
+... in this paper it is shown that cellular arrays are inherently well suited for the solution of many 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3040
+an algorithm is developed that can achieve any level of consistency desired in order to preprocess the problem 
+... synthesizing constraint expressions a constraint network representation is presented for a combinatorial search problem finding values for a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2883
+some experimental results are given these show how various information about the shape of the contour of an 
+... picture processing pattern recognition edge detection contour detection contour following optimization problems dynamic programming shortest path ***heuristic*** search 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2490
+efficient ***algorithms*** for ***graph*** manipulation h algorithm a447 efficient ***algorithms*** are presented for partitioning a ***graph*** into connected 
+... if v is the number of vertices and e is the number of edges each algorithm requires time 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1839
+***singular*** value ***decomposition*** of a complex ***matrix*** algorithm 358 f1 45 cacm october 1969 businger p 
+... ***singular*** values ***matrix*** ***decomposition*** least squares solution pseudoinverse 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2630
+on computing sets of shortest paths in a ***graph*** two ***algorithms*** are presented that construct the k shortest 
+... these ***algorithms*** generalize the floyd algorithm and the dantzig algorithm for finding the shortest path between every pair 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2619
+***graph*** ***coloring*** conditions for the existence of solutions to the timetable problem a necessary and sufficient condition is 
+... using some recent results that convert graphs with preconditions to graphs without them it is shown that the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2368
+***graph*** ***algorithms*** ***graph*** processing shannon switching games game playing ***graph*** theory positional games demonstration programs game theory spinning 
+... an implemented ***graph*** algorithm for winning shannon switching games in this tutorial paper a computer program which wins 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3164
+progressive acyclic digraphs a tool for database integrity a progressive acyclic digraph pad algorithm accepts are requests and 
+... experiments suggest that for large n the second is considerably faster though both are asymptotically onr where n 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2172
+41 ca710710 jb february 2 1978 432 pm 
+... ***graph*** plotter j6 algorithm 412 cacm july 1971 cermak j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2752
+generation of all the cycles of a ***graph*** from a set of basic cycles h algorithm 492 cacm 
+... 24 ca750601 jb january 9 1978 155 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2484
+a note on information organization and storage since the logical structure of a data base can be represented 
+... there are three important elements in this general construction ***method*** namely a set of binary relations an algorithm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2524
+after closest in terms of a metric on the the key space is suitably defined three file structures 
+... some approaches to best match file searching the problem of searching the set of keys in a file 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1961
+an efficient search algorithm to ***find*** the elementary circuits of a ***graph*** a theoretically most efficient search algorithm 
+... empirical bounds are presented relating the speed of the algorithm to the number of vertices and the number 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2877
+a program data flow analysis procedure the global data relationships in a program can be exposed and codified 
+... the procedure uses an interval ordered edge listing data structure and handles reducible and irreducible graphs indistinguishably 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2986
+operations on sparse relations various computations on relations boolean matrices or directed graphs such as the computation of 
+... for example how to compute operator precedence or wirth weber precedence relations in on2 steps is shown as 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1905
+the simplex ***method*** of linear programming using lu ***decomposition*** standard computer implementations of dantzigs simplex ***method*** for linear 
+... this paper gives the theoretical background for an implementation which is ***based*** upon the lu ***decomposition*** computed with 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1529
+***decomposition*** programming an analysis of ***matrix*** substructure a petroleum blending problem was analyzed in order to compare the 
+... in the course of the analysis a substructure was discovered which has relevance to the relative performance of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2763
+***graph*** basic cyclesfundamental cycle spanning tree vertex adjacency ***matrix*** 5 
+... 24 ca750504 jb january 9 1978 239 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1563
+a ***method*** for finding hamilton paths and knights tours the use of warnsdorffs rule for finding a knights 
+... ca670710 jb february 28 1978 828 am 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2430
+algorithm ***graph*** theory circuit search algorithm path search algorithm searching 3 
+... the elementary circuits of a ***graph*** h algorithm a459 cacm october 1973 syslom 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2408
+solving the biharmonic equation in a square a direct versus a semidirect ***method*** two methods for solving the 
+... the other ***method*** is iterative solving a poisson equation directly at each iteration 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1481
+ca660206d jb march 23 1978 730 pm 
+... ***graph*** plotter algorithm 278 j6 cacm february 1966 lloyd p 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2161
+ca710903 jb february 2 1978 224 pm 
+... an algorithm for the blocks and cutnodes of a ***graph*** corrigendum cacm september 1971 paton k 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2461
+ca730813 jb january 23 1978 1030 am 
+... ***graph*** plotter algorithm r412 cacm august 1973 watkins r 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2790
+ca750209 jb january 12 1978 254 pm 
+... the elementary circuits of a ***graph*** algorithm r459 cacm february 1975 syslo m 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2155
+in addition an implementation facility is described which could be part of a programming language which allows a 
+... toward an understanding of data structures this paper presents a notation and formalism for ***describing*** the semantics of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3124
+one of the approaches is used to define an apl array to be a recursive data structure equivalent 
+... an extension of apl is proposed that includes new primitive functions to manipulate the nesting level of arrays 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2195
+picture processing picture recognition picture description curve detection line detection edge detectionoptimal detection ***heuristic*** methods global recognition parallel 
+... the ***method*** described is suitable for parallel processing because the operations relative to each state can be computed 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1822
+shortest path forest with topological ordering algorithm h cacm november 1969 dial r 
+... shortest path tree network directed ***graph*** 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1983
+32 ca701007 jb february 10 1978 924 am 
+... spanning tree h algorithm 399 cacm october 1970 seppanen j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2052
+scheduling to reduce conflict in meetings conflicts in scheduling can be treated as defining an undirected linear ***graph*** 
+... each connected component of such a ***graph*** which can be found by an algorithm described by gotlieb and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2769
+a modification of warshalls algorithm for the transitive closure of binary relations an algorithm is given for computing 
+... the algorithm is similar to warshalls although it executes faster for sparse matrices on most computers particularly in 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2189
+every set of edges ek 1 ek k 3 k n 1 is determined recursively by constructing a 
+... generation of rosary permutations expressed in hamiltonian circuits systematic generation of a specific class of permutations fundamental to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2980
+the editing of picture segmentations using local analysis of graphs a major problem in picture processing is the 
+... the scheme is ***based*** on definitions of ***graph*** properties which are satisfied when a spurious region is present 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1847
+an algorithm for finding a fundamental set of cycles of a ***graph*** a fast ***method*** is presented for 
+... a spanning tree is grown and the vertices examined in turn unexamined vertices being stored in a pushdown 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2290
+predominator immediate predominator ***graph*** theory directed ***graph*** shortest path articulation connectivity program optimization optimizing compiler 4 
+... immediate predominators in a directed ***graph*** h algorithm a430 cacm august 1972 purdom jr 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1432
+incorporation of nonstandard inputoutput devices into fortran systems a fortran system may readily be modified to handle inputoutput 
+... this is done by providing a character handling subroutine suited to the nonstandard medium and arranged to be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1423
+a simple extension has been found to the conventional orthogonalization ***method*** for inverting non ***singular*** matrices which gives 
+... a simple algorithm for computing the generalized inverse of a ***matrix*** the generalized inverse of a ***matrix*** is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2925
+this surface to be composed of triangular tiles is constructed by separately determining an optimal surface between each 
+... optimal surface reconstruction from planar contours in many scientific and technical endeavors a three dimensional solid must be 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2695
+consider the class of sparse matrices which can be tridiagonalized using only row and corresponding column permutations 
+... tridiagonalization by permutations tridiagonalizing a ***matrix*** by similarity transformations is an important computational tool in numerical linear algebra 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2444
+cliques maximal complete subgraphs clusters backtracking algorithm branch and bound technique recursion 3 
+... finding all cliques of an undirected ***graph*** algorithm a457 cacm september 1973 bron c 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2934
+comment on computing the k shortest paths in a ***graph*** cacm august 1977 lawler e 
+... ***graph*** network shortest path algorithm ranking 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1935
+randomized binary search technique a mathematical model is developed for the mean and variance of the number of 
+... binary pattern file examination ***graph*** theory information retrieval mathematical model partitioning probabilistic ***method*** random sequencing search techniques tree 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2125
+a note on minimal length polygonal approximation to a digitized contour a ***method*** for extracting a smooth polygonal 
+... the ordered sequence of contour points and the connection ***graph*** of the image are first obtained by a 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3100
+rule induction knowledge acquisition partial matching interference ***graph*** matching learning induction knowledge representation informal retrieval abstraction generalization language 
+... several problems concerning the description of the training examples and the adequacy of interference matching are discussed and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2178
+a language extension for ***graph*** processing and its formal semantics a simple programming language extension graspe for processing 
+... ***graph*** processing programming language formal semantics directed ***graph*** lisp network data structure flowchart syntax language definition 4 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1899
+simplex ***method*** procedure employing lu ***decomposition*** algorithm 350 h cacm may 1969 bartels r 
+... simplex ***method*** linear programming lu ***decomposition*** round off errors computational stability 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2568
+the object of this paper is to generalize the definition of largest strongly connected subgraph to include the 
+... a ***graph*** formulation of a school scheduling algorithm the problem classically titled the examination schedule problem takes various 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2923
+this paper proposes a simple general ***method*** of high level data flow analysis that allows free use of 
+... high level data flow analysis in contrast to the predominant use of low level in termediate text high 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1791
+triangular factors of modified matrices algorithm 319 f1 cacm january 1968 green d 
+... 14 ca680102 jb february 23 1978 250 pm 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1934
+on arithmetic expressions and trees a description is given of how a tree representing the evaluation of an 
+... this representation reduces the choice of the best order of computation to a specific problem under the theory 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1828
+synchronization in a parallel accessed data base the following problem is considered given a data base which can 
+... parallel accessing parallel search file search data base synchronization locking deadlock 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1925
+another generalized technique consists of utilizing geometrical properties to determine the characteristics of straight lines drawn on the 
+... map contour map contour lines topological properties geometrical properties ***graph*** of contour map navigation 3 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2920
+when each process specifies its future needs by a flowchart of need defined steps a global approach to 
+... game interpretation of the deadlock avoidance problem the deadlock avoidance problem may be defined informally as the determination 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3008
+embeddings of graphs are used to model the loss of proximity involved in such storage schemes and an 
+... average loss of proximity is then considered and it is shown that arrays cannot be stored as linear 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3125
+global optimization by suppression of partial redundancies the elimination of redundant computations and the moving of invariant computations 
+... testing this algorithm has shown that its execution cost is nearly linear with the size of the program 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3172
+an algorithm for planning collision free paths among polyhedral obstacles this paper describes a collision avoidance algorithm for 
+... trajectories are found by searching a network which indicates for each vertex in the transformed obstacles which other 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2275
+the strategy which yielded success consisted of three essential points 1 fit the known experimental data by a 
+... integral equations of immunology the inversion of a particular integral equation of the first fredholm kind is the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1172
+conversion of limited entry decision tables to computer programs decision tables are useful for ***describing*** a set of 
+... ***algorithms*** that can efficiently convert the tables into computer programs will extend the usefulness of decision tables to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3138
+linear programming numerical linear algebra modified givens transformations linear programming test cases 5 5 
+... a mathematical programming updating ***method*** using modified givens transformations and applied to lp problems an efficient and numerically 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3153
+the control of response times in multi class systems by memory allocations the possibility of giving different quality 
+... initially a closed system consisting of a process or and paging and file devices with fixed numbers of 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2697
+numerical linear algebra linear systems toeplitz matrices tridiagonal matrices 5 5 
+... a fast ***method*** for solving a class of tridiagonal linear systems the solution of linear systems having real 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1456
+an important conclusion is that although lisp and other list processing languages are ideally suited for producing complex 
+... storage and retrieval of aspects of meaning in directed ***graph*** structures an experimental system that uses lisp to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1727
+object program reduction supervisor calls decreasing jump frequencies estimation control transfers estimation optimal program segmentation markov chain program 
+... one way of estimating frequencies of jumps in a program for the segmentation of a program it is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1947
+compilers data flow analysis dominance efficiency fortran ***graph*** theory loop structure machine instructions object code optimization redundancy elimination 
+... object code optimization methods of analyzing the control flow and data flow of programs during compilation are applied 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2015
+translator writing systems syntactic analysis floyd evans productions precedence grammars translator optimization merger algorithm minimum cost inverse arborescence 
+... a technique for generating almost optimal floyd evans productions for precedence grammars a technique is developed for generating 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2059
+a language for treating graphs a language for the representation of ***graph*** is described and the formulation of 
+... graphs oriented nonoriented multiple colored ***graph*** language extended algol operator precedence syntax driven compiler operation research network traffic 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2701
+a fast and usually linear algorithm for global flow analysis abstract only complete paper jacm 231 january 1976 
+... global flow analysis data flow code optimization common subexpression elimination live dead analysis information propagation flow ***graph*** reducibility 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2767
+simulation time flow mechanisms event list algorithm simulation time flow mechanisms event list algorithm simulation executive event scheduling 
+... a comparison of simulation event list ***algorithms*** four ***algorithms*** are considered which can be used to schedule events 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3037
+the algorithm executes in time proportional to n assuming that multiplication of integers not larger than n can 
+... a linear sieve algorithm for finding prime numbers a new algorithm is presented for finding all primes between 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3085
+an on algorithm for determining a near optimal computation order of ***matrix*** chain products this paper discusses the 
+... an on algorithm to ***find*** an order of computation which takes less than 25 percent longer than the 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2402
+pictorial pattern recognition phase problem x ray crystallography interactive graphics 3 
+... pictorial pattern recognition and the phase problem of x ray crystallography the availability of interactive three dimensional computer 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2819
+experiments in text file compression a system for the compression of data files viewed as strings of characters 
+... the analysis program attempts to ***find*** an optimal set of codes for representing substrings of the file 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-0492
+the probability distribution of the displacement of records from their calculated address which is one less than the 
+... analysis of a file addressing ***method*** this paper presents a new file addressing ***method*** ***based*** on the calculation 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2213
+roots of ***matrix*** pencils the generalized ***eigenvalue*** problem f2 algorithm 405 cacm february 1971 dell a 
+... eigenvalues ***matrix*** roots pencil roots 5 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2081
+some complete calculi for matrices a ***matrix*** calculus is introduced with the intention of developing data structures suitable 
+... the paper investigates how the special structure of matrices can be described and utilized for efficient computing by 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3032
+***algorithms*** for accomplishing this delivery through a store and forward packet switching computer network include 1 transmission of 
+... to this list of ***algorithms*** we add 6 reverse path forwarding a broadcast routing ***method*** which exploits routing 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3054
+implementing quicksort programs this paper is a practical study of how to implement the quicksort sorting algorithm and 
+... a variety of special situations are considered from a practical standpoint to illustrate quicksorts wide applicability as an 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1721
+plane curves intersection points intersections plane curves integration differential equations ***matrix*** iteration ***singular*** points nonlinear differential equations eigenvalues 
+... determination of the intersection points of two plane curves by means of differential equations a new ***method*** is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3132
+pattern recognition pattern classification linear discriminants central hyperplanes centering centrality criteria dead zone hyperplane linearly separable relaxation algorithm 
+... experiments with some ***algorithms*** that ***find*** central solutions for pattern classification in two class pattern recognition it is 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2094
+on an algorithm for nonlinear minimax approximation certain nonlinear minimax approximation problems are characterize d by properties which 
+... examples are given to illustrate that this algorithm can give satisfactory results and in particular can successfully solve 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2266
+a highly parallel algorithm for approximating all zeros of a polynomial with only real zeros an algorithm is 
+... the algorithm which is conceptually suitable for parallel computation determines its own starting values so that convergence to 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2453
+information theory applied to the conversion of decision tables to computer programs using ideas from information theory this 
+... the ***method*** is applicable to any limited entry decision table and does not require that actions have single 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2273
+conversion of decision tables by rule mask ***method*** without rule mask two ***algorithms*** for generating computer programs from 
+... execution time can be considerably reduced by instantly marking rules which are not applicable ***algorithms*** 1 and 2 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3131
+focus has the wide ranging character of floating point numbers with a uniformity of state distributions that give 
+... focus computations are typically five times faster than single precision fixed point or integer arithmetic for a mixture 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2523
+the resulting map is cleaned by comparing the region colors with the textures of the corresponding regions in 
+... a region ***coloring*** technique for scene analysis a ***method*** of converting a picture into a cartoon or map 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2856
+an optimal program with respect to average execution time or storage space for example is located only through 
+... using this approach the efficiency of creating an optimal program is increased substantially permitting generation of optimal programs 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1350
+in section 2 the augmented predictive analyzer as a parsing algorithm for arbitrary context free languages is compared 
+... the augmented predictive analyzer for context free languages its relative efficiency it has been proven by greibach that 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2942
+patterns snobol 4 pattern matching string processing pattern implementation ***algorithms*** in pascal 4 
+... an algol ***based*** implementation of snobol 4 patterns cacm july 1977 brownlee j 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-3152
+storage reorganization techniques for ***matrix*** computation in a paging environment in order to multiply matrices while minimizing the 
+... this also makes possible the derivation of an asymptotically better bound for multiplication of matrices given in row 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-1029
+a simple automatic derivative evaluation program a procedure for automatic evaluation of totalpartial derivatives of arbitrary algebraic functions 
+... it can be used as a quick reaction tool where the derivation of analytical derivatives is laborious and 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2890
+these models show that adaptive routing does not satisfy the necessary conditions for an optimal routing adaptive routing 
+... on quadratic adaptive routing ***algorithms*** two analytic models of a store and forward communications network are constructed one 
+==============================================================
+SNIPPET FOR DOCUMENT:  CACM-2606
+it is designed to approximate poles of small integer order in the solutions of the differential equations by 
+... the taylor series ***method*** and the new ***method*** are shown to be superior in speed and accuracy while 
